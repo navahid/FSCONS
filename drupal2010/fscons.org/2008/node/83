@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Interview: Niclas Nilsson | fscons.org 2008</title>
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/2008/misc/favicon.ico" type="image/x-icon" />
+    <link type="text/css" rel="stylesheet" media="all" href="/2008/modules/node/node.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="/2008/modules/system/defaults.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="/2008/modules/system/system.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="/2008/modules/system/system-menus.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="/2008/modules/user/user.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="/2008/sites/fscons.org.2008/themes/blix/style.css?j" />
+    </head>
+<body >
+<div id="container">
+  <div id="header">
+      <h1><a href="/2008/" title=""></a></h1>
+      <div class="slogan">October 24th - 26th @ IT-University Gothenburg</div>
+  </div>
+  <div id="navigation">
+                    </div>
+<hr class="low" />
+  <div id="content">
+    <div class="navigation"> <div class="breadcrumb"><a href="/2008/">Home</a></div> </div>
+                	<h2 class="page-title">Interview: Niclas Nilsson</h2>
+                <!-- start main content -->
+    <div class="entry"> 
+   
+  <p><a href="../speakers/?action=speaker&amp;id=14">Niclas Nilsson</a> who's talking about <a href="../events/?action=event&amp;id=30">Agile and Scrum</a> at <a href="http://fscons.org">FSCONS</a> has been interviewed.  <a href="../speakers/?action=speaker&amp;id=14"></a></p>
+<p><strong>For a little background, can you describe the general topic of your presentation and tell us what is new in the last few months?</strong></p>
+<p>The topic is how we work together in organizations, when it comes to developing software. Traditional ways fail way to often, and is more common than uncommon that the ones sponsoring the project didn't get what they need. The best way to develop software currently is in my opinion various variants of agile software development. Scrum in combination with Extreme Programming (XP) is one of the strongest combination for most organizations, but there are other important influences, such as Feature-Driven Development and Lean Software Development, that can make big impacts on the performance and quality of delivering business value in software development.</p>
+<p><strong>Can you give a summary of what you will present? Why should someone choose to come to your presentation?</strong></p>
+<p>I want everyone to leave with knowledge of what agile software development is and why it's so important in these days. I also want everyone to have an overview of the common building blocks of agile, and of course the value system it's all based upon.</p>
+<p><strong>Judging from your experience with Extreme Programming, does the paradigm work similarly good for the "all people in one office" approach compared to the usual free software model where people can sit all around and may not be awake at the same time?</strong></p>
+<p>The free software model has one big difference compared to Extreme Programming and other agile methods, and that is that in free software there are not many cases where there is a customer who really decides what needs to be done, in which order and how much money he or she is willing to spend.</p>
+<p>That means that in the free software world, people (normally) take the tasks that they care for and scratch their own itch. There are however free software developers who are employed to write free software (full time or part time), and then someone else may influence the priorities. So, when it comes to planning, I think it differs quite a lot.</p>
+<p>When it comes to practices, it becomes much more alike, and in some cases distributed developers even benefits more. Continuous integration and Test-Driven Development are common practices in free software, and that's very important when you have many people in the project and most of them don't know everything. An automated test suite that tells you when you screwed up existing behavior have extreme (pun intended) value. Pair programming is harder to achieve though, especially when people are not awake at the same time.</p>
+<p>Some practices makes a lot of sense for free software, some don't.</p>
+<p><strong>Seeing that Agile Development isn't exactly a brand new paradigm -- why do you think didn't people already realize it's advantages for many years ago?</strong></p>
+<p>Because people think software development is like building bridges or creating hardware (which annoys me a lot). In fact, it's quite the opposite. Or rather, it *can* be the opposite. It's called software for a reason, but people deliberately makes it hard to reap the benefits.</p>
+<p>Treating software development as hardware development leads to a huge upfront design, and very few people in the world can do that properly. And for it to make sense - the world needs to be stable from requirements to final release, and I don't see the world moving any slower or demanding less change and adaption.</p>
+<p>That said, a lot of successful have looked like traditional projects from the outside, but when you dig in, you find that they have been working very agile on the inside, often without their own organization understanding that they've broken the rules.<br />
+<strong>We'd like to see a discussion after your presentation on how to apply the Agile ideas to free software development. To get an appetizer of the discussion, what do you think that general software development can an have learned from free software way of doing it?</strong></p>
+<p>Distribution. A lot of large companies struggle hard to get distributed teams to work across the world and across time zones. Free software have proved that it can be done extremely well and very efficient, and that's one particular thing large companies should study closely.</p>
+<p><strong>How did you get involved in Free Software and in what way is it important to you?</strong></p>
+<p>I'm not sure I really am involved in the way I suspect you're suggesting. I'm engaged in many different idea sharing communities and I have a pragmatic mindset, but the common thing for all of my engagements is that I want to make software development more effective. Often, that means getting engaged in making the way of working much more collaborative, but just as often that means developing code in unorthodox ways. For me, it all comes down to not wasting precious time on meaningless things. I rather see that we increase our productivity and do more cool and useful things than wasting our time just because we don't reflect on the way we do things, and this goes for both free and non-free software. There are still a lot of things that the world is waiting for.</p>
+<p>I've never liked closed file formats and always gravitated towards the "use open standards and compete on implementations" thinking rather than the "close everything" style. But I have to admit to giving in when it came to music format. When I got my iPhone a year ago, I gave up and started using Apple Lossless because iTunes (on OS X) works so tremendously well. But I can't understand why people buy music from iTunes Store though. I want my music lossless and DRM-free, thank you.</p>
+<p>Maybe I didn't answer the question at all, but I guess my talk differs quite a bit from the majority of the talks. I'm sure I'll get heckled for not running a completely open OS on my main computer any more, but I guess I just have to take that this time. :-)</p>
+<p><strong>Maybe exactly this, your practical mindset, could render your talk very interesting. What would a completely Free OS have to offer in comparison to OS X to make you switch to 'completely open'?</strong></p>
+<p>A higher focus on productivity. I ran Linux on the desktop for many years, but the reason I switched was that I got tired of X in the end. I found that I spent too much time fixing small annoyances. Running it on a laptop didn't help either, since that's where you find most hardware incompatibilities.</p>
+<p>OS X always second guesses me, and tries to automate many things, and it's almost always right. It does what I would have done anyway. There is another huge operating system that tries to do the same, but when that OS guess what I would do, it's most often utterly wrong. The old Mac cliché "it just works" is actually true.</p>
+<p>The other part is that OS X developers cares a lot both about productivity and about shiny, good looking things, and I like shiny things. Most apps are very slick and minimalistic, and they do what they do with as few keypresses (or clicks, if you're a mouse person) as humanly possible. And I like that.</p>
+<p>So, that means that there is nothing that would stop a free OS from being my next OS, as long as it beats the productivity I get with OS X (and I would absolutely welcome that!).</p>
+<p><strong>Is there any other particular presentation you'll be going to? Why is that topic of interest?</strong></p>
+<p>"Squeezing the Evil out of the Music Industry" by John Buckman interests me a lot. Creative Commons in general interests me a lot actually, not just for music. Mashups are a very interesting way of developing software services nowadays, and creative commons plays a major role there. I'm also curious about Katja Henttonen's talk on "Collaborative development of free software models"</p>
+   
+  <p class="info">Posted in <ul class="links inline"><li class="taxonomy_term_1 first last"><a href="/2008/taxonomy/term/1" rel="tag" title="uncategorized">Uncategorized</a></li>
+</ul> <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/2008/user/login?destination=comment%2Freply%2F83%23comment-form">Login</a> to post comments</span></li>
+</ul></p>
+   <small></small>
+   
+</div>
+
+<hr class="low" />    <!-- end main content -->
+  </div>
+  <div id="subcontent">
+    <div id="block-user-0" class="block block-user">
+  <h2>User login</h2>
+
+  <div class="content">
+    <form action="/2008/node/83?destination=node%2F83"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
+<div class="item-list"><ul><li class="first last"><a href="/2008/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-cc008cd7497f9d1915e2f642228209f0" value="form-cc008cd7497f9d1915e2f642228209f0"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+  </div>
+</div>
+<div id="block-blog-0" class="block block-blog">
+  <h2>Recent blog posts</h2>
+
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="/2008/node/87">Live Video Streams</a></li>
+<li><a href="/2008/node/85">Certificate assurance session for cacert.org certificates on FSCONS 2008</a></li>
+<li><a href="/2008/node/84">Niclas Nilsson has been interviewed</a></li>
+<li><a href="/2008/node/81">Interview: Johan Eklund and Tham Wickenberg</a></li>
+<li><a href="/2008/node/80">13 nominated for Nordic Free Software Award</a></li>
+<li><a href="/2008/node/79">Secure communications with Open Source PKI</a></li>
+<li><a href="/2008/node/78">Openmoko Code Sprint</a></li>
+<li><a href="/2008/node/75">Fredrik Jonsson interview on Ubuntu deployment</a></li>
+<li><a href="/2008/node/73">Interview: Magnus Hagander</a></li>
+<li class="last"><a href="/2008/node/71">Jeremiah Foster interviewed</a></li>
+</ul></div><div class="more-link"><a href="/2008/blog" title="Read the latest blog entries.">more</a></div>  </div>
+</div>
+   </div>
+ <hr class="low" />
+  <div id="footer">
+             Design by <a href="http://www.arvoriad.com">Arvoriad Consulting</a>.
+  </div>
+</div>
+</body>
+</html>

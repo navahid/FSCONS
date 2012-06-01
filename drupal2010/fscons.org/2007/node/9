@@ -1,0 +1,111 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Scandinavian Free Software Award | fscons.org 2007</title>
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/2007/misc/favicon.ico" type="image/x-icon" />
+    <link type="text/css" rel="stylesheet" media="all" href="/2007/modules/aggregator/aggregator.css?H" />
+<link type="text/css" rel="stylesheet" media="all" href="/2007/modules/node/node.css?H" />
+<link type="text/css" rel="stylesheet" media="all" href="/2007/modules/system/defaults.css?H" />
+<link type="text/css" rel="stylesheet" media="all" href="/2007/modules/system/system.css?H" />
+<link type="text/css" rel="stylesheet" media="all" href="/2007/modules/system/system-menus.css?H" />
+<link type="text/css" rel="stylesheet" media="all" href="/2007/modules/user/user.css?H" />
+<link type="text/css" rel="stylesheet" media="all" href="/2007/modules/forum/forum.css?H" />
+<link type="text/css" rel="stylesheet" media="all" href="/2007/sites/fscons.org.2007/themes/blix/style.css?H" />
+    </head>
+<body >
+<div id="container">
+  <div id="header">
+      <h1><a href="/2007/" title=""></a></h1>
+      <div class="slogan"></div>
+  </div>
+  <div id="navigation">
+              <ul class="links primary-links"><li class="menu-152 first"><a href="/2007/node/14" title="Scandinavian Free Software Award 2007">Award</a></li>
+<li class="menu-144"><a href="/2007/node/1" title="The Idea">about</a></li>
+<li class="menu-145"><a href="/2007/node/2" title="Schedule (Preliminary)">programme</a></li>
+<li class="menu-146"><a href="/2007/node/3" title="Dev Rooms">dev rooms &amp; seminars</a></li>
+<li class="menu-147 active-trail"><a href="/2007/award-winner" title="Scandinavian Free Software Award">award</a></li>
+<li class="menu-148"><a href="/2007/node/5" title="Arriving in Göteborg">practical info</a></li>
+<li class="menu-149"><a href="/2007/node/6" title="Propose an event">you</a></li>
+<li class="menu-150 last"><a href="/2007/node/7" title="Registration">registration</a></li>
+</ul>      </div>
+<hr class="low" />
+  <div id="content">
+    <div class="navigation"> <div class="breadcrumb"><a href="/2007/">Home</a></div> </div>
+                	<h2 class="page-title">Scandinavian Free Software Award</h2>
+                <!-- start main content -->
+    <div class="entry"> 
+   
+  <p>(Winner of the award 2007 is presented <a href="/2007/award-winner">here</a>)<br />
+&nbsp;<br />
+We would like to announce that the poll for submitting nominations is now closed. Thank you to all of you who took their time and made their submissions. Following, in no particular order, is the list of all the people, organisations and projects that recieved a nomination:</p>
+<p>1. Ole Tange<br />
+2. Henrik Nordstr&ouml;m/Squid<br />
+3. Mats &Ouml;stling</p>
+<p>4. IT-Political Association<br />
+5. Cfengine<br />
+6. Lars Magne/GNUS<br />
+7. Skolelinux (DebianEdu)<br />
+8. Trolltech<br />
+9. eZ Publish<br />
+10. Stiftelsen &Aring;pne kontorprogram p&aring; norsk</p>
+<p>11. &Oslash;yvind Kol&aring;s/GEGL<br />
+12. Linpro<br />
+13. Bj&oslash;rn Venn<br />
+14. Ake Hedman/ VSCP<br />
+15. Martin Andersson/ BLHTML<br />
+16. Erik Josefsson<br />
+17. Keld Simonsen</p>
+<p>18. Simon Josefsson<br />
+19. Daniel Stenberg<br />
+20. Linuxportalen/ Jonas Bj&ouml;rk<br />
+&nbsp;<br />
+The Scandinavian Free Software Award has been designed for Nordic citizens, projects or organisations that make an outstanding contribution to the Free Software movement. Free Software projects, efforts, achievements of all kinds - including work done by Nordic citizens which has had a large effect in other parts of the world are eligible to be nominated. It is the aim of FSCONS that this award becomes an annual event.<br />
+<strong>Jury</strong><br />
+The award committee is compiled by Nordic citizens only. This year the members are:<br />
+- Anne &Oslash;stergaard (volunteer, Denmark)</p>
+<p>- Henrik Sandklef (FSFE, Sweden)<br />
+- Jonas &Ouml;berg (FSFE, Sweden)<br />
+- Marcus Rej&aring;s (FSFE, Sweden)<br />
+- Mathias Klang (FSFE, Sweden)<br />
+- Petter Reinholdtsen (volunteer, Norway)<br />
+<strong>Award Party</strong><br />
+The award ceremony will take place in Lindholmen, K&aring;rhus at FSCONS on Friday, December 7th, 19.00. Join us and see who will receive the honor of being most influential in the Nordic region.</p>
+
+   
+</div>
+
+<hr class="low" />    <!-- end main content -->
+  </div>
+  <div id="subcontent">
+    <div id="block-user-0" class="block block-user">
+  <h2>User login</h2>
+
+  <div class="content">
+    <form action="/2007/award?destination=node%2F9"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
+<div class="item-list"><ul><li class="first last"><a href="/2007/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-102bebfcb9d34bdf2a1a76b3b8e52a71" value="form-102bebfcb9d34bdf2a1a76b3b8e52a71"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+  </div>
+</div>
+   </div>
+ <hr class="low" />
+  <div id="footer">
+             Design by <a href="http://www.arvoriad.com">Arvoriad Consulting</a>.
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,163 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Christopher Kullenberg | FSCONS.org</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/2009/misc/favicon.ico" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="/2009/modules/aggregator/aggregator.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="/2009/modules/node/node.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="/2009/modules/poll/poll.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="/2009/modules/system/defaults.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="/2009/modules/system/system.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="/2009/modules/system/system-menus.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="/2009/modules/user/user.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="/2009/sites/all/themes/ninesixtyrobots/css/reset.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="/2009/sites/all/themes/ninesixtyrobots/css/960.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="/2009/sites/all/themes/ninesixtyrobots/css/main.css?G" />
+  <script type="text/javascript" src="/2009/misc/jquery.js?G"></script>
+<script type="text/javascript" src="/2009/misc/drupal.js?G"></script>
+<script type="text/javascript" src="/2009/sites/all/modules/rounded_corners/jquery.corner.js?G"></script>
+<script type="text/javascript" src="/2009/sites/all/themes/ninesixtyrobots/js/jquery.autofill.js?G"></script>
+<script type="text/javascript" src="/2009/sites/all/themes/ninesixtyrobots/js/javascript.js?G"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/2009/" });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(function(){ // shorthand for $(document).ready() 
+$(".daysleft").corner("round 10px");
+ });
+//--><!]]>
+</script>
+  <script type="text/javascript"> </script>
+</head>
+  <body>
+
+    <!-- header starts-->
+    <div id="header-wrap">
+      <div id="header" class="container_16">
+       <a href="/">
+	        <div id="header-main">
+        	   <p id="slogan">Random Tweet: <a href="http://twitter.com/.kotaksampah:">@.kotaksampah:</a> <a href="http://t.co/mH7xx3IE">http://t.co/mH7xx3IE</a> #xmpp #jquery #fscons #berlin #huouse #google <a href="http://t.co/yBCicbx6">http://t.co/yBCicbx6</a></p>	        </div><!-- navigation -->
+	</a>
+        <div id="nav">
+          <ul class="links primary-links"><li class="menu-314 first"><a href="/2009/about" title="About">About</a></li>
+<li class="menu-347"><a href="/2009/award" title="Nordic Free Software Award">Award</a></li>
+<li class="menu-312"><a href="/2009/node/34" title="Satellite events">Satellites</a></li>
+<li class="menu-318"><a href="/2009/donate" title="Donate">Donate</a></li>
+<li class="menu-280"><a href="/2009/schedule" title="Schedule">Schedule</a></li>
+<li class="menu-283"><a href="/2009/practical-information" title="">Practical Info</a></li>
+<li class="menu-313"><a href="/2009/sponsors" title="Sponsors">Sponsors</a></li>
+<li class="menu-279"><a href="/2009/helping" title="Help FSCONS">Help FSCONS</a></li>
+<li class="menu-344"><a href="/2009/register" title="Registration">Register</a></li>
+<li class="menu-352 last"><a href="http://live.fscons.org/" title="">LIVE</a></li>
+</ul>        </div>
+              </div>
+    </div>
+    <!-- header ends here -->
+    
+    <!-- content starts -->
+    <div id="content-wrapper" class="container_16">
+
+      <div id="breadcrumb" class="grid_16"><div class="breadcrumb"><a href="/2009/">Home</a> » Christopher Kullenberg</div></div>
+
+      <!-- main -->
+      <div id="main" class="grid_12">
+        <h1 class="title" id="page-title">Christopher Kullenberg</h1>                                <div id="content-output"> 
+          <div id="node-67" class="node post clear-block">
+
+
+
+  <div class="meta post-info">
+  
+    </div>
+
+  <div class="content">
+    <p><strong>Citizen's Agenda: Net Neutrality, Surveillance and how to Re-build Politics</strong></p>
+<p><img src="/files/telecomix-0.png" style="float: left; border: none;" />Net politics entails many different objectives and strategies. Also, modes of organization shape political strategies and possible ways of impacting legislation, infrastructure and technologies.</p>
+<p><img src="/files/julia.png" style="float: right; border: none;" />This presentation will re-think different strategies on how to promote an open internet. Right now there are several issues at stake, ranging from the debates on net neutrality in the Telecoms Package to surveillance by intelligence agencies and corporations. Different issues may require different strategies, and cross-over co-operation is necessary.</p>
+<p>Also, Kullenberg will introduce the work being done within the <a href="http://werebuild.eu">WeRebuild clusters</a> and the <a href="http://juliagruppen.se">Julia Group</a>, and the crucial question of how to participate, make new projects and co-operate over the internet.</p>
+  </div>
+
+  </div>        </div><!-- /#content-output -->
+      </div>
+      <!-- main ends here -->
+
+      <!-- sidebars starts here -->
+            <div id="sidebars" class="grid_4">
+
+        <!-- left sidebar starts here -->
+                <!-- left sidebar ends here -->
+
+        <!-- right sidebar starts here -->
+                <div class="grid_4 omega sidebar-right">
+          <div id="block-menu-primary-links" class="block block-menu">
+  <h3 class="title">Menu</h3>
+
+  <div class="content">
+    <ul class="menu"><li class="collapsed first"><a href="/2009/about" title="About">About</a></li>
+<li class="leaf"><a href="/2009/award" title="Nordic Free Software Award">Award</a></li>
+<li class="collapsed"><a href="/2009/node/34" title="Satellite events">Satellites</a></li>
+<li class="leaf"><a href="/2009/donate" title="Donate">Donate</a></li>
+<li class="leaf"><a href="/2009/schedule" title="Schedule">Schedule</a></li>
+<li class="collapsed"><a href="/2009/practical-information" title="">Practical Info</a></li>
+<li class="leaf"><a href="/2009/sponsors" title="Sponsors">Sponsors</a></li>
+<li class="leaf"><a href="/2009/helping" title="Help FSCONS">Help FSCONS</a></li>
+<li class="leaf"><a href="/2009/register" title="Registration">Register</a></li>
+<li class="leaf last"><a href="http://live.fscons.org/" title="">LIVE</a></li>
+</ul>  </div>
+</div><div id="block-node-0" class="block block-node">
+  <h3 class="title">Syndicate</h3>
+
+  <div class="content">
+    <a href="/2009/rss.xml" class="feed-icon"><img src="/2009/misc/feed.png" alt="Syndicate content" title="Syndicate" width="16" height="16" /></a>  </div>
+</div>        </div>
+                <!-- right sidebar ends here -->
+
+      </div>
+            <!-- sidebars end here -->
+
+    </div>
+    <!-- content ends here -->
+
+    <!-- footer starts here -->
+    <div id="footer-wrapper" class="container_16">
+
+      <!-- footer top starts here -->
+      <div id="footer-content">
+
+        <!-- footer left starts here -->
+        <div class="grid_8" id="footer-left">
+                  </div>
+        <!-- footer left ends here -->
+
+        <!-- footer right starts here -->
+        <div class="grid_8" id="footer-right">
+                  </div>
+        <!-- footer right ends here -->
+
+      </div>
+      <!-- footer top ends here -->
+
+      <!-- footer bottom starts here -->
+      <div id="footer-bottom">
+        <div id="footer-meta" class="clear-block">
+            
+                  </div>
+
+                <div id="footer-bottom-content">
+          <div id="block-system-0" class="block block-system">
+
+  <div class="content">
+    <a href="http://drupal.org"><img src="/2009/misc/powered-blue-80x15.png" alt="Powered by Drupal, an open source content management system" title="Powered by Drupal, an open source content management system" width="80" height="15" /></a>  </div>
+</div>        </div>
+              </div>
+      <!-- footer bottom ends here -->
+
+    </div>
+    <!-- footer ends here -->
+      </body>
+</html>
