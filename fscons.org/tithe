@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>FSCONS Tithe | FSCONS</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/all/themes/fscons/favicon.ico" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_642b25af260eb9fa5f1cbf8987ee9a9d.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_9931b52ca23ac7e024dedcbdd9578daf.css" />
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fscons/css/ie.css?K" />
+<![endif]-->
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fscons/css/ie6.css?K" />
+<![endif]-->
+  <script type="text/javascript" src="/sites/default/files/js/js_0ceeb0483fefa3bbaafd3f7cf8572eb5.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/" });
+//--><!]]>
+</script>
+</head>
+<body class="">
+
+      <div id="skip-link"><a href="#main-menu">Jump to Navigation</a></div>
+  
+  <div id="page-wrapper"><div id="page">
+
+    <div id="header"><div class="section clearfix">
+
+              <a href="/" title="Home" rel="home" id="logo"><img src="/sites/all/themes/fscons/logo.png" alt="Home" /></a>
+      
+              <div id="name-and-slogan">
+                                    <div id="site-name"><strong>
+                <a href="/" title="Home" rel="home"><span>FSCONS</span></a>
+              </strong></div>
+                      
+                      <div id="site-slogan">Free Society Conference<br />and Nordic Summit</div>
+                  </div><!-- /#name-and-slogan -->
+      
+      
+      
+              <div id="navigation"><!--div class="section clearfix"-->
+
+                            <!-- /div --></div><!-- /.section, /#navigation -->
+      
+
+
+    </div></div><!-- /.section, /#header -->
+
+    <div id="main-wrapper"><div id="main" class="clearfix no-sidebars">
+
+   <!-- This is the highlight region. --> 
+   
+      <div id="content" class="column"><div class="section">
+
+        
+                          <h1 class="title">FSCONS Tithe</h1>
+                                
+        
+        <div id="content-area">
+          <div id="node-284" class=" clearfix">
+  
+  
+  
+      <div class="meta">
+              <span class="submitted">
+          Submitted by <a href="/users/jonas" title="View user profile.">jonas</a> on Wed, 2011-08-24 23:35        </span>
+      
+          </div>
+  
+
+  <div class="content">
+    <p>The FSCONS tithe is 10% of the ticket price that we set aside in a fund to give as a donation to a project selected by a public vote during the conference. The focus will be on projects that relate to the three pillars of FSCONS as expressed in our <a href="http://wiki.fscons.org/page/FSCONS_Manifest">manifesto</a>; society, culture, and technology. Preferably the three of them in combination!</p>
+<p>Are you running a project that you think is eligible, or do you know of any other project which should benefit from the chance of getting 10% of the FSCONS ticket prices? Fill in the form below no later than the <strong>30th of October 2011</strong>. The project entries will be screened by the <a href="http://wiki.fscons.org/page/FSCONS_2011_Teams#Managing_team">management team</a> to ensure that the projects proposed are in the spirit of FSCONS. Winner of the FSCONS tithe will be announced on the Sunday evening social event.</p>
+<form action="/tithe"  accept-charset="UTF-8" method="post" id="webform-client-form-284" class="webform-client-form" enctype="multipart/form-data">
+<div><div class="webform-component webform-component-textfield" id="webform-component-project-name"><div class="form-item" id="edit-submitted-project-name-wrapper">
+ <label for="edit-submitted-project-name">Project Name: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="128" name="submitted[project_name]" id="edit-submitted-project-name" size="60" value="" class="form-text required" />
+</div>
+</div><div class="webform-component webform-component-textfield" id="webform-component-project-website"><div class="form-item" id="edit-submitted-project-website-wrapper">
+ <label for="edit-submitted-project-website">Project Website: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="128" name="submitted[project_website]" id="edit-submitted-project-website" size="60" value="" class="form-text required" />
+</div>
+</div><input type="hidden" name="details[sid]" id="edit-details-sid" value=""  />
+<input type="hidden" name="details[page_num]" id="edit-details-page-num" value="1"  />
+<input type="hidden" name="details[page_count]" id="edit-details-page-count" value="1"  />
+<input type="hidden" name="details[finished]" id="edit-details-finished" value="0"  />
+<input type="hidden" name="form_build_id" id="form-0e03b6b6dad753142db91459b3d88cc3" value="form-0e03b6b6dad753142db91459b3d88cc3"  />
+<input type="hidden" name="form_id" id="edit-webform-client-form-284" value="webform_client_form_284"  />
+<div id="edit-actions" class="form-actions form-wrapper"><input type="submit" name="op" id="edit-submit" value="Submit"  class="form-submit" />
+</div>
+</div></form>
+  </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/user/login?destination=comment%2Freply%2F284%23comment-form">Login</a> to post comments</span></li>
+</ul></div><!-- /.node -->
+        </div>
+
+        
+        
+      </div></div><!-- /.section, /#content -->
+
+
+      
+      
+    </div></div><!-- /#main, /#main-wrapper -->
+
+          <div id="footer"><div class="section">
+
+        
+        
+        <div class="region region-footer">
+    <div id="block-block-2" class="">
+  
+  <div class="content">
+    <!-- Piwik --><!-- Piwik --><script type="text/javascript">
+/* Ugly hack, made everything http /rik */
+var pkBaseURL = (("https:" == document.location.protocol) ? "http://piwik.ffkp.se/" : "http://piwik.ffkp.se/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 5);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><p><noscript>
+<p><img src="http://piwik.ffkp.se/piwik.php?idsite=5" style="border:0" alt="" /></p>
+<p></p></noscript></p>
+<!-- End Piwik Tracking Code --><!-- End Piwik Tracking Code -->  </div>
+
+  </div><!-- /.block -->
+</div><!-- /.region -->
+
+      </div></div><!-- /.section, /#footer -->
+    
+  </div></div><!-- /#page, /#page-wrapper -->
+
+  
+  
+</body>
+</html>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://fscons.org/2008"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>julipan&#039;s blog</title>
+ <link>http://fscons.org/2008/blog/5</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Live Video Streams</title>
+ <link>http://fscons.org/2008/node/87</link>
+ <description>&lt;p&gt;All of you who can&#039;t afford the time or money to visit this year&#039;s FSCONS will be pleased to know that you can follow the lectures from home. With help from the &lt;a href=&quot;http://giss.tv&quot;&gt;GISS&lt;/a&gt; team, particularly streaming gurus &lt;a href=&quot;http://ydegoyon.free.fr/&quot;&gt;Yves Degoyon&lt;/a&gt; and &lt;a href=&quot;http://encosianima.net/&quot;&gt;Valentina Messeri&lt;/a&gt;, we&#039;ll be able to show live video streams from most of the lectures.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://fscons.org/2008/node/87&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://fscons.org/2008/node/87#comments</comments>
+ <category domain="http://fscons.org/2008/taxonomy/term/1">Uncategorized</category>
+ <pubDate>Thu, 23 Oct 2008 23:40:59 +0000</pubDate>
+ <dc:creator>julipan</dc:creator>
+ <guid isPermaLink="false">87 at http://fscons.org/2008</guid>
+</item>
+<item>
+ <title>Certificate assurance session for cacert.org certificates on FSCONS 2008</title>
+ <link>http://fscons.org/2008/node/85</link>
+ <description>&lt;p&gt;During the Friday night&#039;s social event of fscons.org, a certificate assurance session for cacert.org certificates will be held.&lt;br /&gt;
+Please register an account before the session, if possible, at &lt;a href=&quot;http://cacert.org&quot;&gt;cacert.org&lt;/a&gt; so that you can print out and bring a prefilled CAP form. This will make the assurance process a lot smoother. Remember to bring a valid passport and/or a valid national identification card. Without any of the required tokens you cannot be assured.&lt;br /&gt;
+Of course we can sign eachother&#039;s GnuPG keys during the session too.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://fscons.org/2008/node/85&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://fscons.org/2008/node/85#comments</comments>
+ <category domain="http://fscons.org/2008/taxonomy/term/1">Uncategorized</category>
+ <pubDate>Wed, 22 Oct 2008 20:11:18 +0000</pubDate>
+ <dc:creator>julipan</dc:creator>
+ <guid isPermaLink="false">85 at http://fscons.org/2008</guid>
+</item>
+<item>
+ <title>Free Course in Remixing Video with Free Software</title>
+ <link>http://fscons.org/2008/node/69</link>
+ <description>&lt;p&gt;This weekend, I will hold a course entitled &quot;Editing and Remixing Video with Free Software&quot; in cooperation with &lt;a href=&quot;http://sensus.se&quot;&gt;Sensus&lt;/a&gt;, one of the many excellent adult education association in Sweden. Using the simple but powerful video editor &lt;a href=&quot;http://kdenlive.org&quot;&gt;Kdenlive&lt;/a&gt;, the participants will learn how to legally use freely licensed material to create their own music videos. The course will take place over two full days and is free of charge.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://fscons.org/2008/node/69&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://fscons.org/2008/node/69#comments</comments>
+ <category domain="http://fscons.org/2008/taxonomy/term/1">Uncategorized</category>
+ <pubDate>Mon, 29 Sep 2008 19:51:35 +0000</pubDate>
+ <dc:creator>julipan</dc:creator>
+ <guid isPermaLink="false">69 at http://fscons.org/2008</guid>
+</item>
+<item>
+ <title>Speech of the Day: VODO</title>
+ <link>http://fscons.org/2008/node/52</link>
+ <description>&lt;p&gt;One of the many talks we are looking forward to at FSCONS is &lt;a href=&quot;http://jamie.com&quot;&gt;Jamie King&#039;s&lt;/a&gt; presentation of the &lt;a href=&quot;http://vodo.net&quot;&gt;VODO&lt;/a&gt; project. VODO stands for VOluntary DOnations and is a technology that will make it easier to get monetary funding for Free Culture works when distributed through p2p services. Jamie was one of the main creators of &lt;a href=&quot;http://www.stealthisfilm.com&quot;&gt;Steal This Film&lt;/a&gt;, which was very successful in receiving donations, and in turn enabled them to make &lt;a href=&quot;http://www.stealthisfilm.com/Part2/&quot;&gt;Steal This Film 2&lt;/a&gt; even better.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://fscons.org/2008/node/52&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://fscons.org/2008/node/52#comments</comments>
+ <category domain="http://fscons.org/2008/taxonomy/term/1">Uncategorized</category>
+ <pubDate>Tue, 09 Sep 2008 16:00:38 +0000</pubDate>
+ <dc:creator>julipan</dc:creator>
+ <guid isPermaLink="false">52 at http://fscons.org/2008</guid>
+</item>
+</channel>
+</rss>
