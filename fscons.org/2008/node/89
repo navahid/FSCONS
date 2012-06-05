@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Speakers&#039; Slides | fscons.org 2008</title>
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/2008/misc/favicon.ico" type="image/x-icon" />
+    <link type="text/css" rel="stylesheet" media="all" href="/2008/modules/node/node.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="/2008/modules/system/defaults.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="/2008/modules/system/system.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="/2008/modules/system/system-menus.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="/2008/modules/user/user.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="/2008/sites/fscons.org.2008/themes/blix/style.css?j" />
+    </head>
+<body >
+<div id="container">
+  <div id="header">
+      <h1><a href="/2008/" title=""></a></h1>
+      <div class="slogan">October 24th - 26th @ IT-University Gothenburg</div>
+  </div>
+  <div id="navigation">
+                    </div>
+<hr class="low" />
+  <div id="content">
+    <div class="navigation"> <div class="breadcrumb"><a href="/2008/">Home</a></div> </div>
+                	<h2 class="page-title">Speakers&#039; Slides</h2>
+                <!-- start main content -->
+    <div class="entry"> 
+   
+  <p>Here you will find slides from the presentations that were held on FSCONS 2008 (sorted by time of submission).</p>
+<ul>
+<li><a href="http://fscons.org/files/slides/NEPOMUK-SocialSemanticDesktop-FSCONS2008.pdf">NEPOMUK - The Social Semantic Desktop</a> by Dr. Ansgar Bernardi</li>
+<li><a href="http://fscons.org/files/slides/Truth%20and%20Law.ppt">Truth and Law</a> by Stefan Larsson</li>
+<li><a href="http://fscons.org/files/slides/how_i_got_involved_in_debian-fscons08.odp">How I Got Involved in Debian</a> by Per Andersson (also <a href="http://fscons.org/files/slides/how_i_got_involved_in_debian-fscons08.pdf">available as PDF</a>)</li>
+<li><a href="http://fscons.org/files/slides/fscons-pki.odp">Secure communications with Open Source PKI</a> by Johan Eklund and Tham Wickenberg (also <a href="http://fscons.org/files/slides/fscons-pki.pdf">available as PDF</a>)</li>
+<li><a href="http://fscons.org/files/slides/agile-and-scrum-fscons-2008.pdf">Agile and Scrum</a> by Niclas Nilsson</li>
+<li><a href="http://www.slideshare.net/bergie/midgard-2-the-cloud-you-can-control-presentation/">Midgard 2 - The Cloud You Can Control</a> by Henri Bergius</li>
+<li><a href="http://jaromil.dyne.org/journal/fscons_2008.pdf">Free Software and the Freedom of Creation</a> by Denis Jaromil Rojo</li>
+<li><a href="http://fscons.org/files/slides/greatchanges-pres.pdf">Great Changes in Wikipedia</a> by Lars Aronsson</li>
+<li><a href="http://fscons.org/files/slides/free-culture-free-software-200810-fscons.odp">How far behind is free+open culture</a> by Mike Linksvayer</li>
+<li><a href="http://fscons.org/files/slides/future-of-digital-freedom-200810-fscons.odp">The Future of Digital Freedom</a> by Mike Linksvayer
+</li><li><a href="http://www.bag.org/bengt_gorden_fscons2008.pdf">Towards 10Gbps open-source routing</a> by Bengt Gördén</li>
+<li><a href="http://fscons.org/files/slides/gory_details_debian.odp">Debian and the gory details of packages</a> by Jeremiah C. Foster</li>
+<li><a href="http://fscons.org/files/slides/FOSS-AndTheDanishPublicSector-FSCONS-081026.odp">FOSS and the Danish Public Sector</a> by Morten Kristoffer Hansen (also <a href="http://fscons.org/files/slides/FOSS-AndTheDanishPublicSector-FSCONS-081026.pdf">available as PDF</a>)</li>
+</ul>
+   
+  <p class="info">Posted in <ul class="links inline"><li class="taxonomy_term_1 first last"><a href="/2008/taxonomy/term/1" rel="tag" title="uncategorized">Uncategorized</a></li>
+</ul> <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/2008/user/login?destination=comment%2Freply%2F89%23comment-form">Login</a> to post comments</span></li>
+</ul></p>
+   <small></small>
+   
+</div>
+
+<hr class="low" />    <!-- end main content -->
+  </div>
+  <div id="subcontent">
+    <div id="block-user-0" class="block block-user">
+  <h2>User login</h2>
+
+  <div class="content">
+    <form action="/2008/node/89?destination=node%2F89"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
+<div class="item-list"><ul><li class="first last"><a href="/2008/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-83c96483bfc8bc8ff67b602ea6214ef9" value="form-83c96483bfc8bc8ff67b602ea6214ef9"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+  </div>
+</div>
+<div id="block-blog-0" class="block block-blog">
+  <h2>Recent blog posts</h2>
+
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="/2008/node/87">Live Video Streams</a></li>
+<li><a href="/2008/node/85">Certificate assurance session for cacert.org certificates on FSCONS 2008</a></li>
+<li><a href="/2008/node/84">Niclas Nilsson has been interviewed</a></li>
+<li><a href="/2008/node/81">Interview: Johan Eklund and Tham Wickenberg</a></li>
+<li><a href="/2008/node/80">13 nominated for Nordic Free Software Award</a></li>
+<li><a href="/2008/node/79">Secure communications with Open Source PKI</a></li>
+<li><a href="/2008/node/78">Openmoko Code Sprint</a></li>
+<li><a href="/2008/node/75">Fredrik Jonsson interview on Ubuntu deployment</a></li>
+<li><a href="/2008/node/73">Interview: Magnus Hagander</a></li>
+<li class="last"><a href="/2008/node/71">Jeremiah Foster interviewed</a></li>
+</ul></div><div class="more-link"><a href="/2008/blog" title="Read the latest blog entries.">more</a></div>  </div>
+</div>
+   </div>
+ <hr class="low" />
+  <div id="footer">
+             Design by <a href="http://www.arvoriad.com">Arvoriad Consulting</a>.
+  </div>
+</div>
+</body>
+</html>

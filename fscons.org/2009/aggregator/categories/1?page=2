@@ -1,0 +1,500 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>fscons | FSCONS.org</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="FSCONS.org aggregator - fscons" href="/2009/aggregator/rss/1" />
+<link rel="shortcut icon" href="/2009/misc/favicon.ico" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="/2009/modules/aggregator/aggregator.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="/2009/modules/node/node.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="/2009/modules/poll/poll.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="/2009/modules/system/defaults.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="/2009/modules/system/system.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="/2009/modules/system/system-menus.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="/2009/modules/user/user.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="/2009/sites/all/themes/ninesixtyrobots/css/reset.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="/2009/sites/all/themes/ninesixtyrobots/css/960.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="/2009/sites/all/themes/ninesixtyrobots/css/main.css?G" />
+  <script type="text/javascript" src="/2009/misc/jquery.js?G"></script>
+<script type="text/javascript" src="/2009/misc/drupal.js?G"></script>
+<script type="text/javascript" src="/2009/sites/all/modules/rounded_corners/jquery.corner.js?G"></script>
+<script type="text/javascript" src="/2009/sites/all/themes/ninesixtyrobots/js/jquery.autofill.js?G"></script>
+<script type="text/javascript" src="/2009/sites/all/themes/ninesixtyrobots/js/javascript.js?G"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/2009/" });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(function(){ // shorthand for $(document).ready() 
+$(".daysleft").corner("round 10px");
+ });
+//--><!]]>
+</script>
+  <script type="text/javascript"> </script>
+</head>
+  <body>
+
+    <!-- header starts-->
+    <div id="header-wrap">
+      <div id="header" class="container_16">
+       <a href="/">
+	        <div id="header-main">
+        	   <p id="slogan">Random Tweet: #FSCONS 2012 Call for participation, that is! <a href="http://t.co/eV7drh7b">http://t.co/eV7drh7b</a> And nothing else!</p>	        </div><!-- navigation -->
+	</a>
+        <div id="nav">
+          <ul class="links primary-links"><li class="menu-314 first"><a href="/2009/about" title="About">About</a></li>
+<li class="menu-347"><a href="/2009/award" title="Nordic Free Software Award">Award</a></li>
+<li class="menu-312"><a href="/2009/node/34" title="Satellite events">Satellites</a></li>
+<li class="menu-318"><a href="/2009/donate" title="Donate">Donate</a></li>
+<li class="menu-280"><a href="/2009/schedule" title="Schedule">Schedule</a></li>
+<li class="menu-283"><a href="/2009/practical-information" title="">Practical Info</a></li>
+<li class="menu-313"><a href="/2009/sponsors" title="Sponsors">Sponsors</a></li>
+<li class="menu-279"><a href="/2009/helping" title="Help FSCONS">Help FSCONS</a></li>
+<li class="menu-344"><a href="/2009/register" title="Registration">Register</a></li>
+<li class="menu-352 last"><a href="http://live.fscons.org/" title="">LIVE</a></li>
+</ul>        </div>
+              </div>
+    </div>
+    <!-- header ends here -->
+    
+    <!-- content starts -->
+    <div id="content-wrapper" class="container_16">
+
+      <div id="breadcrumb" class="grid_16"><div class="breadcrumb"><a href="/2009/">Home</a> » <a href="/2009/aggregator">Feed aggregator</a> » <a href="/2009/aggregator/categories">Categories</a> » fscons</div></div>
+
+      <!-- main -->
+      <div id="main" class="grid_12">
+        <h1 class="title" id="page-title">fscons</h1>                                <div id="content-output"> 
+          <div id="aggregator">
+  <div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/FSCONS/statuses/11297768750">Live: Swarms and networks in modern warfare: Foreign Policy has a feature on the New Rules of War which talks abou... http://bit.ly/95ZRzf</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/2009/aggregator/sources/1" class="feed-item-source">#fscons</a> -
+      <span class="feed-item-date">Tue, 03/30/2010 - 10:03</span>
+  </div>
+
+  <div class="feed-item-body">
+    Live: Swarms and networks in modern warfare: Foreign Policy has a feature on the New Rules of War which talks abou... <a href="http://bit.ly/95ZRzf">http://bit.ly/95ZRzf</a>  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/2009/aggregator/categories/1" class="active">fscons</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/oraccha/statuses/11273094607">syncコマンドはないので、fsのコンソールに入ってsyncを実行します。con /srv/fsconsで&quot;fsys all sync&quot;。これはfshaltの中でやっていることです。RT @toshi03: syncコマンドはないんですか？</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/2009/aggregator/sources/1" class="feed-item-source">#fscons</a> -
+      <span class="feed-item-date">Tue, 03/30/2010 - 00:15</span>
+  </div>
+
+  <div class="feed-item-body">
+    syncコマンドはないので、fsのコンソールに入ってsyncを実行します。con /srv/fsconsで&quot;fsys all sync&quot;。これはfshaltの中でやっていることです。RT <a href="http://twitter.com/toshi03">@toshi03</a>: syncコマンドはないんですか？  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/2009/aggregator/categories/1" class="active">fscons</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/FSCONS/statuses/11263020561">Live: Apple – only 391 days behind: In the curl project, we take security seriously. We work hard to make sure we ... http://bit.ly/9GGyTj</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/2009/aggregator/sources/1" class="feed-item-source">#fscons</a> -
+      <span class="feed-item-date">Mon, 03/29/2010 - 20:23</span>
+  </div>
+
+  <div class="feed-item-body">
+    Live: Apple – only 391 days behind: In the curl project, we take security seriously. We work hard to make sure we ... <a href="http://bit.ly/9GGyTj">http://bit.ly/9GGyTj</a>  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/2009/aggregator/categories/1" class="active">fscons</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/FSCONS/statuses/11244255953">Live: Content repositories: SQL or NoSQL?: The NoSQL movement seems to be pretty active, advocating a move away fr... http://bit.ly/dhdKdK</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/2009/aggregator/sources/1" class="feed-item-source">#fscons</a> -
+      <span class="feed-item-date">Mon, 03/29/2010 - 13:25</span>
+  </div>
+
+  <div class="feed-item-body">
+    Live: Content repositories: SQL or NoSQL?: The NoSQL movement seems to be pretty active, advocating a move away fr... <a href="http://bit.ly/dhdKdK">http://bit.ly/dhdKdK</a>  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/2009/aggregator/categories/1" class="active">fscons</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/FSCONS/statuses/11240818062">Live: An FTP hash command: Anthony Bryan strikes again. This time his name is attached to a new standards draft fo... http://bit.ly/9ifFPK</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/2009/aggregator/sources/1" class="feed-item-source">#fscons</a> -
+      <span class="feed-item-date">Mon, 03/29/2010 - 11:18</span>
+  </div>
+
+  <div class="feed-item-body">
+    Live: An FTP hash command: Anthony Bryan strikes again. This time his name is attached to a new standards draft fo... <a href="http://bit.ly/9ifFPK">http://bit.ly/9ifFPK</a>  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/2009/aggregator/categories/1" class="active">fscons</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/FSCONS/statuses/11240588726">Live: Back on the block and worse than ever: EIFv2: The European Interoperability Framework (EIF) is back from the... http://bit.ly/bX60kQ</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/2009/aggregator/sources/1" class="feed-item-source">#fscons</a> -
+      <span class="feed-item-date">Mon, 03/29/2010 - 11:09</span>
+  </div>
+
+  <div class="feed-item-body">
+    Live: Back on the block and worse than ever: EIFv2: The European Interoperability Framework (EIF) is back from the... <a href="http://bit.ly/bX60kQ">http://bit.ly/bX60kQ</a>  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/2009/aggregator/categories/1" class="active">fscons</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/FSCONS/statuses/11189024726">Live: Om metahumor och stryktålighet: Jag skrev just en krönika i Computer Sweden om att man måste utrusta sig med... http://bit.ly/bDNOt5</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/2009/aggregator/sources/1" class="feed-item-source">#fscons</a> -
+      <span class="feed-item-date">Sun, 03/28/2010 - 12:21</span>
+  </div>
+
+  <div class="feed-item-body">
+    Live: Om metahumor och stryktålighet: Jag skrev just en krönika i Computer Sweden om att man måste utrusta sig med... <a href="http://bit.ly/bDNOt5">http://bit.ly/bDNOt5</a>  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/2009/aggregator/categories/1" class="active">fscons</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/FSCONS/statuses/11129938875">Live: Windpower: Just ten miles from Factor e Farm – 100 windmills of 2.1 megawatt capacity were installed over th... http://bit.ly/a1E1EB</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/2009/aggregator/sources/1" class="feed-item-source">#fscons</a> -
+      <span class="feed-item-date">Sat, 03/27/2010 - 07:07</span>
+  </div>
+
+  <div class="feed-item-body">
+    Live: Windpower: Just ten miles from Factor e Farm – 100 windmills of 2.1 megawatt capacity were installed over th... <a href="http://bit.ly/a1E1EB">http://bit.ly/a1E1EB</a>  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/2009/aggregator/categories/1" class="active">fscons</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/FSCONS/statuses/11029622041">Live: Random UX change for the sake of… change?: If you’re making a highly visible change in the operating system ... http://bit.ly/aR4Qwg</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/2009/aggregator/sources/1" class="feed-item-source">#fscons</a> -
+      <span class="feed-item-date">Thu, 03/25/2010 - 13:35</span>
+  </div>
+
+  <div class="feed-item-body">
+    Live: Random UX change for the sake of… change?: If you’re making a highly visible change in the operating system ... <a href="http://bit.ly/aR4Qwg">http://bit.ly/aR4Qwg</a>  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/2009/aggregator/categories/1" class="active">fscons</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/FSCONS/statuses/10964740425">Live: CEB Press: Building on RepRap and Arduino: The CEB automation for the Liberator Beta 2.0 open source CEB pre... http://bit.ly/ds6cHA</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/2009/aggregator/sources/1" class="feed-item-source">#fscons</a> -
+      <span class="feed-item-date">Wed, 03/24/2010 - 07:09</span>
+  </div>
+
+  <div class="feed-item-body">
+    Live: CEB Press: Building on RepRap and Arduino: The CEB automation for the Liberator Beta 2.0 open source CEB pre... <a href="http://bit.ly/ds6cHA">http://bit.ly/ds6cHA</a>  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/2009/aggregator/categories/1" class="active">fscons</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/FSCONS/statuses/10917876714">Live: curl goes git: Just a few days ago the curl project turned twelve years old, and I decided that it was time ... http://bit.ly/by1bE9</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/2009/aggregator/sources/1" class="feed-item-source">#fscons</a> -
+      <span class="feed-item-date">Tue, 03/23/2010 - 11:39</span>
+  </div>
+
+  <div class="feed-item-body">
+    Live: curl goes git: Just a few days ago the curl project turned twelve years old, and I decided that it was time ... <a href="http://bit.ly/by1bE9">http://bit.ly/by1bE9</a>  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/2009/aggregator/categories/1" class="active">fscons</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/FSCONS/statuses/10746449497">Live: EC Digital Agenda leaks: Open Standars need your support!: What will be the European Commission’s policy tow... http://bit.ly/dpjgJ2</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/2009/aggregator/sources/1" class="feed-item-source">#fscons</a> -
+      <span class="feed-item-date">Sat, 03/20/2010 - 01:30</span>
+  </div>
+
+  <div class="feed-item-body">
+    Live: EC Digital Agenda leaks: Open Standars need your support!: What will be the European Commission’s policy tow... <a href="http://bit.ly/dpjgJ2">http://bit.ly/dpjgJ2</a>  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/2009/aggregator/categories/1" class="active">fscons</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/fasel/statuses/10745931315">RT @telecomix: RT @fscons: New: @intensifier at #fscons 2009. Citizen&#039;s Agenda: Net Neutrality, Surveillance and how to Re-Build. http://vimeo.com/10286077</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/2009/aggregator/sources/1" class="feed-item-source">#fscons</a> -
+      <span class="feed-item-date">Sat, 03/20/2010 - 01:16</span>
+  </div>
+
+  <div class="feed-item-body">
+    RT <a href="http://twitter.com/telecomix">@telecomix</a>: RT <a href="http://twitter.com/fscons">@<b>fscons</b></a>: New: <a href="http://twitter.com/intensifier">@intensifier</a> at <a href="http://search.twitter.com/search?q=%23fscons">#<b>fscons</b></a> 2009. Citizen&apos;s Agenda: Net Neutrality, Surveillance and how to Re-Build. <a href="http://vimeo.com/10286077">http://vimeo.com/10286077</a>  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/2009/aggregator/categories/1" class="active">fscons</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/padowi/statuses/10731916756">RT @FSCONS: New: @intensifier at #fscons 2009. Citizen&#039;s Agenda: Net Neutrality, Surveillance and how to Re-Build Politics. http://vimeo.com/10286077</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/2009/aggregator/sources/1" class="feed-item-source">#fscons</a> -
+      <span class="feed-item-date">Fri, 03/19/2010 - 19:07</span>
+  </div>
+
+  <div class="feed-item-body">
+    RT <a href="http://twitter.com/FSCONS">@<b>FSCONS</b></a>: New: <a href="http://twitter.com/intensifier">@intensifier</a> at <a href="http://search.twitter.com/search?q=%23fscons">#<b>fscons</b></a> 2009. Citizen&apos;s Agenda: Net Neutrality, Surveillance and how to Re-Build Politics. <a href="http://vimeo.com/10286077">http://vimeo.com/10286077</a>  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/2009/aggregator/categories/1" class="active">fscons</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/telecomix/statuses/10731647110">RT @fscons: New: @intensifier at #fscons 2009. Citizen&#039;s Agenda: Net Neutrality, Surveillance and how to Re-Build. http://vimeo.com/10286077</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/2009/aggregator/sources/1" class="feed-item-source">#fscons</a> -
+      <span class="feed-item-date">Fri, 03/19/2010 - 19:01</span>
+  </div>
+
+  <div class="feed-item-body">
+    RT <a href="http://twitter.com/fscons">@<b>fscons</b></a>: New: <a href="http://twitter.com/intensifier">@intensifier</a> at <a href="http://search.twitter.com/search?q=%23fscons">#<b>fscons</b></a> 2009. Citizen&apos;s Agenda: Net Neutrality, Surveillance and how to Re-Build. <a href="http://vimeo.com/10286077">http://vimeo.com/10286077</a>  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/2009/aggregator/categories/1" class="active">fscons</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/intensifier/statuses/10731637415">RT @fscons: New: @intensifier at #fscons 2009. Citizen&#039;s Agenda: Net Neutrality, Surveillance and how to Re-Build. http://vimeo.com/10286077</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/2009/aggregator/sources/1" class="feed-item-source">#fscons</a> -
+      <span class="feed-item-date">Fri, 03/19/2010 - 19:01</span>
+  </div>
+
+  <div class="feed-item-body">
+    RT <a href="http://twitter.com/fscons">@<b>fscons</b></a>: New: <a href="http://twitter.com/intensifier">@intensifier</a> at <a href="http://search.twitter.com/search?q=%23fscons">#<b>fscons</b></a> 2009. Citizen&apos;s Agenda: Net Neutrality, Surveillance and how to Re-Build. <a href="http://vimeo.com/10286077">http://vimeo.com/10286077</a>  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/2009/aggregator/categories/1" class="active">fscons</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/FSCONS/statuses/10731500793">New: @intensifier at #fscons 2009. Citizen&#039;s Agenda: Net Neutrality, Surveillance and how to Re-Build Politics. http://vimeo.com/10286077</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/2009/aggregator/sources/1" class="feed-item-source">#fscons</a> -
+      <span class="feed-item-date">Fri, 03/19/2010 - 18:58</span>
+  </div>
+
+  <div class="feed-item-body">
+    New: <a href="http://twitter.com/intensifier">@intensifier</a> at <a href="http://search.twitter.com/search?q=%23fscons">#<b>fscons</b></a> 2009. Citizen&apos;s Agenda: Net Neutrality, Surveillance and how to Re-Build Politics. <a href="http://vimeo.com/10286077">http://vimeo.com/10286077</a>  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/2009/aggregator/categories/1" class="active">fscons</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/ffkp/statuses/10684628286">RT @jonaso: @bagder Congratulations! That&#039;s excellent! (no such luck for #fscons or #ffkp, but that was to be e.. http://bit.ly/afjHfM</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/2009/aggregator/sources/1" class="feed-item-source">#fscons</a> -
+      <span class="feed-item-date">Thu, 03/18/2010 - 20:59</span>
+  </div>
+
+  <div class="feed-item-body">
+    RT <a href="http://twitter.com/jonaso">@jonaso</a>: <a href="http://twitter.com/bagder">@bagder</a> Congratulations! That&apos;s excellent! (no such luck for <a href="http://search.twitter.com/search?q=%23fscons">#<b>fscons</b></a> or <a href="http://search.twitter.com/search?q=%23ffkp">#ffkp</a>, but that was to be e.. <a href="http://bit.ly/afjHfM">http://bit.ly/afjHfM</a>  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/2009/aggregator/categories/1" class="active">fscons</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/jonaso/statuses/10684441830">@bagder Congratulations! That&#039;s excellent! (no such luck for #fscons or #ffkp, but that was to be expected)</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/2009/aggregator/sources/1" class="feed-item-source">#fscons</a> -
+      <span class="feed-item-date">Thu, 03/18/2010 - 20:54</span>
+  </div>
+
+  <div class="feed-item-body">
+    <a href="http://twitter.com/bagder">@bagder</a> Congratulations! That&apos;s excellent! (no such luck for <a href="http://search.twitter.com/search?q=%23fscons">#<b>fscons</b></a> or <a href="http://search.twitter.com/search?q=%23ffkp">#ffkp</a>, but that was to be expected)  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/2009/aggregator/categories/1" class="active">fscons</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/kgerloff/statuses/10663582222">@jonaso Questions after my trip to Gothenburg for #FSCONS: There&#039;s a river? And it has another side? ;-)</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/2009/aggregator/sources/1" class="feed-item-source">#fscons</a> -
+      <span class="feed-item-date">Thu, 03/18/2010 - 11:28</span>
+  </div>
+
+  <div class="feed-item-body">
+    <a href="http://twitter.com/jonaso">@jonaso</a> Questions after my trip to Gothenburg for <a href="http://search.twitter.com/search?q=%23FSCONS">#<b>FSCONS</b></a>: There&apos;s a river? And it has another side? ;-)  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/2009/aggregator/categories/1" class="active">fscons</a>  </div>
+
+</div>
+  <div class="item-list"><ul class="pager"><li class="pager-first first"><a href="/2009/aggregator/categories/1" title="Go to first page" class="active">« first</a></li>
+<li class="pager-previous"><a href="/2009/aggregator/categories/1?page=1" title="Go to previous page" class="active">‹ previous</a></li>
+<li class="pager-item"><a href="/2009/aggregator/categories/1" title="Go to page 1" class="active">1</a></li>
+<li class="pager-item"><a href="/2009/aggregator/categories/1?page=1" title="Go to page 2" class="active">2</a></li>
+<li class="pager-current">3</li>
+<li class="pager-item"><a href="/2009/aggregator/categories/1?page=3" title="Go to page 4" class="active">4</a></li>
+<li class="pager-item"><a href="/2009/aggregator/categories/1?page=4" title="Go to page 5" class="active">5</a></li>
+<li class="pager-next"><a href="/2009/aggregator/categories/1?page=3" title="Go to next page" class="active">next ›</a></li>
+<li class="pager-last last"><a href="/2009/aggregator/categories/1?page=4" title="Go to last page" class="active">last »</a></li>
+</ul></div></div>
+        </div><!-- /#content-output -->
+      </div>
+      <!-- main ends here -->
+
+      <!-- sidebars starts here -->
+            <div id="sidebars" class="grid_4">
+
+        <!-- left sidebar starts here -->
+                <!-- left sidebar ends here -->
+
+        <!-- right sidebar starts here -->
+                <div class="grid_4 omega sidebar-right">
+          <div id="block-menu-primary-links" class="block block-menu">
+  <h3 class="title">Menu</h3>
+
+  <div class="content">
+    <ul class="menu"><li class="collapsed first"><a href="/2009/about" title="About">About</a></li>
+<li class="leaf"><a href="/2009/award" title="Nordic Free Software Award">Award</a></li>
+<li class="collapsed"><a href="/2009/node/34" title="Satellite events">Satellites</a></li>
+<li class="leaf"><a href="/2009/donate" title="Donate">Donate</a></li>
+<li class="leaf"><a href="/2009/schedule" title="Schedule">Schedule</a></li>
+<li class="collapsed"><a href="/2009/practical-information" title="">Practical Info</a></li>
+<li class="leaf"><a href="/2009/sponsors" title="Sponsors">Sponsors</a></li>
+<li class="leaf"><a href="/2009/helping" title="Help FSCONS">Help FSCONS</a></li>
+<li class="leaf"><a href="/2009/register" title="Registration">Register</a></li>
+<li class="leaf last"><a href="http://live.fscons.org/" title="">LIVE</a></li>
+</ul>  </div>
+</div><div id="block-node-0" class="block block-node">
+  <h3 class="title">Syndicate</h3>
+
+  <div class="content">
+    <a href="/2009/rss.xml" class="feed-icon"><img src="/2009/misc/feed.png" alt="Syndicate content" title="Syndicate" width="16" height="16" /></a>  </div>
+</div>        </div>
+                <!-- right sidebar ends here -->
+
+      </div>
+            <!-- sidebars end here -->
+
+    </div>
+    <!-- content ends here -->
+
+    <!-- footer starts here -->
+    <div id="footer-wrapper" class="container_16">
+
+      <!-- footer top starts here -->
+      <div id="footer-content">
+
+        <!-- footer left starts here -->
+        <div class="grid_8" id="footer-left">
+                  </div>
+        <!-- footer left ends here -->
+
+        <!-- footer right starts here -->
+        <div class="grid_8" id="footer-right">
+                  </div>
+        <!-- footer right ends here -->
+
+      </div>
+      <!-- footer top ends here -->
+
+      <!-- footer bottom starts here -->
+      <div id="footer-bottom">
+        <div id="footer-meta" class="clear-block">
+            
+                  </div>
+
+                <div id="footer-bottom-content">
+          <div id="block-system-0" class="block block-system">
+
+  <div class="content">
+    <a href="http://drupal.org"><img src="/2009/misc/powered-blue-80x15.png" alt="Powered by Drupal, an open source content management system" title="Powered by Drupal, an open source content management system" width="80" height="15" /></a>  </div>
+</div>        </div>
+              </div>
+      <!-- footer bottom ends here -->
+
+    </div>
+    <!-- footer ends here -->
+      </body>
+</html>

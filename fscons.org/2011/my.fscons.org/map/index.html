@@ -1,0 +1,65 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head profile="http://www.w3.org/2005/10/profile">
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=device-width" />
+      <title>Map | My fscons</title>
+      <link rel="icon" 
+            type="image/ico"
+            href="http://my.fscons.org/favicon.ico"/>
+      <!-- ma template.css -->
+      <link rel="stylesheet" href="/static/style/typography.css" type="text/css"  media="screen">
+
+      <link rel="stylesheet" href="/static/style/main.css" type="text/css"  media="screen">
+        <!-- Leaflet CSS --> 
+        <link rel="stylesheet" href="/static/leaflet/leaflet.css" />
+        <!--[if lte IE 8]><link rel="stylesheet" href="/static/leaflet/leaflet.ie.css" /><![endif]-->
+        
+        
+
+        <!-- jquery -->
+        <script src="/static/jquery-1.6.4.min.js"></script>
+        <!-- Leaflet JavaScript -->
+        <script src="/static/leaflet/leaflet.js"></script>
+        <!-- FSCONS maps -->
+        <script>
+          var STATIC_URL = /static/;
+        </script>
+        <script src="/static/fscons-map.js"></script>
+
+    </head>
+    <body>
+        <div class="header" id="header">
+            <div class="wrapper">
+                <img alt="FSCONS logo" src="/static/style/logo-small.png" />
+                <h1><a href="/">My FSCONS</a></h1>
+                <ul class="navigation">
+                    <li><a id="nav_schedule" href="/schedule/"><span>Schedule</span></a>
+                    <!-- li><a id="nav_manifesto" href="/manifesto/"><span>Manifesto</span></a-->
+                    <li><a id="nav_map" href="/map/"><span>Map</span></a>
+                    <!-- li><a id="nav_notifications" href="/notifications/"><span>Notifications</span></a-->
+                </ul>
+            </div>
+        </div>
+
+        
+<script>
+  function set_main_height() {
+    var h = $(window).height() - $("#header").outerHeight();
+    $(".fullscreen").height(h);
+  }
+  $(set_main_height);  
+  $(window).resize(set_main_height);
+</script>
+<div class="wrapper fullscreen" id="main">
+  
+<div id="map" class="fullscreen" style="width:100%;height:500px;"></div>
+<script>
+  $(function() { initmap('map', 57.70673, 11.93686); });
+</script>
+
+</div>
+
+    </body>
+</html>

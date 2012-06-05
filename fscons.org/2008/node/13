@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Mission | fscons.org 2008</title>
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/2008/misc/favicon.ico" type="image/x-icon" />
+    <link type="text/css" rel="stylesheet" media="all" href="/2008/modules/node/node.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="/2008/modules/system/defaults.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="/2008/modules/system/system.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="/2008/modules/system/system-menus.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="/2008/modules/user/user.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="/2008/sites/fscons.org.2008/themes/blix/style.css?j" />
+    </head>
+<body >
+<div id="container">
+  <div id="header">
+      <h1><a href="/2008/" title=""></a></h1>
+      <div class="slogan">October 24th - 26th @ IT-University Gothenburg</div>
+  </div>
+  <div id="navigation">
+                    </div>
+<hr class="low" />
+  <div id="content">
+    <div class="navigation"> <div class="breadcrumb"><a href="/2008/">Home</a></div> </div>
+                	<h2 class="page-title">Mission</h2>
+                <!-- start main content -->
+    <div class="entry"> 
+   
+  <p>FSCONS is the first of many Free Society conferences, bringing different cultural movements and activists together in the name of digital freedom.</p>
+<p>As three of the biggest names in community organisations, <a href="http://fsfeurope.org">Free Software Foundation Europe</a>, <a href="http://creativecommons.org">Creative Commons</a> and <a href="http://se.wikimedia.org">Wikimedia Sverige</a> are joining forces under the banner of Free Society at this years FSCONS. With the help of many different organisations like <a href="http://debian.org">Debian GNU/linux</a>, <a href="http://kde.org">KDE</a>, <a href="http://www.postgresql.org/">Postgres</a>, <a href="http://www.openstreetmap.org/">OpenStreetMap</a>, <a href="http://www.midgard-project.org/">Midgard</a>, <a href="http://ccmixter.org/">CCMixter</a>, <a href="http://magnatune.com">Magnatune</a> and the Icelandic Fab Labs, FSCONS will be a truly unique experience.</p>
+<p>The lectures and events at the conference will range from hardware hacking and embedded programming to citizen journalism and the future of the music industry. FSCONS will allow the participants to reach across the borders of their individual communities and by nourishing cross topic discussion stimulate the creation of joint projects.</p>
+<p>More than a series of presentations, FSCONS will be a meeting place for the digital revolution, providing discussion areas, workshops and showrooms, as well as social events in the evenings. With a flexible schedule we hope to ensure that everyone will have the opportunity to engage in social activities without missing out on their favourite speakers.</p>
+<p>Despite its setting in northern Europe, FSCONS is certainly not an event limited to this region. Bringing speakers and visitors from several corners of the world together, FSCONS is a chance to engage in shaping the movements of tomorrow in a city where tradition meets innovation and art meets technology.</p>
+<p>History</p>
+<p>Last year, FSCONS was a small idea that started in an even smaller room. Since then, a lot has happened and even more is to come. In 2007 Gothenburg saw a very successful Free Software conference that aimed at educating and informing about trends in Free Software. We welcomed around 200 guests and lecturers and listened to talks and lectures, engaged in discussions and created new ideas. Among the more than 15 different lectures and events were topics ranging from Digital Rights to Women in IT and Gtk Development.</p>
+<p>Since then FSCONS' fan­base has grown and so have our goals and aspirations. The Event is now organized by three major organizations whose names are recognized around the globe, the Free Software Foundation Europe, Wikimedia and Creative Commons. Each of these brings with it an invaluable amount of expertise, credibility and insight on the challenges we face.</p>
+<p>The web-pages from last years event are still accessible at<a href="http://fscons.org/2007">http://fscons.org/2007</a>.</p>
+<p>Videos from the conference are available at<a href="http://www.fsfe.org/en/advocacy/audio_videos/fscons_2007">http://www.fsfe.org/en/advocacy/audio_videos/fscons_2007</a>.</p>
+   
+  <p class="info">Posted in <ul class="links inline"><li class="taxonomy_term_1 first last"><a href="/2008/taxonomy/term/1" rel="tag" title="uncategorized">Uncategorized</a></li>
+</ul> <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/2008/user/login?destination=comment%2Freply%2F13%23comment-form">Login</a> to post comments</span></li>
+</ul></p>
+   <small></small>
+   
+</div>
+
+<hr class="low" />    <!-- end main content -->
+  </div>
+  <div id="subcontent">
+    <div id="block-user-0" class="block block-user">
+  <h2>User login</h2>
+
+  <div class="content">
+    <form action="/2008/node/13?destination=node%2F13"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
+<div class="item-list"><ul><li class="first last"><a href="/2008/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-dcc5bd555b8d1c7545491b8fee0a0e42" value="form-dcc5bd555b8d1c7545491b8fee0a0e42"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+  </div>
+</div>
+<div id="block-blog-0" class="block block-blog">
+  <h2>Recent blog posts</h2>
+
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="/2008/node/87">Live Video Streams</a></li>
+<li><a href="/2008/node/85">Certificate assurance session for cacert.org certificates on FSCONS 2008</a></li>
+<li><a href="/2008/node/84">Niclas Nilsson has been interviewed</a></li>
+<li><a href="/2008/node/81">Interview: Johan Eklund and Tham Wickenberg</a></li>
+<li><a href="/2008/node/80">13 nominated for Nordic Free Software Award</a></li>
+<li><a href="/2008/node/79">Secure communications with Open Source PKI</a></li>
+<li><a href="/2008/node/78">Openmoko Code Sprint</a></li>
+<li><a href="/2008/node/75">Fredrik Jonsson interview on Ubuntu deployment</a></li>
+<li><a href="/2008/node/73">Interview: Magnus Hagander</a></li>
+<li class="last"><a href="/2008/node/71">Jeremiah Foster interviewed</a></li>
+</ul></div><div class="more-link"><a href="/2008/blog" title="Read the latest blog entries.">more</a></div>  </div>
+</div>
+   </div>
+ <hr class="low" />
+  <div id="footer">
+             Design by <a href="http://www.arvoriad.com">Arvoriad Consulting</a>.
+  </div>
+</div>
+</body>
+</html>

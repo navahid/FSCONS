@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Jeremiah Foster Interview | fscons.org 2008</title>
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/2008/misc/favicon.ico" type="image/x-icon" />
+    <link type="text/css" rel="stylesheet" media="all" href="/2008/modules/node/node.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="/2008/modules/system/defaults.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="/2008/modules/system/system.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="/2008/modules/system/system-menus.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="/2008/modules/user/user.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="/2008/sites/fscons.org.2008/themes/blix/style.css?j" />
+    </head>
+<body >
+<div id="container">
+  <div id="header">
+      <h1><a href="/2008/" title=""></a></h1>
+      <div class="slogan">October 24th - 26th @ IT-University Gothenburg</div>
+  </div>
+  <div id="navigation">
+                    </div>
+<hr class="low" />
+  <div id="content">
+    <div class="navigation"> <div class="breadcrumb"><a href="/2008/">Home</a></div> </div>
+                	<h2 class="page-title">Jeremiah Foster Interview</h2>
+                <!-- start main content -->
+    <div class="entry"> 
+   
+  <p>For a little background, can you describe the general topic of your presentation at <a class="external text" title="http://www.fscons.org" rel="nofollow" href="../" title="http://www.fscons.org" class="external text">FSCONS</a> and tell us what is new in the last few months?</p>
+<p>The general topic of my presentation is the creation of a debian package.  A package, or a &quot;deb&quot;, is a binary file which is used by debian, and other debian-based systems, like Ubuntu, to install software. This is the fundamental unit of the larger debian system.</p>
+<p>Can you give a summary of what you will present? Why should someone choose to come to your presentation?</p>
+<p>Debian is the largest community driven GNU/Linux distribution with more than 23,000 software packages. It owes a great deal of its success to its superior method for intergrating software into the operating system with packages. The design of these packages hold the key to building a stable and robust operating system that allows for distibuted software development.</p>
+<p>I will describe how to build one of these packages so that it integrates into the debian system, this will teach developers how to create packages of their software for distribution and also instruct new volunteers how  to get more involved with debian through packaging.</p>
+<p>Can you, as active in the Perl and Debian communities, describe the major differences between the two?</p>
+<p>Well, there really is a lot of overlap since debian has historically been something of a &quot;reference&quot; platform for perl, even though FreeBSD has more packaged perl modules. The main area of difference I have found is licensing. Most people who use perl use it to get a technical job done, licensing issues are an after-thought. The good news is that Perl often uses the Artistic License which recently won a big court victory in the United States so Perl has an excellent Free Software license.</p>
+<p>There are fewer governance issues in Perl. Discussions tend to be on the suitability of a particular patch or module, as opposed to who is responsible for which part of the project. Debian also has a different set of responsibilities. Since it is an operating system and is so widely used, when there is a problem it is widely evident and can have a severe impact. This often creates a different mindset when working on debian then when working on Perl.</p>
+<p>Ubuntu has reached a very big user base. Given that Ubuntu, more or less, is entirely based on Debian, what are the thoughts on this inside Debian?</p>
+<p>DNU! (Debian is not Ubuntu.  :)  )</p>
+<p>I think there is a bit of concern, which even Mark Shuttleworth has addressed, that Ubuntu contributes to debian. Ubuntu has of course contributed in gaining a huge installed user base and debian can leverage that in some way, it certainly validates the fact that apt-get is an efficient way to install software. Nonetheless, at least in the beginning, there were complaints that changes in Ubuntu were not getting passed back to debian and certain debian developers were being paid to work on Ubuntu while the rest of debian's developers were still volunteer. Financial incentive in debian is a very delicate issue and cannot be summarized simply, but suffice it to say that any commercial organization that co-opts debian or part of debian without returning back to debian is going to be viewed with a certain modicum of suspicion.</p>
+<p>Can you describe the differences between the two? And why are they important?</p>
+<ol>
+<li>Ubuntu has a fixed release schedule, debian releases when ready.</li>
+<li>Canonical pays developers to work on Ubuntu, debian is completely volunteer.</li>
+<li>Ubuntu works on Intel and PowerPC chips, debian supports at least ten processor architectures officially and more un-officially.</li>
+</ol>
+<p>The importance of these differences are that debian is completely community controlled which means if you want to have a say in an operating system, debian is an excellent place to have your views heard.</p>
+<p>How do you make your voice heard in Debian?</p>
+<p>Shout?</p>
+<p>Actually, it is suprisingly meritocratic, or parts of it anyway. If one is lucky, and one creates good packages, and contributes in other ways, some people in the project might read your emails to various lists, one of the most influential being debian developers, and	in time you may develop a reputation. You can use that reputation to join groups, like ftp masters or release team and if you do a good job and have good ideas you can become the DPL.</p>
+<p>Enrico Zini presented a new apt search system half a year ago or so where one could search for packages on the fly as you wrote, do you know if we will we see a GUI for this soon?</p>
+<p>I assume you are referring to apt-xapian-index, which looks like an amazing tool. I am not sure why there has not been greater uptake of this, or of his other initiative debtags. Both projects are very useful. Maybe a GUI is what is lacking for broader use, however there appears to be one called packagesearch which uses xapian if not apt-xapian-index. (<a class="external free" title="http://packagesearch.sourceforge.net" rel="nofollow" href="http://packagesearch.sourceforge.net/" title="http://packagesearch.sourceforge.net" class="external free">http://packagesearch.sourceforge.net</a> ) It lacks the capability of viewing a screenshot which I think a lot of people would like to see, there was recent dicussion about that on the debian developers mailing list.</p>
+<p>You seem to be very confident in the Debian packaging system. Still, do you see any room for improvement?</p>
+<p>apt is constantly being improved with other tools and utilities, like apt-file for example, and packages themselves are constantly being improved. One thing that we have discussed in the debian perl group is machine readable copyright files enabling debian to insure that the copyright is legit. So yes, there is always room for improvement, but the fundamental package management has some significant advantages over other systems, like RPM for example, because of the way that suggested and recommended software dependencies are handled.</p>
+<p>Do you know if there's any new features coming in, with or without extending the current formats etc?</p>
+<p>Many of the new features are behind the scenes as it were. A new version of deb_helper (version 7) which makes the debian rules file much smaller and easier to manage, a clearer licensing section, and other small changes. One of the larger conceptual changes is the discussion happening around a Version Control Package Tool, something that combines version control with a universal package format. This would be pretty cool and some interesting people like Martin Krafft are working on it but it is in the early stages yet.</p>
+<p>Can you briefly describe the differences between rpm and deb?</p>
+<p>The main differences, in my mind, are that rpm is less effective in handling dependencies and there are many different, types of rpms  out there. The tool yum was created to better handle software dependency issues in rpm packages, something that debian has handled fairly well from the beginning. And while a Mandriva rpm should install on Fedora, they can have a different format. With Ubuntu, a debian derivative, debs just work because Ubuntu didn't fork apt, just incorporated it.</p>
+<p>How did you get involved in Free Software and in what way is it important to you?</p>
+<p>Every since I started using computers I wondered how they worked. I wanted to understand how my mouse clicks set the machine in motion. Eventually I came to see that in proprietary systems, I would always be limited in my ability to understand the computer because key elements of the source code were hidden. I moved to Free Software because I wanted to see the computer's moving parts.</p>
+<p>What's your experiences from the reactions on free software among the people you work with? Has it changed over the years?</p>
+<p>Free Software has come a long way. In many ways it feels like it has won. Won the technical battle, won the licensing battle, won the interest of corporations and now it needs to win the hearts and minds of ordinary users which is inevitable. So yes, I have seen a change. The most profound change amongst the people that I work with is the understanding that strategic business decisions need to be made with an eye to vendor independence and time to market, that is why in the large corporations that I work in, they use GPL software, not just linux.</p>
+<p>For you, as a US American living in Europe can you tell us how the perception of free software is different in US and Europe. What changes do you think we'll see in the coming year?</p>
+<p>One of the key distinctions is political. Europeans at the EU level worry about their own domestic software markets and about competition from the US. Americans dislike Microsoft as well (it was an American Federal judge that split the company in two after all) but the climate is so different there, particularly under Bush, that Free Software has not come to the fore as much as one might have predicted. There also is the BSD tradition in the US which is not as strong in Europe. The BSDs were all free from the beginning and helped to spawn wider internet use and companies like Sun. This is a cultural difference with Europe - Europe prefers Linux to the BSDs and doesn't really recognize the extent to which these UNIX distributions paved the way for Linux and continue to contribute to Free Software today. (OpenSSH anyone?) Now I am sure I will receive some hate mail from Theo de Radt or someone saying that there is an important and thriving BSD culture in Europe, and of course there is. It just seems that the BSDs led to an industry in California while Europeans thought it was a thing for hobbyists.</p>
+<p>The coming changes are going to be;</p>
+<ul>
+<li>Greater scrutiny of patents and copyright issues in the US</li>
+<li>The eventual creation of software patents in Europe</li>
+<li>Increased use of linux on laptops and netbooks</li>
+<li>The erosion of the importance of the operating system, as the internet and virtualization begin to play a bigger role in application development</li>
+</ul>
+<p>Is there any other particular presentation you'll be going to? Why is that topic of interest?</p>
+<p>I am most interested in the development aspects of the conference so three  talks I will probably go to: <a href="http://fscons.org/events/?action=event&amp;id=61">Postgres</a> , <a href="http://fscons.org/events/?action=event&amp;id=74">Nagios</a> , and <a href="http://fscons.org/events/?action=event&amp;id=29">Qt for embedded linux</a> .</p>
+<p>If you could pick any speaker on the planet for FSCONS, who would you like to see?</p>
+<p>Lawrence Lessig.</p>
+   
+  <p class="info">Posted in <ul class="links inline"><li class="taxonomy_term_1 first last"><a href="/2008/taxonomy/term/1" rel="tag" title="uncategorized">Uncategorized</a></li>
+</ul> <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/2008/user/login?destination=comment%2Freply%2F70%23comment-form">Login</a> to post comments</span></li>
+</ul></p>
+   <small></small>
+   
+</div>
+
+<hr class="low" />    <!-- end main content -->
+  </div>
+  <div id="subcontent">
+    <div id="block-user-0" class="block block-user">
+  <h2>User login</h2>
+
+  <div class="content">
+    <form action="/2008/node/70?destination=node%2F70"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
+<div class="item-list"><ul><li class="first last"><a href="/2008/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-9f116888abcd76cc291c53ad0554f5d9" value="form-9f116888abcd76cc291c53ad0554f5d9"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+  </div>
+</div>
+<div id="block-blog-0" class="block block-blog">
+  <h2>Recent blog posts</h2>
+
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="/2008/node/87">Live Video Streams</a></li>
+<li><a href="/2008/node/85">Certificate assurance session for cacert.org certificates on FSCONS 2008</a></li>
+<li><a href="/2008/node/84">Niclas Nilsson has been interviewed</a></li>
+<li><a href="/2008/node/81">Interview: Johan Eklund and Tham Wickenberg</a></li>
+<li><a href="/2008/node/80">13 nominated for Nordic Free Software Award</a></li>
+<li><a href="/2008/node/79">Secure communications with Open Source PKI</a></li>
+<li><a href="/2008/node/78">Openmoko Code Sprint</a></li>
+<li><a href="/2008/node/75">Fredrik Jonsson interview on Ubuntu deployment</a></li>
+<li><a href="/2008/node/73">Interview: Magnus Hagander</a></li>
+<li class="last"><a href="/2008/node/71">Jeremiah Foster interviewed</a></li>
+</ul></div><div class="more-link"><a href="/2008/blog" title="Read the latest blog entries.">more</a></div>  </div>
+</div>
+   </div>
+ <hr class="low" />
+  <div id="footer">
+             Design by <a href="http://www.arvoriad.com">Arvoriad Consulting</a>.
+  </div>
+</div>
+</body>
+</html>
