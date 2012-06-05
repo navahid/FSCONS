@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Lists and letters | fscons.org 2008</title>
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../misc/favicon.ico" type="image/x-icon" />
+    <link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="http://fscons.org/2008/modules/user/user.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/fscons.org.2008/themes/blix/style.css?j" />
+    </head>
+<body >
+<div id="container">
+  <div id="header">
+      <h1><a href="../index.html" title=""></a></h1>
+      <div class="slogan">October 24th - 26th @ IT-University Gothenburg</div>
+  </div>
+  <div id="navigation">
+                    </div>
+<hr class="low" />
+  <div id="content">
+    <div class="navigation"> <div class="breadcrumb"><a href="../index.html">Home</a> » <a href="../blog.3">Blogs</a> » <a href="../blog/3.3">Hannibal&#039;s blog</a></div> </div>
+                	<h2 class="page-title">Lists and letters</h2>
+                <!-- start main content -->
+    <div class="entry"> 
+   
+  <p>The speakers and events pages are online. On these you will find a current list of the speakers and events respectively, which is automatically updated as soon as new speakers and or events are confirmed.</p>
+<p>If you miss a certain event or think a certain speaker should be invited, send an email to board [at] fscons.org.</p>
+<p>We also released our second newsletter today, which contains the newly confirmed speakers and some nifty details about FSCONS. (get it <a title="fscons-newsletter-week-29" href="http://fscons.org/files/fscons-newsletter-2008-07-18.pdf" target="_blank">here</a>)</p>
+<p>Got any ideas? Have any questions? Join our discussion in our irc channel on freenode!</p>
+<p>server: irc.freenode.net<br />
+room: #fscons</p>
+   
+  <p class="info">Posted in <ul class="links inline"><li class="taxonomy_term_1 first last"><a href="../taxonomy/term/1" rel="tag" title="uncategorized">Uncategorized</a></li>
+</ul> <ul class="links inline"><li class="blog_usernames_blog first"><a href="../blog/3.3" title="Read Hannibal&#039;s latest blog entries.">Hannibal&#039;s blog</a></li>
+<li class="comment_forbidden last"><span><a href="http://fscons.org/2008/user/login?destination=comment%2Freply%2F36%23comment-form">Login</a> to post comments</span></li>
+</ul></p>
+   <small>Submitted by Hannibal on Fri, 07/18/2008 - 17:03</small>
+   
+</div>
+
+<hr class="low" />    <!-- end main content -->
+  </div>
+  <div id="subcontent">
+    <div id="block-user-0" class="block block-user">
+  <h2>User login</h2>
+
+  <div class="content">
+    <form action="http://fscons.org/2008/node/36?destination=node%2F36"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
+<div class="item-list"><ul><li class="first last"><a href="http://fscons.org/2008/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-015b6944afdc2b1e69427258e866a3a0" value="form-015b6944afdc2b1e69427258e866a3a0"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+  </div>
+</div>
+<div id="block-blog-0" class="block block-blog">
+  <h2>Recent blog posts</h2>
+
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="87">Live Video Streams</a></li>
+<li><a href="85">Certificate assurance session for cacert.org certificates on FSCONS 2008</a></li>
+<li><a href="84">Niclas Nilsson has been interviewed</a></li>
+<li><a href="81">Interview: Johan Eklund and Tham Wickenberg</a></li>
+<li><a href="80">13 nominated for Nordic Free Software Award</a></li>
+<li><a href="79">Secure communications with Open Source PKI</a></li>
+<li><a href="78">Openmoko Code Sprint</a></li>
+<li><a href="75">Fredrik Jonsson interview on Ubuntu deployment</a></li>
+<li><a href="73">Interview: Magnus Hagander</a></li>
+<li class="last"><a href="71">Jeremiah Foster interviewed</a></li>
+</ul></div><div class="more-link"><a href="../blog.3" title="Read the latest blog entries.">more</a></div>  </div>
+</div>
+   </div>
+ <hr class="low" />
+  <div id="footer">
+             Design by <a href="http://www.arvoriad.com">Arvoriad Consulting</a>.
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,9 @@
+/* $Id:  */
+
+@font-face {
+	font-family: 'AlphaEchoRegular';
+	src: url('http://fscons.org/sites/all/libraries/fonts/alpha_echo-webfont.eot');
+	src: local('☺'), url('http://fscons.org/sites/all/libraries/fonts/alpha_echo-webfont.woff') format('woff'), url('http://fscons.org/sites/all/libraries/fonts/alpha_echo-webfont.ttf') format('truetype'), url('http://fscons.org/sites/all/libraries/fonts/alpha_echo-webfont.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

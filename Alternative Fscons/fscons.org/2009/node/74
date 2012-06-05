@@ -1,0 +1,168 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Workshop: Writing Jabber/XMPP software | FSCONS.org</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../misc/favicon.ico" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="../modules/aggregator/aggregator.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/poll/poll.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="http://fscons.org/2009/modules/user/user.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/themes/ninesixtyrobots/css/reset.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/themes/ninesixtyrobots/css/960.css?G" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/themes/ninesixtyrobots/css/main.css?G" />
+  <script type="text/javascript" src="../misc/jquery.js?G"></script>
+<script type="text/javascript" src="../misc/drupal.js?G"></script>
+<script type="text/javascript" src="../sites/all/modules/rounded_corners/jquery.corner.js?G"></script>
+<script type="text/javascript" src="../sites/all/themes/ninesixtyrobots/js/jquery.autofill.js?G"></script>
+<script type="text/javascript" src="../sites/all/themes/ninesixtyrobots/js/javascript.js?G"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/2009/" });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(function(){ // shorthand for $(document).ready() 
+$(".daysleft").corner("round 10px");
+ });
+//--><!]]>
+</script>
+  <script type="text/javascript"> </script>
+</head>
+  <body>
+
+    <!-- header starts-->
+    <div id="header-wrap">
+      <div id="header" class="container_16">
+       <a href="../../index.html">
+	        <div id="header-main">
+        	   <p id="slogan">Random Tweet: #FSCONS 2012 Call for participation, that is! <a href="http://t.co/eV7drh7b">http://t.co/eV7drh7b</a> And nothing else!</p>	        </div><!-- navigation -->
+	</a>
+        <div id="nav">
+          <ul class="links primary-links"><li class="menu-314 first"><a href="../about" title="About">About</a></li>
+<li class="menu-347"><a href="../award.3" title="Nordic Free Software Award">Award</a></li>
+<li class="menu-312"><a href="34" title="Satellite events">Satellites</a></li>
+<li class="menu-318"><a href="../donate" title="Donate">Donate</a></li>
+<li class="menu-280"><a href="../schedule" title="Schedule">Schedule</a></li>
+<li class="menu-283"><a href="../practical-information" title="">Practical Info</a></li>
+<li class="menu-313"><a href="../sponsors" title="Sponsors">Sponsors</a></li>
+<li class="menu-279"><a href="../helping" title="Help FSCONS">Help FSCONS</a></li>
+<li class="menu-344"><a href="../register" title="Registration">Register</a></li>
+<li class="menu-352 last"><a href="http://live.fscons.org/" title="">LIVE</a></li>
+</ul>        </div>
+              </div>
+    </div>
+    <!-- header ends here -->
+    
+    <!-- content starts -->
+    <div id="content-wrapper" class="container_16">
+
+      <div id="breadcrumb" class="grid_16"><div class="breadcrumb"><a href="../index.html">Home</a> » Workshop: Writing Jabber/XMPP software</div></div>
+
+      <!-- main -->
+      <div id="main" class="grid_12">
+        <h1 class="title" id="page-title">Workshop: Writing Jabber/XMPP software</h1>                                <div id="content-output"> 
+          <div id="node-74" class="node post clear-block">
+
+
+
+  <div class="meta post-info">
+  
+    </div>
+
+  <div class="content">
+    <h3>Ville Sundell</h3>
+<p>Workshop about implementing Jabber IM technology for your software, or building completely new software on top of Jabber (like bots).
+</p>
+<p>
+First we are covering quickly the basics of Jabber and XMPP protocol, and what possibilities it will create for application development.
+</p>
+<p>
+Then, going through how to implement Jabber for various programming languages, and presenting a simple bot. If this is decided to be an workshop, after this, a piece software will be developed as a group, and everyone can pariticipate to this process.
+</p>
+  </div>
+
+  </div>        </div><!-- /#content-output -->
+      </div>
+      <!-- main ends here -->
+
+      <!-- sidebars starts here -->
+            <div id="sidebars" class="grid_4">
+
+        <!-- left sidebar starts here -->
+                <!-- left sidebar ends here -->
+
+        <!-- right sidebar starts here -->
+                <div class="grid_4 omega sidebar-right">
+          <div id="block-menu-primary-links" class="block block-menu">
+  <h3 class="title">Menu</h3>
+
+  <div class="content">
+    <ul class="menu"><li class="collapsed first"><a href="../about" title="About">About</a></li>
+<li class="leaf"><a href="../award.3" title="Nordic Free Software Award">Award</a></li>
+<li class="collapsed"><a href="34" title="Satellite events">Satellites</a></li>
+<li class="leaf"><a href="../donate" title="Donate">Donate</a></li>
+<li class="leaf"><a href="../schedule" title="Schedule">Schedule</a></li>
+<li class="collapsed"><a href="../practical-information" title="">Practical Info</a></li>
+<li class="leaf"><a href="../sponsors" title="Sponsors">Sponsors</a></li>
+<li class="leaf"><a href="../helping" title="Help FSCONS">Help FSCONS</a></li>
+<li class="leaf"><a href="../register" title="Registration">Register</a></li>
+<li class="leaf last"><a href="http://live.fscons.org/" title="">LIVE</a></li>
+</ul>  </div>
+</div><div id="block-node-0" class="block block-node">
+  <h3 class="title">Syndicate</h3>
+
+  <div class="content">
+    <a href="../rss.xml" class="feed-icon"><img src="../misc/feed.png" alt="Syndicate content" title="Syndicate" width="16" height="16" /></a>  </div>
+</div>        </div>
+                <!-- right sidebar ends here -->
+
+      </div>
+            <!-- sidebars end here -->
+
+    </div>
+    <!-- content ends here -->
+
+    <!-- footer starts here -->
+    <div id="footer-wrapper" class="container_16">
+
+      <!-- footer top starts here -->
+      <div id="footer-content">
+
+        <!-- footer left starts here -->
+        <div class="grid_8" id="footer-left">
+                  </div>
+        <!-- footer left ends here -->
+
+        <!-- footer right starts here -->
+        <div class="grid_8" id="footer-right">
+                  </div>
+        <!-- footer right ends here -->
+
+      </div>
+      <!-- footer top ends here -->
+
+      <!-- footer bottom starts here -->
+      <div id="footer-bottom">
+        <div id="footer-meta" class="clear-block">
+            
+                  </div>
+
+                <div id="footer-bottom-content">
+          <div id="block-system-0" class="block block-system">
+
+  <div class="content">
+    <a href="http://drupal.org"><img src="../misc/powered-blue-80x15.png" alt="Powered by Drupal, an open source content management system" title="Powered by Drupal, an open source content management system" width="80" height="15" /></a>  </div>
+</div>        </div>
+              </div>
+      <!-- footer bottom ends here -->
+
+    </div>
+    <!-- footer ends here -->
+      </body>
+</html>

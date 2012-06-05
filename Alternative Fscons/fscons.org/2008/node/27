@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>FSCONS | fscons.org 2008</title>
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../misc/favicon.ico" type="image/x-icon" />
+    <link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="http://fscons.org/2008/modules/user/user.css?j" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/fscons.org.2008/themes/blix/style.css?j" />
+    </head>
+<body >
+<div id="container">
+  <div id="header">
+      <h1><a href="../index.html" title=""></a></h1>
+      <div class="slogan">October 24th - 26th @ IT-University Gothenburg</div>
+  </div>
+  <div id="navigation">
+                    </div>
+<hr class="low" />
+  <div id="content">
+    <div class="navigation"> <div class="breadcrumb"><a href="../index.html">Home</a></div> </div>
+                	<h2 class="page-title">FSCONS</h2>
+                <!-- start main content -->
+    <div class="entry"> 
+   
+  <p>Three big names from the world of community movements: <a href="http://www.fsfeurope.org" title="FSF Europe" target="_blank">Free Software Foundation Europe(FSFE)</a>, <a href="http://www.creativecommons.se" title="Creative Commons Sweden" target="_blank">Creative Commons</a> and <a href="http://meta.wikimedia.org/wiki/Wikimedia_Sverige" title="Wikimedia Sweden" target="_blank">Wikimedia</a>, come together under the banner of Free Society at this year's FSCONS in Gothenburg Sweden.</p>
+<p>The lectures and events surrounding the conference will range from modern Kernel design over citizen journalism all the way across to licensing in the 21st century.</p>
+<p>Each of the three main organizers is responsible for one track at the conference. The <a href="http://www.fsfeurope.org" title="FSF Europe" target="_blank">FSFE</a> will coordinate events dealing with Free Software whereas <a href="http://www.creativecommons.se" title="Creative Commons Sweden" target="_blank">Creative Commons</a> and <a href="http://meta.wikimedia.org/wiki/Wikimedia_Sverige" title="Wikimedia Sweden" target="_blank">Wikimedia</a> will educate and present projects surrounding Free Culture and Open Content respectively.</p>
+<p>This first of a kind event will allow the participants to reach across the boarders of their individual community and by nourishing cross topic discussions stimulate the creation of joint projects.</p>
+<p>FSCONS is more than a series of presentations. Alongside the lectures there will be plenty of room for discussions either self initiated or as part of seminars, workshops or panel discussions.</p>
+<p>FSCONS is a place to meet. The venue (the IT-University in Gothenburg) allows for a lot of space being dedicated to meet other activists and exchange ideas and experiences in a creative and innovative environment. Complimenting this approach, the schedule of the events will be flexible and provide enough time to engage in social activities without missing any events.</p>
+<p>Despite its setting in northern Europe FSCONS is certainly not an event limited to this region. It is more a chance to engage in shaping the movements of tomorrow in a city where tradition meets invention and art meets technology.</p>
+<p>In this sense<br />
+Vällkommen till Göteborg 08!</p>
+<p>While the page for FSCONS 2008 is growing, last years is <a href="../../2007/index.html">still available</a></p>
+<p>Sign up to get info from the FSCONS team (low traffic): <a href="http://mail.fscons.org/mailman/listinfo/info">http://mail.fscons.org/mailman/listinfo/info</a></p>
+<p>You can get the videos from last year’s FSCONS:<br />
+<a href="http://www.fsfe.org/en/advocacy/audio_videos/fscons_2007">http://www.fsfe.org/en/advocacy/audio_videos/fscons_2007</a></p>
+   
+  <p class="info">Posted in <ul class="links inline"><li class="taxonomy_term_1 first last"><a href="../taxonomy/term/1" rel="tag" title="uncategorized">Uncategorized</a></li>
+</ul> <ul class="links inline"><li class="comment_forbidden first last"><span><a href="http://fscons.org/2008/user/login?destination=comment%2Freply%2F27%23comment-form">Login</a> to post comments</span></li>
+</ul></p>
+   <small></small>
+   
+</div>
+
+<hr class="low" />    <!-- end main content -->
+  </div>
+  <div id="subcontent">
+    <div id="block-user-0" class="block block-user">
+  <h2>User login</h2>
+
+  <div class="content">
+    <form action="http://fscons.org/2008/node/27?destination=node%2F27"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
+<div class="item-list"><ul><li class="first last"><a href="http://fscons.org/2008/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-cda85b279488cf810c94d58825a79232" value="form-cda85b279488cf810c94d58825a79232"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+  </div>
+</div>
+<div id="block-blog-0" class="block block-blog">
+  <h2>Recent blog posts</h2>
+
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="87">Live Video Streams</a></li>
+<li><a href="85">Certificate assurance session for cacert.org certificates on FSCONS 2008</a></li>
+<li><a href="84">Niclas Nilsson has been interviewed</a></li>
+<li><a href="81">Interview: Johan Eklund and Tham Wickenberg</a></li>
+<li><a href="80">13 nominated for Nordic Free Software Award</a></li>
+<li><a href="79">Secure communications with Open Source PKI</a></li>
+<li><a href="78">Openmoko Code Sprint</a></li>
+<li><a href="75">Fredrik Jonsson interview on Ubuntu deployment</a></li>
+<li><a href="73">Interview: Magnus Hagander</a></li>
+<li class="last"><a href="71">Jeremiah Foster interviewed</a></li>
+</ul></div><div class="more-link"><a href="../blog.3" title="Read the latest blog entries.">more</a></div>  </div>
+</div>
+   </div>
+ <hr class="low" />
+  <div id="footer">
+             Design by <a href="http://www.arvoriad.com">Arvoriad Consulting</a>.
+  </div>
+</div>
+</body>
+</html>
