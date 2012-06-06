@@ -5,16 +5,16 @@
   <title>The traces we leave behind and how to find them by Mattias Wecksten Abstract (short talk) | FSCONS.org</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="shortcut icon" href="../misc/favicon.ico" type="image/x-icon" />
-  <link type="text/css" rel="stylesheet" media="all" href="../modules/aggregator/aggregator.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/poll/poll.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="http://fscons.org/2009/modules/user/user.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/all/themes/ninesixtyrobots/css/reset.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/all/themes/ninesixtyrobots/css/960.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/all/themes/ninesixtyrobots/css/main.css?G" />
+  <link type="text/css" rel="stylesheet" media="all" href="../modules/aggregator/aggregator.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/poll/poll.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../2009/modules/user/user.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/themes/ninesixtyrobots/css/reset.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/themes/ninesixtyrobots/css/960.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/themes/ninesixtyrobots/css/main.css" />
   <script type="text/javascript" src="../misc/jquery.js?G"></script>
 <script type="text/javascript" src="../misc/drupal.js?G"></script>
 <script type="text/javascript" src="../sites/all/modules/rounded_corners/jquery.corner.js?G"></script>
@@ -80,7 +80,7 @@ $(".daysleft").corner("round 10px");
 <p>This talk will give the audience an insight in the world of invisible surveillance and what kind of tracks we leave behind by merely using a computer system. The audience will also be introduced to how this data can be extracted and how the authorities, the employer or the user can benefit from this. The talk ends with a few examples of how to protect yourself from leaving unwanted traces behind.</p>
   </div>
 
-      <div class="postmeta"><ul class="links inline"><li class="comment_forbidden first last"><span><a href="http://fscons.org/2009/user/login?destination=comment%2Freply%2F77%23comment-form">Login</a> to post comments</span></li>
+      <div class="postmeta"><ul class="links inline"><li class="comment_forbidden first last"><span><a href="../2009/user/login?destination=comment%2Freply%2F77%23comment-form">Login</a> to post comments</span></li>
 </ul></div>
   </div>        </div><!-- /#content-output -->
       </div>

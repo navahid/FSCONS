@@ -5,16 +5,16 @@
   <title>Practical Information | FSCONS.org</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="shortcut icon" href="misc/favicon.ico" type="image/x-icon" />
-  <link type="text/css" rel="stylesheet" media="all" href="modules/aggregator/aggregator.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/node/node.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/poll/poll.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/system/defaults.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/system/system.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/system/system-menus.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="http://fscons.org/2009/modules/user/user.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/ninesixtyrobots/css/reset.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/ninesixtyrobots/css/960.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/ninesixtyrobots/css/main.css?G" />
+  <link type="text/css" rel="stylesheet" media="all" href="modules/aggregator/aggregator.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/node/node.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/poll/poll.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/defaults.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/system.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/system-menus.css" />
+<link type="text/css" rel="stylesheet" media="all" href="./modules/user/user.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/ninesixtyrobots/css/reset.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/ninesixtyrobots/css/960.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/ninesixtyrobots/css/main.css" />
   <script type="text/javascript" src="misc/jquery.js?G"></script>
 <script type="text/javascript" src="misc/drupal.js?G"></script>
 <script type="text/javascript" src="sites/all/modules/rounded_corners/jquery.corner.js?G"></script>
@@ -77,13 +77,13 @@ $(".daysleft").corner("round 10px");
 
   <div class="content">
     <ul>
-<li><a href="http://fscons.org/register">Register here</a></li>
-<li><a href="http://fscons.org/arriving">Arriving in Gothenburg</a></li>
-<li><a href="http://fscons.org/accommodation">Accomodation</a></li>
-<li><a href="http://fscons.org/eat-and-drink">Cafes and restaurants</a> near the conference center</li>
-<li><a href="http://fscons.org/things-to-do">Things to do in Gothenburg and sites to see</a></li>
-<li><a href="http://fscons.org/public-transportation">Public transportation</a></li>
-<li><a href="http://fscons.org/venue-map">Venue map</a></li>
+<li><a href="./register">Register here</a></li>
+<li><a href="./arriving">Arriving in Gothenburg</a></li>
+<li><a href="./accommodation">Accomodation</a></li>
+<li><a href="./eat-and-drink">Cafes and restaurants</a> near the conference center</li>
+<li><a href="./things-to-do">Things to do in Gothenburg and sites to see</a></li>
+<li><a href="./public-transportation">Public transportation</a></li>
+<li><a href="./venue-map">Venue map</a></li>
 </ul>
   </div>
 
@@ -108,12 +108,12 @@ $(".daysleft").corner("round 10px");
 <li class="collapsed"><a href="node/34" title="Satellite events">Satellites</a></li>
 <li class="leaf"><a href="donate" title="Donate">Donate</a></li>
 <li class="leaf"><a href="schedule" title="Schedule">Schedule</a></li>
-<li class="expanded active-trail"><a href="practical-information" title="" class="active">Practical Info</a><ul class="menu"><li class="leaf first"><a href="http://fscons.org/2009/arriving" title="">Arriving in Göteborg</a></li>
-<li class="collapsed"><a href="http://fscons.org/2009/accommodation" title="Accommodation">Accommodation</a></li>
-<li class="leaf"><a href="http://fscons.org/2009/eat-and-drink" title="">Cafes and restaurants</a></li>
-<li class="leaf"><a href="http://fscons.org/2009/public-transportation" title="Public transportation">Public transportation</a></li>
-<li class="leaf"><a href="http://fscons.org/2009/venue-map" title="">Venue Map</a></li>
-<li class="leaf last"><a href="http://fscons.org/2009/things-to-do" title="Things to do in Gothenburg">Things to do</a></li>
+<li class="expanded active-trail"><a href="practical-information" title="" class="active">Practical Info</a><ul class="menu"><li class="leaf first"><a href="./arriving" title="">Arriving in Göteborg</a></li>
+<li class="collapsed"><a href="./accommodation" title="Accommodation">Accommodation</a></li>
+<li class="leaf"><a href="./eat-and-drink" title="">Cafes and restaurants</a></li>
+<li class="leaf"><a href="./public-transportation" title="Public transportation">Public transportation</a></li>
+<li class="leaf"><a href="./venue-map" title="">Venue Map</a></li>
+<li class="leaf last"><a href="./things-to-do" title="Things to do in Gothenburg">Things to do</a></li>
 </ul></li>
 <li class="leaf"><a href="sponsors" title="Sponsors">Sponsors</a></li>
 <li class="leaf"><a href="helping" title="Help FSCONS">Help FSCONS</a></li>

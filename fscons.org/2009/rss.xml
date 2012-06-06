@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="http://fscons.org/2009"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="."  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>FSCONS.org</title>
- <link>http://fscons.org/2009</link>
+ <link>.</link>
  <description></description>
  <language>en</language>
 <item>
  <title>Lunch Reservation</title>
- <link>http://fscons.org/2009/lunch-reservation-old</link>
+ <link>./lunch-reservation-old</link>
  <description>&lt;p&gt;Pre-registration for lunch has closed! Thank you for your interest. We will still have lunches to be sold, but you will have to go to the information desk at the conference venue during the conference to inquire about this.&lt;/p&gt;
 </description>
  <pubDate>Thu, 22 Oct 2009 13:42:22 +0000</pubDate>
  <dc:creator>Jonas</dc:creator>
- <guid isPermaLink="false">88 at http://fscons.org/2009</guid>
+ <guid isPermaLink="false">88 at .</guid>
 </item>
 <item>
  <title>Workshop: Embedding Qt</title>
- <link>http://fscons.org/2009/node/54</link>
+ <link>./node/54</link>
  <description>&lt;p&gt;The slides are available at: &lt;a href=&quot;http://www.slideshare.net/fscons2009/embedding-qt&quot; title=&quot;http://www.slideshare.net/fscons2009/embedding-qt&quot;&gt;http://www.slideshare.net/fscons2009/embedding-qt&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;Johan Thelin&lt;/h3&gt;
 &lt;p&gt;
@@ -26,40 +26,40 @@ deploying onto the actual target system.&lt;/p&gt;
 </description>
  <pubDate>Mon, 21 Sep 2009 11:56:35 +0000</pubDate>
  <dc:creator>Jonas</dc:creator>
- <guid isPermaLink="false">54 at http://fscons.org/2009</guid>
+ <guid isPermaLink="false">54 at .</guid>
 </item>
 <item>
  <title>Hackerspaces FTW!</title>
- <link>http://fscons.org/2009/node/49</link>
+ <link>./node/49</link>
  <description>&lt;h3&gt;Karin Kosina&lt;/h3&gt;
 &lt;p&gt;Hackerspaces FTW!&lt;/p&gt;
 &lt;p&gt;Hackerspaces are real-life meeting places for creative people to get together to share knowledge, explore, learn, tinker with new technologies, socialise, have ideas and make them happen. Our vision is to enable people to stop being consumers and start being &lt;i&gt;creators&lt;/i&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://fscons.org/2009/node/49&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&quot;./node/49&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
  <pubDate>Tue, 15 Sep 2009 14:50:52 +0000</pubDate>
  <dc:creator>Jonas</dc:creator>
- <guid isPermaLink="false">49 at http://fscons.org/2009</guid>
+ <guid isPermaLink="false">49 at .</guid>
 </item>
 <item>
  <title>About FSCONS</title>
- <link>http://fscons.org/2009/about-fscons</link>
+ <link>./about-fscons</link>
  <description>&lt;h2&gt;Free Society Conference and Nordic Summit&lt;/h2&gt;
 &lt;p&gt;
 &lt;em&gt;The Road Ahead in the Nordic Countries&lt;/em&gt;&lt;br /&gt;
 13-15 November 2009&lt;br /&gt;
 &lt;strong&gt;UPDATED:&lt;/strong&gt; IT Universitetet, Forskningsgången 6, Lindholmen, Göteborg, Sweden&lt;/p&gt;
 &lt;p&gt;The Free Society Conference and Nordic Summit (FSCONS) is a meeting place for social change, focused on the future of free software and free society. The growing speed of new and innovative changes taking place within digital culture, as well as the pressing need for members of a marginalized society to gain access to important, updated information without financial or governmental barriers, the 2009 FSCONS will deal with an array of hot topics.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://fscons.org/2009/about-fscons&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&quot;./about-fscons&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
  <pubDate>Fri, 21 Aug 2009 12:32:52 +0000</pubDate>
  <dc:creator>Rikard</dc:creator>
- <guid isPermaLink="false">38 at http://fscons.org/2009</guid>
+ <guid isPermaLink="false">38 at .</guid>
 </item>
 <item>
  <title>Registration</title>
- <link>http://fscons.org/2009/registration</link>
+ <link>./registration</link>
  <description></description>
  <pubDate>Fri, 12 Jun 2009 17:39:07 +0000</pubDate>
  <dc:creator>Rikard</dc:creator>
- <guid isPermaLink="false">13 at http://fscons.org/2009</guid>
+ <guid isPermaLink="false">13 at .</guid>
 </item>
 </channel>
 </rss>

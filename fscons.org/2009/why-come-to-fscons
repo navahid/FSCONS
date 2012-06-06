@@ -5,16 +5,16 @@
   <title>Top 10 reasons to come to FSCONS | FSCONS.org</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="shortcut icon" href="misc/favicon.ico" type="image/x-icon" />
-  <link type="text/css" rel="stylesheet" media="all" href="modules/aggregator/aggregator.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/node/node.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/poll/poll.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/system/defaults.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/system/system.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/system/system-menus.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="http://fscons.org/2009/modules/user/user.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/ninesixtyrobots/css/reset.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/ninesixtyrobots/css/960.css?G" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/ninesixtyrobots/css/main.css?G" />
+  <link type="text/css" rel="stylesheet" media="all" href="modules/aggregator/aggregator.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/node/node.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/poll/poll.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/defaults.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/system.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/system-menus.css" />
+<link type="text/css" rel="stylesheet" media="all" href="./modules/user/user.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/ninesixtyrobots/css/reset.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/ninesixtyrobots/css/960.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/ninesixtyrobots/css/main.css" />
   <script type="text/javascript" src="misc/jquery.js?G"></script>
 <script type="text/javascript" src="misc/drupal.js?G"></script>
 <script type="text/javascript" src="sites/all/modules/rounded_corners/jquery.corner.js?G"></script>
@@ -80,7 +80,7 @@ $(".daysleft").corner("round 10px");
 <h3>1. Tons of interesting stuff </h3>
 <p><a href="../schedule">Schedule</a><br />
 Mingle event<br />
-<a href="http://fscons.org/award">Nordic Free Software Award</a><br />
+<a href="./award">Nordic Free Software Award</a><br />
 .....</p>
 <h3>2. We have really interesting presentations </h3>
 <p><a href="http://www.flickr.com/photos/43304196@N06/4072687221/in/photostream/"><br />
