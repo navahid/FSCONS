@@ -6,14 +6,14 @@
     <meta http-equiv="Content-Style-Type" content="text/css" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="shortcut icon" href="../misc/favicon.ico" type="image/x-icon" />
-    <link type="text/css" rel="stylesheet" media="all" href="../modules/aggregator/aggregator.css?H" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css?H" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css?H" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css?H" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus.css?H" />
-<link type="text/css" rel="stylesheet" media="all" href="http://fscons.org/2007/modules/user/user.css?H" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/forum/forum.css?H" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/fscons.org.2007/themes/blix/style.css?H" />
+    <link type="text/css" rel="stylesheet" media="all" href="../modules/aggregator/aggregator.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/user/user.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/forum/forum.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/fscons.org.2007/themes/blix/style.css" />
     </head>
 <body >
 <div id="container">
@@ -50,13 +50,13 @@
 <tr>
 <td class="schedtime">10.00-10.45</td>
 <td>
-<p><a href="http://fscons.org/2007/node/openid">OpenID</a><em> </em><br />
-            <em><a href="http://fscons.org/2007/node/simon-josefsson">Simon Josefsson</a></em></p>
+<p><a href="../node/openid">OpenID</a><em> </em><br />
+            <em><a href="../node/simon-josefsson">Simon Josefsson</a></em></p>
 <p><a href="http://josefsson.org/fscons/fscons-openid.pdf">Presentation</a></p>
 </td>
 <td>
-<p><a href="http://fscons.org/2007/node/digitalrights">Digital Rights</a></p>
-<p>            <a href="http://fscons.org/2007/node/mathias-klang"><em>Mathias Klang</em></a></p>
+<p><a href="../node/digitalrights">Digital Rights</a></p>
+<p>            <a href="../node/mathias-klang"><em>Mathias Klang</em></a></p>
 </td>
 </tr>
 <tr>
@@ -66,25 +66,25 @@
 <tr>
 <td class="schedtime">11.15-12.00</td>
 <td>
-<p><a href="http://fscons.org/2007/node/olpc">OLPC</a></p>
-<p>            <a href="http://fscons.org/2007/node/pierre-ossman"><em>Pierre Ossman</em></a></p>
+<p><a href="../node/olpc">OLPC</a></p>
+<p>            <a href="../node/pierre-ossman"><em>Pierre Ossman</em></a></p>
 <p><a href="http://homes.drzeus.cx/~drzeus/olpc-fscons.odp"><em>Presentation</em></a></p>
 </td>
 <td>
-<p><a href="http://fscons.org/2007/node/google">Google - technology and free software</a><br />
-            <em><a href="http://fscons.org/2007/node/lars-albertsson">Lars Albertsson</a></em></p>
+<p><a href="../node/google">Google - technology and free software</a><br />
+            <em><a href="../node/lars-albertsson">Lars Albertsson</a></em></p>
 </td>
 </tr>
 <tr>
 <td class="schedtime">12.15-13.00</td>
 <td>
-<p><a href="http://fscons.org/2007/node/squid">squid</a><br />
-            <a href="http://fscons.org/2007/node/henrik-nordstrom"><em>Henrik Nordstr&ouml;m</em></a></p>
+<p><a href="../node/squid">squid</a><br />
+            <a href="../node/henrik-nordstrom"><em>Henrik Nordstr&ouml;m</em></a></p>
 </td>
 <td>
-<p><a href="http://fscons.org/2007/node/consumerrights">Digital Rights for consumers</a><br />
-            <a href="http://fscons.org/2007/node/erik-josefsson"><em>Erik Josefsson</em></a></p>
-<p><a href="http://fscons.org/2007/node/files/20071207Goteborg.ppt"><em>Presentation</em></a></p>
+<p><a href="../node/consumerrights">Digital Rights for consumers</a><br />
+            <a href="../node/erik-josefsson"><em>Erik Josefsson</em></a></p>
+<p><a href="../node/files/20071207Goteborg.ppt"><em>Presentation</em></a></p>
 </td>
 </tr>
 <tr class="schedbreak">
@@ -94,26 +94,26 @@
 <tr>
 <td class="schedtime">14.00-14.45</td>
 <td>
-<p><a href="http://fscons.org/2007/node/gtk">How to write gtk applications</a><br />
-            <a href="http://fscons.org/2007/node/martyn-russell"><em>Martyn Russell</em></a></p>
+<p><a href="../node/gtk">How to write gtk applications</a><br />
+            <a href="../node/martyn-russell"><em>Martyn Russell</em></a></p>
 <p><em>(<a href="http://developer.imendio.com/sites/developer.imendio.com/files/gtk-application-development.pdf">Presentation</a> / <a href="http://developer.imendio.com/sites/developer.imendio.com/files/gtk-application-development-examples.tar_.bz2">examples</a>)</em></p>
 </td>
 <td>
-<p><a href="http://fscons.org/2007/node/licensingintheworld">Free Software licensing</a><br />
-            <a href="http://fscons.org/2007/node/shane-coughlan"><em>Shane Coughlan</em><br />
+<p><a href="../node/licensingintheworld">Free Software licensing</a><br />
+            <a href="../node/shane-coughlan"><em>Shane Coughlan</em><br />
             </a></p>
 </td>
 </tr>
 <tr>
 <td class="schedtime">15.00-15.45</td>
 <td>
-<p><a href="http://fscons.org/2007/node/gtk">How to write gtk applications</a></p>
-<p>            <em><a href="http://fscons.org/2007/node/carlos-garnacho">Carlos Garnacho</a></em></p>
+<p><a href="../node/gtk">How to write gtk applications</a></p>
+<p>            <em><a href="../node/carlos-garnacho">Carlos Garnacho</a></em></p>
 <p><em>(<a href="http://developer.imendio.com/sites/developer.imendio.com/files/gtk-application-development.pdf">Presentation</a> / <a href="http://developer.imendio.com/sites/developer.imendio.com/files/gtk-application-development-examples.tar_.bz2">examples</a>)</em></p>
 </td>
 <td>
-<p><a href="http://fscons.org/2007/node/decisionmaking">NGO - decision making</a><br />
-            <a href="http://fscons.org/2007/node/anne-ostergaard"><em>Anne &Oslash;stergaard</em></a></p>
+<p><a href="../node/decisionmaking">NGO - decision making</a><br />
+            <a href="../node/anne-ostergaard"><em>Anne &Oslash;stergaard</em></a></p>
 <p><a href="http://easterbridge.com/">Presentation</a></p>
 </td>
 </tr>
@@ -124,13 +124,13 @@
 <tr>
 <td class="schedtime">16.15-17.00</td>
 <td>
-<p><a href="http://fscons.org/2007/node/xen">Virtualisation with Xen</a><br />
-            <a href="http://fscons.org/2007/node/jan-hedstrom"><em>J</em><em>an Hedstr&ouml;m</em></a></p>
+<p><a href="../node/xen">Virtualisation with Xen</a><br />
+            <a href="../node/jan-hedstrom"><em>J</em><em>an Hedstr&ouml;m</em></a></p>
 <p><a href="http://people.redhat.com/jhedstro/.talks/fscons2007/">Presentation</a></p>
 </td>
 <td>
-<p><a href="http://fscons.org/2007/node/gegl">GIMP/GEGL</a><br />
-            <a href="http://fscons.org/2007/node/oyvind-kolas"><em>&Oslash;yvind Kol&aring;s</em></a></p>
+<p><a href="../node/gegl">GIMP/GEGL</a><br />
+            <a href="../node/oyvind-kolas"><em>&Oslash;yvind Kol&aring;s</em></a></p>
 </td>
 </tr>
 <tr>
@@ -139,7 +139,7 @@
 </tr>
 <tr class="schedfun">
 <td class="schedtime">18.00-19.00</td>
-<td align="center" colspan="2"><a href="http://fscons.org/2007/node/node/39">Mingle snacks / drinks</a></td>
+<td align="center" colspan="2"><a href="../node/node/39">Mingle snacks / drinks</a></td>
 </tr>
 <tr class="schedfun">
 <td class="schedtime">19.00-20.00</td>
@@ -147,7 +147,7 @@
 </tr>
 <tr class="schedfun">
 <td class="schedtime">20.00-21.00</td>
-<td align="center" colspan="2"><a href="http://fscons.org/2007/node/keysigning">Key Signing party</a></td>
+<td align="center" colspan="2"><a href="../node/keysigning">Key Signing party</a></td>
 </tr>
 </tbody>
 </table>
@@ -158,18 +158,18 @@
 </tr>
 <tr>
 <td class="schedtime">09.00-09.45</td>
-<td align="center" colspan="2" class="schedtalk"><a href="http://fscons.org/2007/node/lars-aronsson">Lars Aronsson</a> / <a href="http://fscons.org/2007/node/wikipedia">Wikipedia</a></td>
+<td align="center" colspan="2" class="schedtalk"><a href="../node/lars-aronsson">Lars Aronsson</a> / <a href="../node/wikipedia">Wikipedia</a></td>
 </tr>
 <tr>
 <td class="schedtime">10.00-10.45</td>
 <td>
-<p><a href="http://fscons.org/2007/node/gnutls">GnuTLS</a><br />
-            <em><a href="http://fscons.org/2007/node/simon-josefsson">Simon Josefsson</a></em></p>
-<p><a href="http://josefsson.org/fscons/fscons-gnutls.pdf">Presentation</a><em><a href="http://fscons.org/2007/node/simon-josefsson"><br />
+<p><a href="../node/gnutls">GnuTLS</a><br />
+            <em><a href="../node/simon-josefsson">Simon Josefsson</a></em></p>
+<p><a href="http://josefsson.org/fscons/fscons-gnutls.pdf">Presentation</a><em><a href="../node/simon-josefsson"><br />
             </a></em></p>
 </td>
-<td><a href="http://fscons.org/2007/node/free_software_female_touch">Free Software with a female touch</a>
-<p>            <em><a href="http://fscons.org/2007/node/nanda">Fernanda G Weiden<br />
+<td><a href="../node/free_software_female_touch">Free Software with a female touch</a>
+<p>            <em><a href="../node/nanda">Fernanda G Weiden<br />
             </a></em></p></td>
 </tr>
 <tr class="schedbreak">
@@ -179,24 +179,24 @@
 <tr>
 <td class="schedtime">11.15-12.00</td>
 <td>
-<p><a href="http://fscons.org/2007/node/mysql">MySQL clustering and optimisation</a></p>
-<p>            <em><a href="http://fscons.org/2007/node/anders-karlsson">Anders Karlsson</a></em></p>
+<p><a href="../node/mysql">MySQL clustering and optimisation</a></p>
+<p>            <em><a href="../node/anders-karlsson">Anders Karlsson</a></em></p>
 </td>
 <td>
-<p><a href="http://fscons.org/2007/node/self">SELF</a><br />
-            <em><a href="http://fscons.org/2007/node/jonas-oberg">Jonas &Ouml;berg</a></em></p>
+<p><a href="../node/self">SELF</a><br />
+            <em><a href="../node/jonas-oberg">Jonas &Ouml;berg</a></em></p>
 </td>
 </tr>
 <tr>
 <td class="schedtime">12.15-13.00</td>
 <td>
-<p><em><a href="http://fscons.org/2007/node/qtopia">Free software in Telecom focusing on Qtopia </a><br />
-            <a href="http://fscons.org/2007/node/knut-yrvin">Knut Yrvin</a></em></p>
+<p><em><a href="../node/qtopia">Free software in Telecom focusing on Qtopia </a><br />
+            <a href="../node/knut-yrvin">Knut Yrvin</a></em></p>
 <p><a href="http://developer.skolelinux.no/~knuty/fscons-2007-12-07.pdf">Presentation</a></p>
 </td>
 <td>
-<p><em><a href="http://fscons.org/2007/node/toolchain">PyPy: Generating Virtual Machines for Dynamic Languages</a><br />
-            <a href="http://fscons.org/2007/node/laura-creighton">Laura Creighton</a></em></p>
+<p><em><a href="../node/toolchain">PyPy: Generating Virtual Machines for Dynamic Languages</a><br />
+            <a href="../node/laura-creighton">Laura Creighton</a></em></p>
 <p><a href="http://codespeak.net/pypy/extradoc/talk/roadshow-google/Pypy_architecture.pdf">Presentation</a></p>
 </td>
 </tr>
@@ -207,26 +207,26 @@
 <tr>
 <td class="schedtime">14.00-14.45</td>
 <td>
-<p><a href="http://fscons.org/2007/node/openmoko">OpenMoko</a><br />
-            <em><a href="http://fscons.org/2007/node/ole-tange">Ole Tange</a></em></p>
+<p><a href="../node/openmoko">OpenMoko</a><br />
+            <em><a href="../node/ole-tange">Ole Tange</a></em></p>
 <p><a href="http://ole.tange.dk/foredrag/openmoko-goteborg/img0.html"><em>Presentation</em></a></p>
 </td>
 <td>
-<p><a href="http://fscons.org/2007/node/kde">KDE 4 + Koffice</a><br />
-            <em><a href="http://fscons.org/2007/node/inge-wallin">Inge Wallin</a></em></p>
+<p><a href="../node/kde">KDE 4 + Koffice</a><br />
+            <em><a href="../node/inge-wallin">Inge Wallin</a></em></p>
 </td>
 </tr>
 <tr>
 <td class="schedtime">15.00-15.45</td>
 <td>
-<p><a href="http://fscons.org/2007/node/curl">curl</a><br />
-            <em><a href="http://fscons.org/2007/node/daniel-stenberg">Daniel Stenberg</a></em></p>
-<p><a href="http://daniel.haxx.se/curl-20071208.pdf">Presentation</a><em><a href="http://fscons.org/2007/node/daniel-stenberg"><br />
+<p><a href="../node/curl">curl</a><br />
+            <em><a href="../node/daniel-stenberg">Daniel Stenberg</a></em></p>
+<p><a href="http://daniel.haxx.se/curl-20071208.pdf">Presentation</a><em><a href="../node/daniel-stenberg"><br />
             </a></em></p>
 </td>
 <td>
-<p><a href="http://fscons.org/2007/node/lightningtalks">Lightning talks</a><br />
-            (<a href="http://fscons.org/2007/node/sven-guckes">Events</a>, <a href="http://fscons.org/2007/node/monika-orski">FAQ</a>, <a href="http://fscons.org/2007/node/alexandre-buisse">FS and anarchy</a>)</p>
+<p><a href="../node/lightningtalks">Lightning talks</a><br />
+            (<a href="../node/sven-guckes">Events</a>, <a href="../node/monika-orski">FAQ</a>, <a href="../node/alexandre-buisse">FS and anarchy</a>)</p>
 </td>
 </tr>
 <tr class="schedbreak">
@@ -236,21 +236,21 @@
 <tr>
 <td class="schedtime">16.15-17.00</td>
 <td>
-<p><a href="http://fscons.org/2007/node/skolelinux">Skolelinux</a><br />
-            <em><a href="http://fscons.org/2007/node/anders-kringstad">Anders Kringstad</a></em></p>
-<p><a href="http://fscons.org/2007/node/files/20071208-skolelinux-fscons.odp"><em>Presentation</em></a></p>
+<p><a href="../node/skolelinux">Skolelinux</a><br />
+            <em><a href="../node/anders-kringstad">Anders Kringstad</a></em></p>
+<p><a href="../node/files/20071208-skolelinux-fscons.odp"><em>Presentation</em></a></p>
 </td>
 <td>
-<p><a href="http://fscons.org/2007/node/lightningtalks">Lightning talks</a><br />
-            (<a href="http://fscons.org/2007/node/jeremiah-foster">perl</a>, <a href="http://fscons.org/2007/node/thomas-hansen">ajax</a>, <a href="http://fscons.org/2007/node/makumba">makumba</a>, <a href="http://fscons.org/2007/node/peter-stuge">linuxbios</a>)</p>
+<p><a href="../node/lightningtalks">Lightning talks</a><br />
+            (<a href="../node/jeremiah-foster">perl</a>, <a href="../node/thomas-hansen">ajax</a>, <a href="../node/makumba">makumba</a>, <a href="../node/peter-stuge">linuxbios</a>)</p>
 </td>
 </tr>
 <tr>
 <td class="schedtime">17.15-18.00</td>
 <td colspan="2" class="schedtalk">
 <div align="center">
-<p><a href="http://fscons.org/2007/node/georg-greve"><em>Georg Greve / </em></a><a href="http://fscons.org/2007/node/freedom-at-stake">Freedom at stake</a></p>
-<p><a href="http://fscons.org/2007/node/files/FreedomAtStake.pdf">Presentation</a><a href="http://fscons.org/2007/node/georg-greve"><br />
+<p><a href="../node/georg-greve"><em>Georg Greve / </em></a><a href="../node/freedom-at-stake">Freedom at stake</a></p>
+<p><a href="../node/files/FreedomAtStake.pdf">Presentation</a><a href="../node/georg-greve"><br />
             </a></p>
 </div>
 </td>
@@ -267,7 +267,7 @@
   <h2>User login</h2>
 
   <div class="content">
-    <form action="http://fscons.org/2007/node/2?destination=node%2F2"  accept-charset="UTF-8" method="post" id="user-login-form">
+    <form action="../node/2?destination=node%2F2"  accept-charset="UTF-8" method="post" id="user-login-form">
 <div><div class="form-item" id="edit-name-wrapper">
  <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
  <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
@@ -277,7 +277,7 @@
  <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
-<div class="item-list"><ul><li class="first last"><a href="http://fscons.org/2007/user/password" title="Request new password via e-mail.">Request new password</a></li>
+<div class="item-list"><ul><li class="first last"><a href="../user/password" title="Request new password via e-mail.">Request new password</a></li>
 </ul></div><input type="hidden" name="form_build_id" id="form-f3131abe0bd2c37582aa5b9d88ae425c" value="form-f3131abe0bd2c37582aa5b9d88ae425c"  />
 <input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
 

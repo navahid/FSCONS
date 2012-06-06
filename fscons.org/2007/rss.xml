@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="http://fscons.org/2007"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="."  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>fscons.org 2007</title>
- <link>http://fscons.org/2007</link>
+ <link>.</link>
  <description></description>
  <language>en</language>
 <item>
  <title>Main</title>
- <link>http://fscons.org/2007/node/8</link>
+ <link>./node/8</link>
  <description>&lt;div align=&quot;center&quot;&gt;
 &lt;p&gt;&lt;a href=&quot;getaround&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/files/2007/fscons_logo.png&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
 &lt;h4&gt;Thanks for coming to FSCONS.&lt;/h4&gt;
@@ -50,10 +50,10 @@
 &lt;/p&gt;&lt;p&gt;&lt;a href=&quot;/2007/node/11&quot;&gt;FSCONS in the press&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://fscons.org/2007/node/8&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&quot;./node/8&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
  <pubDate>Wed, 08 Jul 2009 20:07:00 +0000</pubDate>
  <dc:creator />
- <guid isPermaLink="false">8 at http://fscons.org/2007</guid>
+ <guid isPermaLink="false">8 at .</guid>
 </item>
 </channel>
 </rss>
