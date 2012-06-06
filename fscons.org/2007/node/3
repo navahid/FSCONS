@@ -45,7 +45,7 @@
 <tbody>
 <tr>
 <td>
-<p><a href="http://www.debian.org"><img alt="" src="http://fscons.org/files/openlogo-nd-50.png" /></a><a href="http://www.debian.org"><img alt="" src="http://fscons.org/files/debian.png" /></a></p>
+<p><a href="http://www.debian.org"><img alt="" src="./openlogo-nd-50.png" /></a><a href="http://www.debian.org"><img alt="" src="./debian.png" /></a></p>
 <p>&nbsp;</p>
 </td>
 <td>
@@ -54,7 +54,7 @@
 </td>
 </tr>
 <tr>
-<td><a href="http://sv.wikipedia.org/wiki/Portal:Huvudsida"><img alt="" src="http://fscons.org/files/wiki-sv.png" /></a></td>
+<td><a href="http://sv.wikipedia.org/wiki/Portal:Huvudsida"><img alt="" src="./wiki-sv.png" /></a></td>
 <td><a href="../devroom-wikipedia">Wikipedia/Wikimedia seminar room</a></td>
 </tr>
 </tbody>

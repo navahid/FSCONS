@@ -135,7 +135,7 @@
 </tr>
 <tr>
 <td class="schedtime">17.15-18.00</td>
-<td align="center" colspan="2" class="schedtalk"><em><a href="http://fscons.org/mats-ostling">Mats &Ouml;stling</a></em></td>
+<td align="center" colspan="2" class="schedtalk"><em><a href="../mats-ostling">Mats &Ouml;stling</a></em></td>
 </tr>
 <tr class="schedfun">
 <td class="schedtime">18.00-19.00</td>
@@ -143,7 +143,7 @@
 </tr>
 <tr class="schedfun">
 <td class="schedtime">19.00-20.00</td>
-<td align="center" colspan="2"><a href="http://fscons.org/award">&nbsp;Scandinavian Free Software Award</a></td>
+<td align="center" colspan="2"><a href="../award">&nbsp;Scandinavian Free Software Award</a></td>
 </tr>
 <tr class="schedfun">
 <td class="schedtime">20.00-21.00</td>

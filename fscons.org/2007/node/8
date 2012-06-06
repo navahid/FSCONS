@@ -39,7 +39,7 @@
     <div class="entry"> 
    
   <div align="center">
-<p><a href="../node/getaround"><img alt="" src="http://fscons.org/files/2007/fscons_logo.png" /></a>&nbsp;</p>
+<p><a href="../node/getaround"><img alt="" src="../fscons_logo.png" /></a>&nbsp;</p>
 <h4>Thanks for coming to FSCONS.</h4>
 <p>Once the staff and organising team have gotten some sleep we will update the pages with:</p>
 <blockquote><blockquote>
@@ -68,11 +68,11 @@
 </tr>
 <tr>
 <td align="center">
-<p><a href="http://www.fsfeurope.org"><img alt="" src="http://fscons.org/files/2007/fsfe-front.png" /></a></p>
+<p><a href="http://www.fsfeurope.org"><img alt="" src="../fsfe-front.png" /></a></p>
 </td>
 <td align="center">
 <p>&nbsp;</p>
-<p><a href="http://www.google.com"><img src="http://fscons.org/files/2007/Glogo_RGB-md-front.jpg" alt="" /></a></p>
+<p><a href="http://www.google.com"><img src="../Glogo_RGB-md-front.jpg" alt="" /></a></p>
 </td>
 </tr>
 </tbody>
