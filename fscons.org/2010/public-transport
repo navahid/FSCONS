@@ -8,35 +8,35 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
   <title>Public transport | fscons.org</title>
-  <link type="text/css" rel="stylesheet" media="all" href="modules/aggregator/aggregator.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/node/node.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/system/defaults.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/system/system.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/system/system-menus.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="http://fscons.org/2010/modules/user/user.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/cck/theme/content-module.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/date/date.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/date/date_popup/themes/datepicker.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/date/date_popup/themes/timeentry.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/filefield/filefield.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/lightbox2/css/lightbox.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/logintoboggan/logintoboggan.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_attribute/uc_attribute.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_order/uc_order.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_product/uc_product.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_roles/uc_roles.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_store/uc_store.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/video/types/uploadfield/uploadfield.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/calendar/calendar.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="misc/farbtastic/farbtastic.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/views/css/views.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/fscons.org.2010/themes/shallowgrunge/font.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/fscons.org.2010/themes/shallowgrunge/style.css?z" />
+  <link type="text/css" rel="stylesheet" media="all" href="modules/aggregator/aggregator.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/node/node.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/defaults.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/system.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/system-menus.css" />
+<link type="text/css" rel="stylesheet" media="all" href="./2010/modules/user/user.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/cck/theme/content-module.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/date/date.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/date/date_popup/themes/datepicker.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/date/date_popup/themes/timeentry.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/filefield/filefield.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/lightbox2/css/lightbox.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/logintoboggan/logintoboggan.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_attribute/uc_attribute.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_order/uc_order.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_product/uc_product.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_roles/uc_roles.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_store/uc_store.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/video/types/uploadfield/uploadfield.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/calendar/calendar.css" />
+<link type="text/css" rel="stylesheet" media="all" href="misc/farbtastic/farbtastic.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/cck/modules/fieldgroup/fieldgroup.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/views/css/views.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/fscons.org.2010/themes/shallowgrunge/font.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/fscons.org.2010/themes/shallowgrunge/style.css" />
   <style type="text/css">
     #header { background: #333333 }
     #navigation { background: #7f0000 }
-    #header-inner, #navigation-inner { background: url('http://fscons.org/sites/fscons.org.2010/themes/shallowgrunge/images/grunge4.png') repeat-y; }
+    #header-inner, #navigation-inner { background: url('./sites/fscons.org.2010/themes/shallowgrunge/images/grunge4.png') repeat-y; }
     h1, h2, h3, h4, h5, h6 { color: #000000; }
     a { color: #A42424; }
   </style>
@@ -125,7 +125,7 @@ $(".themeinfo2").corner("round 10px");
 
 
   <div class="content">
-    <div style="float: right; margin:3px;"><img src="http://fscons.org/files/tram.jpg" /><br/><br />
+    <div style="float: right; margin:3px;"><img src="./files/tram.jpg" /><br/><br />
 <div style="font-size: 7px; margin-top: 0px;"><a href="http://commons.wikimedia.org/wiki/File:Tram_at_Vasaplatsen_in_Göteborg.jpg">Photo</a>: Henrik Sendelbach - <a href="http://creativecommons.org/licenses/by-sa/2.5/">CC-SA 2.5</a></div>
 </br/></div>
 <p>You can find information on public transportation in Göteborg at the <a href="http://vasttrafik.se/en/Startpage/Are-you-a-tourist/">Västtrafik</a> site. There you may <a href="http://vasttrafik.se/en/Startpage/Travel-planner/">plan your trip</a> (the nearest stop to the IT University is called <em>Lindholmen, GÖTEBORG (Hållplats)</em>), find the <a href="http://vasttrafik.se/ImageVault/Images/id_1518/ImageVaultHandler.aspx">route network map</a> (lines passing Lindholmen are buses 16 and 31), and find general information.</p>
@@ -135,7 +135,7 @@ $(".themeinfo2").corner("round 10px");
 <p>And here's how you get from the bus stop to the IT University courtesy of <a href="http://kartor.eniro.se/query?mop=aq&amp;mapstate=8%3B11.93637%3B57.70762%3Ba%3B11.93217%3B57.70927%3B11.94058%3B57.70598%3B624%3B461%3B0%3B1&amp;mapcomp=%3B%3B%3BForskningsg%E5ngen%3B6%3B%3B41756%3BG%D6TEBORG%3B%3B%3B%3B%3B11.937184233255643%3B57.706630147500725%3B0%3B0%3B%3BG%D6TEBORG%3Bmaps_address.254197.11%3B0&amp;what=map_adr&amp;searchInMap=1&amp;geo_area=Forskningsg%E5ngen%206%2C%20G%D6TEBORG&amp;stq=0&amp;pis=0&amp;mymap=LTNhZTNiNzc6MTI0NTFhODUxNDk6LTdmZTM%3D">kartor.eniro.se</a>.</p>
 <p>
 Here's a view of the IT university venue building from the bus stop Lindholmen:<br />
-<img src="http://fscons.org/files/lindholmenHlpl600.png" alt="Lindholmen bus stop" title="Lindholmen bus stop" /><br />
+<img src="./files/lindholmenHlpl600.png" alt="Lindholmen bus stop" title="Lindholmen bus stop" /><br />
 <br />
 The photo is licensed under<a href="http://www.flickr.com/photos/43304196@N06/4055451049/">CC-BY-NC</a>
 </p>
@@ -156,7 +156,7 @@ The photo is licensed under<a href="http://www.flickr.com/photos/43304196@N06/40
   var flattr_dsc = '';
   var flattr_tag = '';
   var flattr_cat = 'text';
-  var flattr_url = 'http://fscons.org/';
+  var flattr_url = './';
   var flattr_lng = 'en_GB'</script><script src="http://api.flattr.com/button/load.js" type="text/javascript"></script></div>
 </div>
 </div>

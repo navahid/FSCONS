@@ -8,35 +8,35 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
   <title>Promotion Material | fscons.org</title>
-  <link type="text/css" rel="stylesheet" media="all" href="modules/aggregator/aggregator.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/node/node.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/system/defaults.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/system/system.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/system/system-menus.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="http://fscons.org/2010/modules/user/user.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/cck/theme/content-module.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/date/date.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/date/date_popup/themes/datepicker.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/date/date_popup/themes/timeentry.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/filefield/filefield.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/lightbox2/css/lightbox.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/logintoboggan/logintoboggan.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_attribute/uc_attribute.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_order/uc_order.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_product/uc_product.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_roles/uc_roles.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_store/uc_store.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/video/types/uploadfield/uploadfield.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/calendar/calendar.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="misc/farbtastic/farbtastic.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/views/css/views.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/fscons.org.2010/themes/shallowgrunge/font.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/fscons.org.2010/themes/shallowgrunge/style.css?z" />
+  <link type="text/css" rel="stylesheet" media="all" href="modules/aggregator/aggregator.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/node/node.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/defaults.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/system.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/system-menus.css" />
+<link type="text/css" rel="stylesheet" media="all" href="./2010/modules/user/user.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/cck/theme/content-module.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/date/date.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/date/date_popup/themes/datepicker.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/date/date_popup/themes/timeentry.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/filefield/filefield.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/lightbox2/css/lightbox.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/logintoboggan/logintoboggan.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_attribute/uc_attribute.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_order/uc_order.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_product/uc_product.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_roles/uc_roles.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_store/uc_store.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/video/types/uploadfield/uploadfield.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/calendar/calendar.css" />
+<link type="text/css" rel="stylesheet" media="all" href="misc/farbtastic/farbtastic.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/cck/modules/fieldgroup/fieldgroup.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/views/css/views.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/fscons.org.2010/themes/shallowgrunge/font.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/fscons.org.2010/themes/shallowgrunge/style.css" />
   <style type="text/css">
     #header { background: #333333 }
     #navigation { background: #7f0000 }
-    #header-inner, #navigation-inner { background: url('http://fscons.org/sites/fscons.org.2010/themes/shallowgrunge/images/grunge4.png') repeat-y; }
+    #header-inner, #navigation-inner { background: url('./sites/fscons.org.2010/themes/shallowgrunge/images/grunge4.png') repeat-y; }
     h1, h2, h3, h4, h5, h6 { color: #000000; }
     a { color: #A42424; }
   </style>
@@ -125,23 +125,23 @@ $(".themeinfo2").corner("round 10px");
 
 
   <div class="content">
-    <img src="http://fscons.org/sites/default/files/FSCONS-2010-badge-stripe.png" alt="I'm Going to FSCONS web badge" />
+    <img src="./sites/default/files/FSCONS-2010-badge-stripe.png" alt="I'm Going to FSCONS web badge" />
 
 <p>"I'm going to FSCONS 2010" web badge (300x100px)</p>
 
-<p><strong>Code: </strong>&lt;a href=&quot;http://fscons.org/&quot;&gt;&lt;img src=&quot;http://fscons.org/sites/default/files/FSCONS-2010-badge-stripe.png&quot; alt=&quot;I'm going to FSCONS 2010!&quot; /&gt;&lt;/a&gt;</p>
+<p><strong>Code: </strong>&lt;a href=&quot;./&quot;&gt;&lt;img src=&quot;./sites/default/files/FSCONS-2010-badge-stripe.png&quot; alt=&quot;I'm going to FSCONS 2010!&quot; /&gt;&lt;/a&gt;</p>
 
-<img src="http://fscons.org/sites/default/files/FSCONS-2010-volunteer-stripe.png" alt="I'm volunteering at FSCONS web badge" />
+<img src="./sites/default/files/FSCONS-2010-volunteer-stripe.png" alt="I'm volunteering at FSCONS web badge" />
 
 <p>"I'm volunteering at FSCONS 2010" web badge (300x100px)</p>
 
-<p><strong>Code: </strong>&lt;a href=&quot;http://fscons.org/&quot;&gt;&lt;img src=&quot;http://fscons.org/sites/default/files/FSCONS-2010-volunteer-stripe.png&quot; alt=&quot;I'm volunteering at FSCONS 2010!&quot; /&gt;&lt;/a&gt;</p><div class="field field-type-filefield field-field-file">
+<p><strong>Code: </strong>&lt;a href=&quot;./&quot;&gt;&lt;img src=&quot;./sites/default/files/FSCONS-2010-volunteer-stripe.png&quot; alt=&quot;I'm volunteering at FSCONS 2010!&quot; /&gt;&lt;/a&gt;</p><div class="field field-type-filefield field-field-file">
       <div class="field-label">File:&nbsp;</div>
     <div class="field-items">
             <div class="field-item odd">
-                    <div class="filefield-file clear-block"><div class="filefield-icon field-icon-image-png"><img class="field-icon-image-png"  alt="image/png icon" src="sites/all/modules/filefield/icons/protocons/16x16/mimetypes/image-x-generic.png" /></div><a href="http://fscons.org/2010/sites/fscons.org.2010/files/sites/default/files/FSCONS-2010-badge-stripe.png" type="image/png; length=27081">FSCONS-2010-badge-stripe.png</a></div>        </div>
+                    <div class="filefield-file clear-block"><div class="filefield-icon field-icon-image-png"><img class="field-icon-image-png"  alt="image/png icon" src="sites/all/modules/filefield/icons/protocons/16x16/mimetypes/image-x-generic.png" /></div><a href="./2010/sites/fscons.org.2010/files/sites/default/files/FSCONS-2010-badge-stripe.png" type="image/png; length=27081">FSCONS-2010-badge-stripe.png</a></div>        </div>
               <div class="field-item even">
-                    <div class="filefield-file clear-block"><div class="filefield-icon field-icon-image-png"><img class="field-icon-image-png"  alt="image/png icon" src="sites/all/modules/filefield/icons/protocons/16x16/mimetypes/image-x-generic.png" /></div><a href="http://fscons.org/2010/sites/fscons.org.2010/files/sites/default/files/FSCONS-2010-volunteer-stripe.png" type="image/png; length=27959">FSCONS-2010-volunteer-stripe.png</a></div>        </div>
+                    <div class="filefield-file clear-block"><div class="filefield-icon field-icon-image-png"><img class="field-icon-image-png"  alt="image/png icon" src="sites/all/modules/filefield/icons/protocons/16x16/mimetypes/image-x-generic.png" /></div><a href="./2010/sites/fscons.org.2010/files/sites/default/files/FSCONS-2010-volunteer-stripe.png" type="image/png; length=27959">FSCONS-2010-volunteer-stripe.png</a></div>        </div>
         </div>
 </div>
   </div>
@@ -161,7 +161,7 @@ $(".themeinfo2").corner("round 10px");
   var flattr_dsc = '';
   var flattr_tag = '';
   var flattr_cat = 'text';
-  var flattr_url = 'http://fscons.org/';
+  var flattr_url = './';
   var flattr_lng = 'en_GB'</script><script src="http://api.flattr.com/button/load.js" type="text/javascript"></script></div>
 </div>
 </div>

@@ -8,35 +8,35 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
   <title>Program | fscons.org</title>
-  <link type="text/css" rel="stylesheet" media="all" href="modules/aggregator/aggregator.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/node/node.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/system/defaults.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/system/system.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/system/system-menus.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="http://fscons.org/2010/modules/user/user.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/cck/theme/content-module.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/date/date.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/date/date_popup/themes/datepicker.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/date/date_popup/themes/timeentry.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/filefield/filefield.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/lightbox2/css/lightbox.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/logintoboggan/logintoboggan.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_attribute/uc_attribute.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_order/uc_order.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_product/uc_product.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_roles/uc_roles.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_store/uc_store.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/video/types/uploadfield/uploadfield.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/calendar/calendar.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="misc/farbtastic/farbtastic.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/views/css/views.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/fscons.org.2010/themes/shallowgrunge/font.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/fscons.org.2010/themes/shallowgrunge/style.css?z" />
+  <link type="text/css" rel="stylesheet" media="all" href="modules/aggregator/aggregator.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/node/node.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/defaults.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/system.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/system-menus.css" />
+<link type="text/css" rel="stylesheet" media="all" href="./2010/modules/user/user.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/cck/theme/content-module.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/date/date.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/date/date_popup/themes/datepicker.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/date/date_popup/themes/timeentry.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/filefield/filefield.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/lightbox2/css/lightbox.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/logintoboggan/logintoboggan.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_attribute/uc_attribute.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_order/uc_order.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_product/uc_product.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_roles/uc_roles.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ubercart/uc_store/uc_store.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/video/types/uploadfield/uploadfield.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/calendar/calendar.css" />
+<link type="text/css" rel="stylesheet" media="all" href="misc/farbtastic/farbtastic.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/cck/modules/fieldgroup/fieldgroup.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/views/css/views.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/fscons.org.2010/themes/shallowgrunge/font.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/fscons.org.2010/themes/shallowgrunge/style.css" />
   <style type="text/css">
     #header { background: #333333 }
     #navigation { background: #7f0000 }
-    #header-inner, #navigation-inner { background: url('http://fscons.org/sites/fscons.org.2010/themes/shallowgrunge/images/grunge4.png') repeat-y; }
+    #header-inner, #navigation-inner { background: url('./sites/fscons.org.2010/themes/shallowgrunge/images/grunge4.png') repeat-y; }
     h1, h2, h3, h4, h5, h6 { color: #000000; }
     a { color: #A42424; }
   </style>
@@ -165,7 +165,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="welcome-reception"><h3>Welcome Reception</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/fscons">fscons</a>)      </div>  
+        (Speaker: <a href="./2010/users/fscons">fscons</a>)      </div>  
           <div id="node-data-field-date-field-date-value" class="view-field view-data-node-data-field-date-field-date-value">
           
         <span class="date-display-single">5 Nov 2010 - <span class="date-display-start">19:00</span><span class="date-display-separator"> - </span><span class="date-display-end">23:00</span></span>      </div>  
@@ -247,7 +247,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="ethics/conflicting-values-and-norms"><h3>Conflicting Values and Norms</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/larssandman">Lars Sandman</a>)      </div>  
+        (Speaker: <a href="./2010/users/larssandman">Lars Sandman</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -274,7 +274,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="divide/designed-decentralisation-understanding-internet"><h3>Designed For Decentralisation: Understanding the Internet</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/bayartb">Benjamin Bayart</a>)      </div>  
+        (Speaker: <a href="./2010/users/bayartb">Benjamin Bayart</a>)      </div>  
           <div id="node-data-field-date-field-date-value" class="view-field view-data-node-data-field-date-field-date-value">
           
         <span class="date-display-single">6 Nov 2010 - <span class="date-display-start">10:00</span><span class="date-display-separator"> - </span><span class="date-display-end">10:30</span></span>      </div>  
@@ -297,7 +297,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="fs/kaizendo-customizable-schoolbooks"><h3>Kaizendo: Customizable schoolbooks</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/sjn">Salve J. Nilsen</a>)      </div>  
+        (Speaker: <a href="./2010/users/sjn">Salve J. Nilsen</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -324,7 +324,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="embedded/workshop-file-system-formats"><h3>Workshop: File system formats</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/wecksten">Mattias Wecksten</a>)      </div>  
+        (Speaker: <a href="./2010/users/wecksten">Mattias Wecksten</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -358,7 +358,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="using/labour-process-perspective-development-free-software"><h3>A Labour Process Perspective on the Development of Free Software</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/johansoderberg">Johan Söderberg</a>)      </div>  
+        (Speaker: <a href="./2010/users/johansoderberg">Johan Söderberg</a>)      </div>  
           <div id="node-data-field-date-field-date-value" class="view-field view-data-node-data-field-date-field-date-value">
           
         <span class="date-display-single">6 Nov 2010 - <span class="date-display-start">10:45</span><span class="date-display-separator"> - </span><span class="date-display-end">11:15</span></span>      </div>  
@@ -381,7 +381,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="divide/centralised-internet-services-and-problems-power"><h3>Centralised Internet Services and Problems of Power</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/torstengrote">Torsten Grote</a>)      </div>  
+        (Speaker: <a href="./2010/users/torstengrote">Torsten Grote</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -408,7 +408,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="fs/qt-meego"><h3>Qt on MeeGo</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/knutyrvin">Knut Yrvin</a>)      </div>  
+        (Speaker: <a href="./2010/users/knutyrvin">Knut Yrvin</a>)      </div>  
           <div id="node-data-field-date-field-date-value" class="view-field view-data-node-data-field-date-field-date-value">
           
         <span class="date-display-single">6 Nov 2010 - <span class="date-display-start">10:45</span><span class="date-display-separator"> - </span><span class="date-display-end">11:15</span></span>      </div>  
@@ -438,7 +438,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="making/please-copy-record-all-your-friends"><h3>Please copy this record to all of your friends!</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/villum">Christian Villum</a>)      </div>  
+        (Speaker: <a href="./2010/users/villum">Christian Villum</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -465,7 +465,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="infrastructure/are-you-weak-middle"><h3>Are you weak in the middle?</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/vklimovs">Vjaceslavs Klimovs</a>, <a href="http://fscons.org/2010/users/npaladi">Nicolae Paladi</a>)      </div>  
+        (Speaker: <a href="./2010/users/vklimovs">Vjaceslavs Klimovs</a>, <a href="./2010/users/npaladi">Nicolae Paladi</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -492,7 +492,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="embedded/open-hardware-repository"><h3>Open Hardware Repository</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/javierserrano">Javier Serrano</a>)      </div>  
+        (Speaker: <a href="./2010/users/javierserrano">Javier Serrano</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -526,7 +526,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="lunch"><h3>LUNCH</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/fscons">fscons</a>)      </div>  
+        (Speaker: <a href="./2010/users/fscons">fscons</a>)      </div>  
           <div id="node-data-field-date-field-date-value" class="view-field view-data-node-data-field-date-field-date-value">
           
         <span class="date-display-single">6 Nov 2010 - <span class="date-display-start">12:00</span><span class="date-display-separator"> - </span><span class="date-display-end">13:15</span></span>      </div>  
@@ -556,7 +556,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="making/keynote-inanna-project"><h3>Keynote: The Inanna Project</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/kyrah">Karin Kosina vka kyrah</a>)      </div>  
+        (Speaker: <a href="./2010/users/kyrah">Karin Kosina vka kyrah</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -590,7 +590,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="fs/scalable-application-layer-transfers"><h3>Scalable application layer transfers</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/daniel">Daniel Stenberg</a>)      </div>  
+        (Speaker: <a href="./2010/users/daniel">Daniel Stenberg</a>)      </div>  
           <div id="node-data-field-date-field-date-value" class="view-field view-data-node-data-field-date-field-date-value">
           
         <span class="date-display-single">6 Nov 2010 - <span class="date-display-start">14:15</span><span class="date-display-separator"> - </span><span class="date-display-end">15:00</span></span>      </div>  
@@ -613,7 +613,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="divide/building-socially-responsible-social-networks"><h3>Building Socially Responsible Social Networks</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/michaelchisari">Michael Chisari</a>, <a href="http://fscons.org/2010/users/lbocquet">Ludovic Bocquet</a>)      </div>  
+        (Speaker: <a href="./2010/users/michaelchisari">Michael Chisari</a>, <a href="./2010/users/lbocquet">Ludovic Bocquet</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -640,7 +640,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="embedded/tuning-old-free-phone"><h3>Tuning an old but free phone</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/timojyrinki">Timo Jyrinki</a>)      </div>  
+        (Speaker: <a href="./2010/users/timojyrinki">Timo Jyrinki</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -667,7 +667,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="fs/workshop-packaging-debian-using-git"><h3>Workshop: Packaging for Debian using Git</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/avtobiff">Per Andersson</a>)      </div>  
+        (Speaker: <a href="./2010/users/avtobiff">Per Andersson</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -701,7 +701,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="making/future-reprap-and-free-and-open-hardware"><h3>The Future of RepRap and Free and Open Hardware </h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/erik">Erik de Bruijn</a>)      </div>  
+        (Speaker: <a href="./2010/users/erik">Erik de Bruijn</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -728,7 +728,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="infrastructure/one-wire-sensor-networking"><h3>One Wire Sensor Networking</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/wecksten">Mattias Wecksten</a>)      </div>  
+        (Speaker: <a href="./2010/users/wecksten">Mattias Wecksten</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -769,7 +769,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="using/women-floss"><h3>Women in FLOSS</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/christinagratorp">Christina Gratorp</a>)      </div>  
+        (Speaker: <a href="./2010/users/christinagratorp">Christina Gratorp</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -796,7 +796,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="infrastructure/vodo-past-and-future"><h3>VODO, Past and Future</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/jamie">Jamie King</a>)      </div>  
+        (Speaker: <a href="./2010/users/jamie">Jamie King</a>)      </div>  
           <div id="node-data-field-date-field-date-value" class="view-field view-data-node-data-field-date-field-date-value">
           
         <span class="date-display-single">6 Nov 2010 - <span class="date-display-start">16:15</span><span class="date-display-separator"> - </span><span class="date-display-end">17:00</span></span>      </div>  
@@ -819,7 +819,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="embedded/generic-data-structures"><h3>Generic data structures in the Linux kernel</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/ru">Alessandro Rubini</a>)      </div>  
+        (Speaker: <a href="./2010/users/ru">Alessandro Rubini</a>)      </div>  
           <div id="node-data-field-date-field-date-value" class="view-field view-data-node-data-field-date-field-date-value">
           
         <span class="date-display-single">6 Nov 2010 - <span class="date-display-start">16:15</span><span class="date-display-separator"> - </span><span class="date-display-end">17:00</span></span>      </div>  
@@ -842,7 +842,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="fs/lightning-talks"><h3>Lightning Talks</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/fscons">fscons</a>)      </div>  
+        (Speaker: <a href="./2010/users/fscons">fscons</a>)      </div>  
           <div id="node-data-field-date-field-date-value" class="view-field view-data-node-data-field-date-field-date-value">
           
         <span class="date-display-single">6 Nov 2010 - <span class="date-display-start">16:15</span><span class="date-display-separator"> - </span><span class="date-display-end">18:00</span></span>      </div>  
@@ -872,7 +872,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="making/end-world-we-know-it-how-do-you-feel"><h3>The End of the World as we Know it: How do you feel?</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/smari">Smari McCarthy</a>)      </div>  
+        (Speaker: <a href="./2010/users/smari">Smari McCarthy</a>)      </div>  
           <div id="node-data-field-date-field-date-value" class="view-field view-data-node-data-field-date-field-date-value">
           
         <span class="date-display-single">6 Nov 2010 - <span class="date-display-start">17:15</span><span class="date-display-separator"> - </span><span class="date-display-end">17:59</span></span>      </div>  
@@ -895,7 +895,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="fs/poster-45-minutes"><h3>Poster in 45 Minutes</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/andreas">Andreas Nilsson</a>)      </div>  
+        (Speaker: <a href="./2010/users/andreas">Andreas Nilsson</a>)      </div>  
           <div id="node-data-field-date-field-date-value" class="view-field view-data-node-data-field-date-field-date-value">
           
         <span class="date-display-single">6 Nov 2010 - <span class="date-display-start">17:15</span><span class="date-display-separator"> - </span><span class="date-display-end">18:00</span></span>      </div>  
@@ -918,7 +918,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="embedded/embedding-linux-automotive-environment"><h3>Embedding Linux for an Automotive Environment</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/andersarnholm">Anders Arnholm</a>)      </div>  
+        (Speaker: <a href="./2010/users/andersarnholm">Anders Arnholm</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -952,7 +952,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="social-event"><h3>Social Event</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/fscons">fscons</a>)      </div>  
+        (Speaker: <a href="./2010/users/fscons">fscons</a>)      </div>  
           <div id="node-data-field-date-field-date-value" class="view-field view-data-node-data-field-date-field-date-value">
           
         <span class="date-display-single">6 Nov 2010 - <span class="date-display-start">19:00</span><span class="date-display-separator"> - </span><span class="date-display-end">23:59</span></span>      </div>  
@@ -1034,7 +1034,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="extensions/free-software-open-access"><h3>From Free Software to Open Access</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/ian">Ian Watson</a>)      </div>  
+        (Speaker: <a href="./2010/users/ian">Ian Watson</a>)      </div>  
           <div id="node-data-field-date-field-date-value" class="view-field view-data-node-data-field-date-field-date-value">
           
         <span class="date-display-single">7 Nov 2010 - <span class="date-display-start">10:00</span><span class="date-display-separator"> - </span><span class="date-display-end">10:30</span></span>      </div>  
@@ -1057,7 +1057,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="fs/economics-open-innovation-and-foss"><h3>The economics of open innovation and FOSS</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/karthix">Karthik Jayaraman </a>)      </div>  
+        (Speaker: <a href="./2010/users/karthix">Karthik Jayaraman </a>)      </div>  
           <div id="node-data-field-date-field-date-value" class="view-field view-data-node-data-field-date-field-date-value">
           
         <span class="date-display-single">7 Nov 2010 - <span class="date-display-start">10:00</span><span class="date-display-separator"> - </span><span class="date-display-end">10:30</span></span>      </div>  
@@ -1087,7 +1087,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="embedded/workshop-os-scratch"><h3>Workshop: OS from scratch</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/ru">Alessandro Rubini</a>)      </div>  
+        (Speaker: <a href="./2010/users/ru">Alessandro Rubini</a>)      </div>  
           <div id="node-data-field-date-field-date-value" class="view-field view-data-node-data-field-date-field-date-value">
           
         <span class="date-display-single">7 Nov 2010 - <span class="date-display-start">10:00</span><span class="date-display-separator"> - </span><span class="date-display-end">11:30</span></span>      </div>  
@@ -1117,7 +1117,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="ethics/file-sharer-go-jail"><h3>File sharer? Go to jail!</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/klang">Mathias Klang</a>)      </div>  
+        (Speaker: <a href="./2010/users/klang">Mathias Klang</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -1144,7 +1144,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="infrastructure/future-transports"><h3>Future Transports</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/daniel">Daniel Stenberg</a>)      </div>  
+        (Speaker: <a href="./2010/users/daniel">Daniel Stenberg</a>)      </div>  
           <div id="node-data-field-date-field-date-value" class="view-field view-data-node-data-field-date-field-date-value">
           
         <span class="date-display-single">7 Nov 2010 - <span class="date-display-start">10:45</span><span class="date-display-separator"> - </span><span class="date-display-end">11:15</span></span>      </div>  
@@ -1167,7 +1167,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="embedded/erlang-embedded-devices"><h3>Erlang on Embedded Devices</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/gustavsimonsson">Gustav Simonsson</a>, <a href="http://fscons.org/2010/users/fredrikandersson">Fredrik Andersson</a>)      </div>  
+        (Speaker: <a href="./2010/users/gustavsimonsson">Gustav Simonsson</a>, <a href="./2010/users/fredrikandersson">Fredrik Andersson</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -1201,7 +1201,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="using/gender-class-and-global-flows"><h3>Gender, class and global flows</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/malinnilsson">Malin Nilsson</a>)      </div>  
+        (Speaker: <a href="./2010/users/malinnilsson">Malin Nilsson</a>)      </div>  
           <div id="node-data-field-date-field-date-value" class="view-field view-data-node-data-field-date-field-date-value">
           
         <span class="date-display-single">7 Nov 2010 - <span class="date-display-start">11:30</span><span class="date-display-separator"> - </span><span class="date-display-end">12:00</span></span>      </div>  
@@ -1224,7 +1224,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="infrastructure/distributed-email-system"><h3>Distributed email system </h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/stefan-kangas">Stefan Kangas</a>, <a href="http://fscons.org/2010/users/gustav-eek">Gustav Eek</a>)      </div>  
+        (Speaker: <a href="./2010/users/stefan-kangas">Stefan Kangas</a>, <a href="./2010/users/gustav-eek">Gustav Eek</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -1251,7 +1251,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="fs/gnu-parallel"><h3>GNU Parallel</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/ole">Ole Tange</a>)      </div>  
+        (Speaker: <a href="./2010/users/ole">Ole Tange</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -1285,7 +1285,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="lunch-0"><h3>LUNCH</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/fscons">fscons</a>)      </div>  
+        (Speaker: <a href="./2010/users/fscons">fscons</a>)      </div>  
           <div id="node-data-field-date-field-date-value" class="view-field view-data-node-data-field-date-field-date-value">
           
         <span class="date-display-single">7 Nov 2010 - <span class="date-display-start">12:00</span><span class="date-display-separator"> - </span><span class="date-display-end">13:15</span></span>      </div>  
@@ -1315,7 +1315,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="ethics/keynote-ethics-intellectual-monopolies"><h3>Keynote: Ethics of Intellectual Monopolies</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/glyn">Glyn Moody</a>)      </div>  
+        (Speaker: <a href="./2010/users/glyn">Glyn Moody</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -1349,7 +1349,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="extensions/distributed-democracy"><h3>Distributed Democracy</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/oysteinjakobsen">Øystein Jakobsen</a>)      </div>  
+        (Speaker: <a href="./2010/users/oysteinjakobsen">Øystein Jakobsen</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -1376,7 +1376,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="using/who-are-free-users"><h3>Who are the Free Users?</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/micke">Mikael von Knorring</a>)      </div>  
+        (Speaker: <a href="./2010/users/micke">Mikael von Knorring</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -1403,7 +1403,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="embedded/genivi-alliance-and-how-biz-can-adapt-foss"><h3>GENIVI alliance and how biz can adapt FOSS</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/mikaelsoderberg">Mikael Söderberg</a>)      </div>  
+        (Speaker: <a href="./2010/users/mikaelsoderberg">Mikael Söderberg</a>)      </div>  
           <div id="node-data-field-date-field-date-value" class="view-field view-data-node-data-field-date-field-date-value">
           
         <span class="date-display-single">7 Nov 2010 - <span class="date-display-start">14:15</span><span class="date-display-separator"> - </span><span class="date-display-end">15:00</span></span>      </div>  
@@ -1426,7 +1426,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="infrastructure/workshop-icelandic-modern-media-initiative"><h3>Workshop: Icelandic Modern Media Initiative</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/calixte">Calixte Tayoro</a>, <a href="http://fscons.org/2010/users/smari">Smari McCarthy</a>)      </div>  
+        (Speaker: <a href="./2010/users/calixte">Calixte Tayoro</a>, <a href="./2010/users/smari">Smari McCarthy</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -1467,7 +1467,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="making/challenges-copyright-shift-towards-collaboration"><h3>Challenges to Copyright: The shift towards collaboration </h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/gisle">Gisle Hannemyr</a>)      </div>  
+        (Speaker: <a href="./2010/users/gisle">Gisle Hannemyr</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -1494,7 +1494,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="fs/bits-bytes"><h3>Bits and bytes: the importance of free software in the industry</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/ru">Alessandro Rubini</a>)      </div>  
+        (Speaker: <a href="./2010/users/ru">Alessandro Rubini</a>)      </div>  
           <div id="node-data-field-date-field-date-value" class="view-field view-data-node-data-field-date-field-date-value">
           
         <span class="date-display-single">7 Nov 2010 - <span class="date-display-start">15:15</span><span class="date-display-separator"> - </span><span class="date-display-end">16:00</span></span>      </div>  
@@ -1524,7 +1524,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="extensions/self-organized-plenty-emergence-physical-peer-production"><h3>Self-organized Plenty: The Emergence of Physical Peer Production</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/christian">Christian Siefkes</a>)      </div>  
+        (Speaker: <a href="./2010/users/christian">Christian Siefkes</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -1551,7 +1551,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="divide/web-search-people-people"><h3>Web Search By The People, For The People</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/michael-christen">Michael Christen</a>)      </div>  
+        (Speaker: <a href="./2010/users/michael-christen">Michael Christen</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -1578,7 +1578,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="embedded/multi-touch"><h3>Multi-touch and gesture recognition</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/carlosg">Carlos Garnacho</a>)      </div>  
+        (Speaker: <a href="./2010/users/carlosg">Carlos Garnacho</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -1605,7 +1605,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="using/lightning-talks"><h3>Lightning Talks</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/avtobiff">Per Andersson</a>)      </div>  
+        (Speaker: <a href="./2010/users/avtobiff">Per Andersson</a>)      </div>  
           <div id="node-data-field-date-field-date-value" class="view-field view-data-node-data-field-date-field-date-value">
           
         <span class="date-display-single">7 Nov 2010 - <span class="date-display-start">16:15</span><span class="date-display-separator"> - </span><span class="date-display-end">18:00</span></span>      </div>  
@@ -1635,7 +1635,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="extensions/design-patterns-between-free-software-and-permaculture"><h3>Design Patterns between Free Software and Permaculture</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/jaromil">Denis Jaromil Roio</a>)      </div>  
+        (Speaker: <a href="./2010/users/jaromil">Denis Jaromil Roio</a>)      </div>  
           <div id="node-vid" class="view-field view-data-node-vid">
                   <div class="view-label-node-vid">Slides</div>
           
@@ -1662,7 +1662,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="divide/gnu-social-and-gnu-fm-empowering-communities"><h3>GNU social and GNU FM: Empowering Communities</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/mattl">Matt Lee</a>)      </div>  
+        (Speaker: <a href="./2010/users/mattl">Matt Lee</a>)      </div>  
           <div id="node-data-field-date-field-date-value" class="view-field view-data-node-data-field-date-field-date-value">
           
         <span class="date-display-single">7 Nov 2010 - <span class="date-display-start">17:15</span><span class="date-display-separator"> - </span><span class="date-display-end">18:00</span></span>      </div>  
@@ -1685,7 +1685,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="fs/public-sector-ict-procurement"><h3>Public Sector ICT Procurement</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/bjornlundell">Björn Lundell</a>)      </div>  
+        (Speaker: <a href="./2010/users/bjornlundell">Björn Lundell</a>)      </div>  
           <div id="node-data-field-date-field-date-value" class="view-field view-data-node-data-field-date-field-date-value">
           
         <span class="date-display-single">7 Nov 2010 - <span class="date-display-start">17:15</span><span class="date-display-separator"> - </span><span class="date-display-end">18:00</span></span>      </div>  
@@ -1715,7 +1715,7 @@ $(".themeinfo2").corner("round 10px");
         <a href="social-event-closing"><h3>Social Event: Closing</h3></a>      </div>  
           <div id="customfield-phpcode-2" class="view-field view-data-customfield-phpcode-2">
           
-        (Speaker: <a href="http://fscons.org/2010/users/fscons">fscons</a>)      </div>  
+        (Speaker: <a href="./2010/users/fscons">fscons</a>)      </div>  
           <div id="node-data-field-date-field-date-value" class="view-field view-data-node-data-field-date-field-date-value">
           
         <span class="date-display-single">7 Nov 2010 - <span class="date-display-start">18:00</span><span class="date-display-separator"> - </span><span class="date-display-end">23:00</span></span>      </div>  
@@ -1750,7 +1750,7 @@ $(".themeinfo2").corner("round 10px");
   var flattr_dsc = '';
   var flattr_tag = '';
   var flattr_cat = 'text';
-  var flattr_url = 'http://fscons.org/';
+  var flattr_url = './';
   var flattr_lng = 'en_GB'</script><script src="http://api.flattr.com/button/load.js" type="text/javascript"></script></div>
 </div>
 </div>

@@ -8,36 +8,36 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
   <title>FSCONS 2010 is over but has just started! | fscons.org</title>
-  <link type="text/css" rel="stylesheet" media="all" href="../modules/aggregator/aggregator.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="http://fscons.org/2010/modules/user/user.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/cck/theme/content-module.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/date/date.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/date/date_popup/themes/datepicker.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/date/date_popup/themes/timeentry.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/filefield/filefield.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/lightbox2/css/lightbox.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/logintoboggan/logintoboggan.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/ubercart/uc_attribute/uc_attribute.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/ubercart/uc_order/uc_order.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/ubercart/uc_product/uc_product.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/ubercart/uc_roles/uc_roles.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/ubercart/uc_store/uc_store.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/video/types/uploadfield/uploadfield.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/calendar/calendar.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="../misc/farbtastic/farbtastic.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/views/css/views.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/comment/comment.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/fscons.org.2010/themes/shallowgrunge/font.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/fscons.org.2010/themes/shallowgrunge/style.css?z" />
+  <link type="text/css" rel="stylesheet" media="all" href="../modules/aggregator/aggregator.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../2010/modules/user/user.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/cck/theme/content-module.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/date/date.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/date/date_popup/themes/datepicker.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/date/date_popup/themes/timeentry.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/filefield/filefield.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/lightbox2/css/lightbox.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/logintoboggan/logintoboggan.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/ubercart/uc_attribute/uc_attribute.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/ubercart/uc_order/uc_order.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/ubercart/uc_product/uc_product.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/ubercart/uc_roles/uc_roles.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/ubercart/uc_store/uc_store.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/video/types/uploadfield/uploadfield.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/calendar/calendar.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../misc/farbtastic/farbtastic.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/cck/modules/fieldgroup/fieldgroup.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/views/css/views.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/comment/comment.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/fscons.org.2010/themes/shallowgrunge/font.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/fscons.org.2010/themes/shallowgrunge/style.css" />
   <style type="text/css">
     #header { background: #333333 }
     #navigation { background: #7f0000 }
-    #header-inner, #navigation-inner { background: url('http://fscons.org/sites/fscons.org.2010/themes/shallowgrunge/images/grunge4.png') repeat-y; }
+    #header-inner, #navigation-inner { background: url('../sites/fscons.org.2010/themes/shallowgrunge/images/grunge4.png') repeat-y; }
     h1, h2, h3, h4, h5, h6 { color: #000000; }
     a { color: #A42424; }
   </style>
@@ -125,7 +125,7 @@ $(".themeinfo2").corner("round 10px");
 
 
   <div class="meta">
-      <span class="submitted">Submitted by <a href="http://fscons.org/2010/users/jonas" title="View user profile.">jonas</a> on 12 November, 2010 - 11:06</span>
+      <span class="submitted">Submitted by <a href="../2010/users/jonas" title="View user profile.">jonas</a> on 12 November, 2010 - 11:06</span>
   
     </div>
 
@@ -160,7 +160,7 @@ What   I hadn’t expected was the powerful impact that the people attending   w
 This   weekend I attended the FSCONS, and as usual it was a great experience.   The conference is very informal and friendly, and there is plenty of   time to talk to people from all over about projects and future   collaborations.
 </p></blockquote>
 <p>
-Rumor has it that one such collaboration is an effort to support <a href="http://immi.is/?l=en&amp;p=vision">IMMI</a> and even expand and copy it to more countries, founded at the <a href="http://fscons.org/infrastructure/workshop-icelandic-modern-media-initiative">workshop</a> on the subject.
+Rumor has it that one such collaboration is an effort to support <a href="http://immi.is/?l=en&amp;p=vision">IMMI</a> and even expand and copy it to more countries, founded at the <a href="../infrastructure/workshop-icelandic-modern-media-initiative">workshop</a> on the subject.
 </p>
 <p>
 Quite naturally, Free Software was an oft referred-to topic during the week-end. <a href="http://daniel.haxx.se/blog/2010/11/08/fscons-2010-day-2/">Daniel Stenberg</a> summarizes:</p>
@@ -261,7 +261,7 @@ FSCONS staff
   </div>
 <div class="indented"><a id="comment-55"></a>
   <div class="comment comment-published">
-    <h3 class="title"><a href="fscons-2010-over-has-just-started#comment-55" class="active">Re: Link to four projects</a></h3>    <div class="submitted">Submitted by <a href="http://fscons.org/2010/users/rfroberg" title="View user profile.">rfroberg</a> on 12 November, 2010 - 16:12.</div>
+    <h3 class="title"><a href="fscons-2010-over-has-just-started#comment-55" class="active">Re: Link to four projects</a></h3>    <div class="submitted">Submitted by <a href="../2010/users/rfroberg" title="View user profile.">rfroberg</a> on 12 November, 2010 - 16:12.</div>
     <div class="content">
      <p>Thanks! I updated the corrected link. </p>
 <p>Ciao, scusa, grazie!</p>
@@ -284,7 +284,7 @@ FSCONS staff
   var flattr_dsc = '';
   var flattr_tag = '';
   var flattr_cat = 'text';
-  var flattr_url = 'http://fscons.org/';
+  var flattr_url = '../';
   var flattr_lng = 'en_GB'</script><script src="http://api.flattr.com/button/load.js" type="text/javascript"></script></div>
 </div>
 </div>

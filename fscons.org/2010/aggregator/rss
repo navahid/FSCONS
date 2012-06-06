@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
  <title>fscons.org aggregator</title>
- <link>http://fscons.org/2010/aggregator</link>
+ <link>../2010/aggregator</link>
  <description>fscons.org - aggregated feeds</description>
  <language>en</language>
 <item>
