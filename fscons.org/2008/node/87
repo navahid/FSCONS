@@ -6,12 +6,12 @@
     <meta http-equiv="Content-Style-Type" content="text/css" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="shortcut icon" href="../misc/favicon.ico" type="image/x-icon" />
-    <link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="http://fscons.org/2008/modules/user/user.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/fscons.org.2008/themes/blix/style.css?j" />
+    <link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/user/user.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/fscons.org.2008/themes/blix/style.css" />
     </head>
 <body >
 <div id="container">
@@ -23,18 +23,18 @@
                     </div>
 <hr class="low" />
   <div id="content">
-    <div class="navigation"> <div class="breadcrumb"><a href="../index.html">Home</a> » <a href="../blog.4">Blogs</a> » <a href="http://fscons.org/2008/blog/5">julipan&#039;s blog</a></div> </div>
+    <div class="navigation"> <div class="breadcrumb"><a href="../index.html">Home</a> » <a href="../blog.4">Blogs</a> » <a href="../blog/5">julipan&#039;s blog</a></div> </div>
                 	<h2 class="page-title">Live Video Streams</h2>
                 <!-- start main content -->
     <div class="entry"> 
    
   <p>All of you who can't afford the time or money to visit this year's FSCONS will be pleased to know that you can follow the lectures from home. With help from the <a href="http://giss.tv">GISS</a> team, particularly streaming gurus <a href="http://ydegoyon.free.fr/">Yves Degoyon</a> and <a href="http://encosianima.net/">Valentina Messeri</a>, we'll be able to show live video streams from most of the lectures.<br />
 The video will be broadcast in the Ogg Theora format, which can be viewed in almost any video player. Exceptions include, of course, Apple's and Microsoft's software, though that can be fixed by installing Xiph <a href="http://xiph.org/quicktime/">QuickTime Components</a> or <a href="http://www.xiph.org/dshow/pmwiki.php/Main/Downloads">DirectShow Filters</a> for the respective operating systems. If you are in doubt or have troubles, use <a href="http://www.videolan.org/vlc/">VLC</a>.<br />
-The URL for the streams will be published on <a href="http://fscons.org/streams/" title="http://fscons.org/streams/">http://fscons.org/streams/</a> by Saturday morning.</p>
+The URL for the streams will be published on <a href="../streams/" title="../streams/">../streams/</a> by Saturday morning.</p>
    
-  <p class="info">Posted in <ul class="links inline"><li class="taxonomy_term_1 first last"><a href="http://fscons.org/2008/taxonomy/term/1" rel="tag" title="uncategorized">Uncategorized</a></li>
-</ul> <ul class="links inline"><li class="blog_usernames_blog first"><a href="http://fscons.org/2008/blog/5" title="Read julipan&#039;s latest blog entries.">julipan&#039;s blog</a></li>
-<li class="comment_forbidden last"><span><a href="http://fscons.org/2008/user/login?destination=comment%2Freply%2F87%23comment-form">Login</a> to post comments</span></li>
+  <p class="info">Posted in <ul class="links inline"><li class="taxonomy_term_1 first last"><a href="../taxonomy/term/1" rel="tag" title="uncategorized">Uncategorized</a></li>
+</ul> <ul class="links inline"><li class="blog_usernames_blog first"><a href="../blog/5" title="Read julipan&#039;s latest blog entries.">julipan&#039;s blog</a></li>
+<li class="comment_forbidden last"><span><a href="../user/login?destination=comment%2Freply%2F87%23comment-form">Login</a> to post comments</span></li>
 </ul></p>
    <small>Submitted by julipan on Fri, 10/24/2008 - 01:40</small>
    
@@ -47,7 +47,7 @@ The URL for the streams will be published on <a href="http://fscons.org/streams/
   <h2>User login</h2>
 
   <div class="content">
-    <form action="http://fscons.org/2008/node/87?destination=node%2F87"  accept-charset="UTF-8" method="post" id="user-login-form">
+    <form action="../node/87?destination=node%2F87"  accept-charset="UTF-8" method="post" id="user-login-form">
 <div><div class="form-item" id="edit-name-wrapper">
  <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
  <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
@@ -57,7 +57,7 @@ The URL for the streams will be published on <a href="http://fscons.org/streams/
  <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
-<div class="item-list"><ul><li class="first last"><a href="http://fscons.org/2008/user/password" title="Request new password via e-mail.">Request new password</a></li>
+<div class="item-list"><ul><li class="first last"><a href="../user/password" title="Request new password via e-mail.">Request new password</a></li>
 </ul></div><input type="hidden" name="form_build_id" id="form-77e91af9d980d12243cf834d7666fb06" value="form-77e91af9d980d12243cf834d7666fb06"  />
 <input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
 

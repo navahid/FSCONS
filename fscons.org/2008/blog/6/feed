@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="http://fscons.org/2008"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="../.."  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>hesa&#039;s blog</title>
- <link>http://fscons.org/2008/blog/6</link>
+ <link>../../blog/6</link>
  <description></description>
  <language>en</language>
 <item>
  <title>Niclas Nilsson has been interviewed</title>
- <link>http://fscons.org/2008/node/84</link>
- <description>&lt;p&gt;&lt;a href=&quot;../speakers/?action=speaker&amp;amp;id=14&quot;&gt;Niclas Nilsson&lt;/a&gt; who’s talking about &lt;a href=&quot;../events/?action=event&amp;amp;id=30&quot;&gt;Agile and Scrum&lt;/a&gt; at &lt;a href=&quot;../&quot;&gt;FSCONS&lt;/a&gt; has been &lt;a href=&quot;http://fscons.org/interview-niclas-nilsson/&quot;&gt;interviewed&lt;/a&gt;.&lt;/p&gt;
+ <link>../../node/84</link>
+ <description>&lt;p&gt;&lt;a href=&quot;../speakers/?action=speaker&amp;amp;id=14&quot;&gt;Niclas Nilsson&lt;/a&gt; who’s talking about &lt;a href=&quot;../events/?action=event&amp;amp;id=30&quot;&gt;Agile and Scrum&lt;/a&gt; at &lt;a href=&quot;../&quot;&gt;FSCONS&lt;/a&gt; has been &lt;a href=&quot;../../interview-niclas-nilsson/&quot;&gt;interviewed&lt;/a&gt;.&lt;/p&gt;
 </description>
- <comments>http://fscons.org/2008/node/84#comments</comments>
- <category domain="http://fscons.org/2008/taxonomy/term/1">Uncategorized</category>
+ <comments>../../node/84#comments</comments>
+ <category domain="../../taxonomy/term/1">Uncategorized</category>
  <pubDate>Wed, 22 Oct 2008 09:31:51 +0000</pubDate>
  <dc:creator>hesa</dc:creator>
- <guid isPermaLink="false">84 at http://fscons.org/2008</guid>
+ <guid isPermaLink="false">84 at ../..</guid>
 </item>
 <item>
  <title>Interview: Johan Eklund and Tham Wickenberg</title>
- <link>http://fscons.org/2008/node/81</link>
- <description>&lt;p&gt;Interview with &lt;a href=&quot;http://fscons.org/speakers/?action=speaker&amp;amp;id=101&quot;&gt;Tham&lt;/a&gt; &lt;a href=&quot;http://fscons.org/speakers/?action=speaker&amp;amp;id=101&quot;&gt;Wickenberg&lt;/a&gt; and &lt;a href=&quot;http://fscons.org/speakers/?action=speaker&amp;amp;id=93&quot;&gt;Johan Eklund&lt;/a&gt; of Primekey for the upcoming &lt;a href=&quot;http://fscons.org&quot;&gt;FSCONS&lt;/a&gt; 08 andtheir presentation: &lt;a href=&quot;http://fscons.org/events/?action=event&amp;amp;id=98&quot;&gt;Secure communications with Open Source PKI&lt;/a&gt;&lt;/p&gt;
+ <link>../../node/81</link>
+ <description>&lt;p&gt;Interview with &lt;a href=&quot;../../speakers/?action=speaker&amp;amp;id=101&quot;&gt;Tham&lt;/a&gt; &lt;a href=&quot;../../speakers/?action=speaker&amp;amp;id=101&quot;&gt;Wickenberg&lt;/a&gt; and &lt;a href=&quot;../../speakers/?action=speaker&amp;amp;id=93&quot;&gt;Johan Eklund&lt;/a&gt; of Primekey for the upcoming &lt;a href=&quot;../..&quot;&gt;FSCONS&lt;/a&gt; 08 andtheir presentation: &lt;a href=&quot;../../events/?action=event&amp;amp;id=98&quot;&gt;Secure communications with Open Source PKI&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;For a little background, can you describe the general topic of your presentation and tell us what is new in the last few months?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://fscons.org/2008/node/81&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <comments>http://fscons.org/2008/node/81#comments</comments>
- <category domain="http://fscons.org/2008/taxonomy/term/1">Uncategorized</category>
+&lt;p&gt;&lt;a href=&quot;../../node/81&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>../../node/81#comments</comments>
+ <category domain="../../taxonomy/term/1">Uncategorized</category>
  <pubDate>Fri, 17 Oct 2008 06:50:04 +0000</pubDate>
  <dc:creator>hesa</dc:creator>
- <guid isPermaLink="false">81 at http://fscons.org/2008</guid>
+ <guid isPermaLink="false">81 at ../..</guid>
 </item>
 <item>
  <title>13 nominated for Nordic Free Software Award</title>
- <link>http://fscons.org/2008/node/80</link>
- <description>&lt;p&gt;13 people/projects have been nominated for the &lt;a href=&quot;http://fscons.org/award/&quot;&gt;Nordic Free Software Award&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The winner will be presented October 25 at &lt;a href=&quot;http://fscons.org&quot;&gt;FSCONS.&lt;/a&gt;&lt;/p&gt;
+ <link>../../node/80</link>
+ <description>&lt;p&gt;13 people/projects have been nominated for the &lt;a href=&quot;../../award/&quot;&gt;Nordic Free Software Award&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The winner will be presented October 25 at &lt;a href=&quot;../..&quot;&gt;FSCONS.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The nomiations are:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt; Daniel Stenberg&lt;/li&gt;
@@ -48,99 +48,99 @@
 &lt;li&gt; Andreas Nilsson&lt;/li&gt;
 &lt;li&gt; Erik Josefsson&lt;/li&gt;
 &lt;li&gt; Heidi Grande Røys&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;http://fscons.org/2008/node/80&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <comments>http://fscons.org/2008/node/80#comments</comments>
- <category domain="http://fscons.org/2008/taxonomy/term/1">Uncategorized</category>
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;../../node/80&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>../../node/80#comments</comments>
+ <category domain="../../taxonomy/term/1">Uncategorized</category>
  <pubDate>Mon, 13 Oct 2008 08:27:17 +0000</pubDate>
  <dc:creator>hesa</dc:creator>
- <guid isPermaLink="false">80 at http://fscons.org/2008</guid>
+ <guid isPermaLink="false">80 at ../..</guid>
 </item>
 <item>
  <title>Secure communications with Open Source PKI</title>
- <link>http://fscons.org/2008/node/79</link>
+ <link>../../node/79</link>
  <description>&lt;ul class=&quot;list-ul&quot;&gt;
-&lt;li&gt; &lt;a href=&quot;../speakers/?action=speaker&amp;amp;id=93&quot;&gt;Eklund, Johan&lt;/a&gt; and  &lt;a href=&quot;../speakers/?action=speaker&amp;amp;id=101&quot;&gt;Wickenberg, Tham &lt;/a&gt;are coming to &lt;a href=&quot;http://fscons.org&quot;&gt;FSCONS&lt;/a&gt; to present: &lt;a href=&quot;../events/?action=event&amp;amp;id=98&quot;&gt;Secure communications with Open Source PKI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href=&quot;../speakers/?action=speaker&amp;amp;id=93&quot;&gt;Eklund, Johan&lt;/a&gt; and  &lt;a href=&quot;../speakers/?action=speaker&amp;amp;id=101&quot;&gt;Wickenberg, Tham &lt;/a&gt;are coming to &lt;a href=&quot;../..&quot;&gt;FSCONS&lt;/a&gt; to present: &lt;a href=&quot;../events/?action=event&amp;amp;id=98&quot;&gt;Secure communications with Open Source PKI&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;PKI used to be reserved to &#039;Big Corp&#039; and &#039;.gov&#039;, but the open source tools have matured over the years and are now available for everyone.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://fscons.org/2008/node/79&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <comments>http://fscons.org/2008/node/79#comments</comments>
- <category domain="http://fscons.org/2008/taxonomy/term/1">Uncategorized</category>
+&lt;p&gt;&lt;a href=&quot;../../node/79&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>../../node/79#comments</comments>
+ <category domain="../../taxonomy/term/1">Uncategorized</category>
  <pubDate>Thu, 09 Oct 2008 09:27:50 +0000</pubDate>
  <dc:creator>hesa</dc:creator>
- <guid isPermaLink="false">79 at http://fscons.org/2008</guid>
+ <guid isPermaLink="false">79 at ../..</guid>
 </item>
 <item>
  <title>Fredrik Jonsson interview on Ubuntu deployment</title>
- <link>http://fscons.org/2008/node/75</link>
- <description>&lt;p&gt;&lt;a href=&quot;http://fscons.org/speakers/?action=speaker&amp;amp;id=75&quot;&gt;Fredrik, Jonsson&lt;/a&gt; &lt;strong&gt; &lt;/strong&gt; who&#039;s presenting &lt;a href=&quot;http://fscons.org/events/?action=event&amp;amp;id=81&quot;&gt;Ubuntu Deployment for Your Enterprise&lt;/a&gt; at &lt;a href=&quot;http://fscons.org&quot;&gt;FSCONS&lt;/a&gt; has been &lt;a href=&quot;http://fscons.org/interview-with-fredrik-jonsson-on-ubuntu-deployment/&quot;&gt;interviewed&lt;/a&gt; .&lt;/p&gt;
+ <link>../../node/75</link>
+ <description>&lt;p&gt;&lt;a href=&quot;../../speakers/?action=speaker&amp;amp;id=75&quot;&gt;Fredrik, Jonsson&lt;/a&gt; &lt;strong&gt; &lt;/strong&gt; who&#039;s presenting &lt;a href=&quot;../../events/?action=event&amp;amp;id=81&quot;&gt;Ubuntu Deployment for Your Enterprise&lt;/a&gt; at &lt;a href=&quot;../..&quot;&gt;FSCONS&lt;/a&gt; has been &lt;a href=&quot;../../interview-with-fredrik-jonsson-on-ubuntu-deployment/&quot;&gt;interviewed&lt;/a&gt; .&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Ubuntu and Debian have a very tight relationship, probably more tightly than any other Debian based distribution has upstream&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Ubuntu is a community driven distribution, no doubts about th&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://fscons.org/2008/node/75&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <comments>http://fscons.org/2008/node/75#comments</comments>
- <category domain="http://fscons.org/2008/taxonomy/term/1">Uncategorized</category>
+&lt;p&gt;&lt;a href=&quot;../../node/75&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>../../node/75#comments</comments>
+ <category domain="../../taxonomy/term/1">Uncategorized</category>
  <pubDate>Mon, 06 Oct 2008 20:10:02 +0000</pubDate>
  <dc:creator>hesa</dc:creator>
- <guid isPermaLink="false">75 at http://fscons.org/2008</guid>
+ <guid isPermaLink="false">75 at ../..</guid>
 </item>
 <item>
  <title>Interview: Magnus Hagander</title>
- <link>http://fscons.org/2008/node/73</link>
- <description>&lt;p&gt;&lt;a href=&quot;../speakers/?action=speaker&amp;amp;id=15&quot;&gt;Hagander, Magnus&lt;/a&gt; who is giving the presentation about &lt;a href=&quot;../events/?action=event&amp;amp;id=34&quot;&gt;PostgreSQL&lt;/a&gt; at &lt;a href=&quot;../&quot;&gt;FSCONS&lt;/a&gt; has been &lt;a href=&quot;http://fscons.org/interview-magnus-hagander/&quot;&gt;interviewed&lt;/a&gt;&lt;/p&gt;
+ <link>../../node/73</link>
+ <description>&lt;p&gt;&lt;a href=&quot;../speakers/?action=speaker&amp;amp;id=15&quot;&gt;Hagander, Magnus&lt;/a&gt; who is giving the presentation about &lt;a href=&quot;../events/?action=event&amp;amp;id=34&quot;&gt;PostgreSQL&lt;/a&gt; at &lt;a href=&quot;../&quot;&gt;FSCONS&lt;/a&gt; has been &lt;a href=&quot;../../interview-magnus-hagander/&quot;&gt;interviewed&lt;/a&gt;&lt;/p&gt;
 </description>
- <comments>http://fscons.org/2008/node/73#comments</comments>
- <category domain="http://fscons.org/2008/taxonomy/term/1">Uncategorized</category>
+ <comments>../../node/73#comments</comments>
+ <category domain="../../taxonomy/term/1">Uncategorized</category>
  <pubDate>Thu, 02 Oct 2008 09:37:43 +0000</pubDate>
  <dc:creator>hesa</dc:creator>
- <guid isPermaLink="false">73 at http://fscons.org/2008</guid>
+ <guid isPermaLink="false">73 at ../..</guid>
 </item>
 <item>
  <title>Jeremiah Foster interviewed</title>
- <link>http://fscons.org/2008/node/71</link>
- <description>&lt;p&gt;We just finished the &lt;a href=&quot;http://fscons.org/jeremiah-foster-interview/&quot;&gt;interview&lt;/a&gt; with &lt;a href=&quot;http://fscons.org/speakers/?action=speaker&amp;amp;id=83&quot;&gt;Jeremiah C &lt;/a&gt; &lt;a href=&quot;http://fscons.org/speakers/?action=speaker&amp;amp;id=83&quot;&gt;Foster&lt;/a&gt; .&lt;/p&gt;
-&lt;p&gt;Jeremiah speaks about Perl, Debian, Ubuntu, rpms, debs, his &amp;quot;favorite speakers to have a ts &lt;a href=&quot;http://fscons.org&quot;&gt;FSCONS&lt;/a&gt; &amp;quot; and tons of other stuff.&lt;/p&gt;
+ <link>../../node/71</link>
+ <description>&lt;p&gt;We just finished the &lt;a href=&quot;../../jeremiah-foster-interview/&quot;&gt;interview&lt;/a&gt; with &lt;a href=&quot;../../speakers/?action=speaker&amp;amp;id=83&quot;&gt;Jeremiah C &lt;/a&gt; &lt;a href=&quot;../../speakers/?action=speaker&amp;amp;id=83&quot;&gt;Foster&lt;/a&gt; .&lt;/p&gt;
+&lt;p&gt;Jeremiah speaks about Perl, Debian, Ubuntu, rpms, debs, his &amp;quot;favorite speakers to have a ts &lt;a href=&quot;../..&quot;&gt;FSCONS&lt;/a&gt; &amp;quot; and tons of other stuff.&lt;/p&gt;
 </description>
- <comments>http://fscons.org/2008/node/71#comments</comments>
- <category domain="http://fscons.org/2008/taxonomy/term/1">Uncategorized</category>
+ <comments>../../node/71#comments</comments>
+ <category domain="../../taxonomy/term/1">Uncategorized</category>
  <pubDate>Tue, 30 Sep 2008 09:20:46 +0000</pubDate>
  <dc:creator>hesa</dc:creator>
- <guid isPermaLink="false">71 at http://fscons.org/2008</guid>
+ <guid isPermaLink="false">71 at ../..</guid>
 </item>
 <item>
  <title>SOTD: The End of Free Communications?</title>
- <link>http://fscons.org/2008/node/68</link>
- <description>&lt;p&gt;&lt;a href=&quot;../speakers/?action=speaker&amp;amp;id=48&quot;&gt;Oscar Swartz &lt;/a&gt;teams up with the other speakers at &lt;a href=&quot;http://fscons.org&quot;&gt;FSCONS&lt;/a&gt;. Oscar will give a speech called &lt;a href=&quot;../events/?action=event&amp;amp;id=50&quot;&gt;The End of Free Communications?&lt;/a&gt;&lt;/p&gt;
+ <link>../../node/68</link>
+ <description>&lt;p&gt;&lt;a href=&quot;../speakers/?action=speaker&amp;amp;id=48&quot;&gt;Oscar Swartz &lt;/a&gt;teams up with the other speakers at &lt;a href=&quot;../..&quot;&gt;FSCONS&lt;/a&gt;. Oscar will give a speech called &lt;a href=&quot;../events/?action=event&amp;amp;id=50&quot;&gt;The End of Free Communications?&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;I discuss initiatives to curtail free communications. I put the development in a broader cultural context where I see the Internet as undermining old authorities and hierarchies. The established powers respond by waging unwinnable wars against imagined enemies and ill-defined groups: &quot;terrorists&quot;, &quot;pirates&quot; and &quot;pedophiles&quot;.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://fscons.org/2008/node/68&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <comments>http://fscons.org/2008/node/68#comments</comments>
- <category domain="http://fscons.org/2008/taxonomy/term/1">Uncategorized</category>
+&lt;p&gt;&lt;a href=&quot;../../node/68&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>../../node/68#comments</comments>
+ <category domain="../../taxonomy/term/1">Uncategorized</category>
  <pubDate>Fri, 26 Sep 2008 09:44:51 +0000</pubDate>
  <dc:creator>hesa</dc:creator>
- <guid isPermaLink="false">68 at http://fscons.org/2008</guid>
+ <guid isPermaLink="false">68 at ../..</guid>
 </item>
 <item>
  <title>SOTD: Squeezing the Evil out of the Music Industry </title>
- <link>http://fscons.org/2008/node/67</link>
- <description>&lt;p&gt;&lt;a href=&quot;http://fscons.org/speakers/?action=speaker&amp;amp;id=52&quot;&gt;John Buckman&lt;/a&gt; is coming over to &lt;a href=&quot;http://fscons.org&quot;&gt;FSCONS&lt;/a&gt; to give a talk, &lt;a href=&quot;../events/?action=event&amp;amp;id=55&quot;&gt;Squeezing the Evil out of the Music Industry&lt;/a&gt; (&lt;em&gt;how we should rethink record labels by using CC licensing)&lt;/em&gt;&lt;/p&gt;
+ <link>../../node/67</link>
+ <description>&lt;p&gt;&lt;a href=&quot;../../speakers/?action=speaker&amp;amp;id=52&quot;&gt;John Buckman&lt;/a&gt; is coming over to &lt;a href=&quot;../..&quot;&gt;FSCONS&lt;/a&gt; to give a talk, &lt;a href=&quot;../events/?action=event&amp;amp;id=55&quot;&gt;Squeezing the Evil out of the Music Industry&lt;/a&gt; (&lt;em&gt;how we should rethink record labels by using CC licensing)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;John will talk about new models for music &amp;amp; the music business, which hinge on open licensing, transparency, and the new ways that music is actually consumed &amp;amp; shared&lt;/p&gt;
 &lt;p&gt;John Buckman is founder of Magnatune, a Berkeley, California-based record label he founded in 2003 and w&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://fscons.org/2008/node/67&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <comments>http://fscons.org/2008/node/67#comments</comments>
- <category domain="http://fscons.org/2008/taxonomy/term/1">Uncategorized</category>
+&lt;p&gt;&lt;a href=&quot;../../node/67&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>../../node/67#comments</comments>
+ <category domain="../../taxonomy/term/1">Uncategorized</category>
  <pubDate>Thu, 25 Sep 2008 08:03:16 +0000</pubDate>
  <dc:creator>hesa</dc:creator>
- <guid isPermaLink="false">67 at http://fscons.org/2008</guid>
+ <guid isPermaLink="false">67 at ../..</guid>
 </item>
 <item>
  <title>SOTD: Open Street Map</title>
- <link>http://fscons.org/2008/node/66</link>
- <description>&lt;p&gt;&lt;a href=&quot;../speakers/?action=speaker&amp;amp;id=13&quot;&gt;Inge Wallin&lt;/a&gt; is coming to FSCONS to speak about &lt;a href=&quot;http://fscons.org/events/?action=event&amp;amp;id=31&quot;&gt;KDE&lt;/a&gt; and Open Street Map. Today we&#039;re focusing on the &lt;a href=&quot;http://fscons.org/events/?action=event&amp;amp;id=61&quot;&gt;Open Street Map presentation&lt;/a&gt;.&lt;/p&gt;
+ <link>../../node/66</link>
+ <description>&lt;p&gt;&lt;a href=&quot;../speakers/?action=speaker&amp;amp;id=13&quot;&gt;Inge Wallin&lt;/a&gt; is coming to FSCONS to speak about &lt;a href=&quot;../../events/?action=event&amp;amp;id=31&quot;&gt;KDE&lt;/a&gt; and Open Street Map. Today we&#039;re focusing on the &lt;a href=&quot;../../events/?action=event&amp;amp;id=61&quot;&gt;Open Street Map presentation&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The talk about OpenStreetMap (OSM) is an introduction to the subject of free maps in general and the OpenStreetMaps in particular. OpenStreetMap has in a very short time come up as one of the largest providers of free content anywhere.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://fscons.org/2008/node/66&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <comments>http://fscons.org/2008/node/66#comments</comments>
- <category domain="http://fscons.org/2008/taxonomy/term/1">Uncategorized</category>
+&lt;p&gt;&lt;a href=&quot;../../node/66&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>../../node/66#comments</comments>
+ <category domain="../../taxonomy/term/1">Uncategorized</category>
  <pubDate>Wed, 24 Sep 2008 12:05:21 +0000</pubDate>
  <dc:creator>hesa</dc:creator>
- <guid isPermaLink="false">66 at http://fscons.org/2008</guid>
+ <guid isPermaLink="false">66 at ../..</guid>
 </item>
 </channel>
 </rss>

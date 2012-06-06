@@ -6,12 +6,12 @@
     <meta http-equiv="Content-Style-Type" content="text/css" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="shortcut icon" href="../misc/favicon.ico" type="image/x-icon" />
-    <link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="http://fscons.org/2008/modules/user/user.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/fscons.org.2008/themes/blix/style.css?j" />
+    <link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/user/user.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/fscons.org.2008/themes/blix/style.css" />
     </head>
 <body >
 <div id="container">
@@ -28,7 +28,7 @@
                 <!-- start main content -->
     <div class="entry"> 
    
-  <p>Interview:<a href="http://fscons.org/2008/speakers/?action=speaker&amp;id=15"> Hagander, Magnus</a> who is giving the presentation about <a href="http://fscons.org/2008/events/?action=event&amp;id=34">PostgreSQL</a> at <a href="../../index.html">FSCONS</a>.</p>
+  <p>Interview:<a href="../speakers/?action=speaker&amp;id=15"> Hagander, Magnus</a> who is giving the presentation about <a href="../events/?action=event&amp;id=34">PostgreSQL</a> at <a href="../../index.html">FSCONS</a>.</p>
 <p>For a little background, can you describe the general topic of your presentation and tell us what is new in the last few months?</p>
 <p>The general topic of the talk is PostgreSQL, of course. More specifically, I will focus on some of the features that a lot of people aren't aware exist there, and that don't exist in many (or any) other databases on the market - both open and proprietary, but that can make life easier for both DBAs and developers.</p>
 <p>Can you give a summary of what you will present? Why should someone choose to come to your presentation?</p>
@@ -68,7 +68,7 @@
 <p>Well, I'll certainly be going to the Nagios talk, because it's a piece of software we use a lot in the postgresql.org infrastructure, and also fairly common amongst our commercial customers.  I'll also probably be interested in the Ubuntu deployment one, and the danish public sector one, because they closely relate to the work I was doing before I started doing PostgreSQL full-time.</p>
    
   <p class="info">Posted in <ul class="links inline"><li class="taxonomy_term_1 first last"><a href="../taxonomy/term/1" rel="tag" title="uncategorized">Uncategorized</a></li>
-</ul> <ul class="links inline"><li class="comment_forbidden first last"><span><a href="http://fscons.org/2008/user/login?destination=comment%2Freply%2F72%23comment-form">Login</a> to post comments</span></li>
+</ul> <ul class="links inline"><li class="comment_forbidden first last"><span><a href="../user/login?destination=comment%2Freply%2F72%23comment-form">Login</a> to post comments</span></li>
 </ul></p>
    <small></small>
    
@@ -81,7 +81,7 @@
   <h2>User login</h2>
 
   <div class="content">
-    <form action="http://fscons.org/2008/node/72?destination=node%2F72"  accept-charset="UTF-8" method="post" id="user-login-form">
+    <form action="../node/72?destination=node%2F72"  accept-charset="UTF-8" method="post" id="user-login-form">
 <div><div class="form-item" id="edit-name-wrapper">
  <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
  <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
@@ -91,7 +91,7 @@
  <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
-<div class="item-list"><ul><li class="first last"><a href="http://fscons.org/2008/user/password" title="Request new password via e-mail.">Request new password</a></li>
+<div class="item-list"><ul><li class="first last"><a href="../user/password" title="Request new password via e-mail.">Request new password</a></li>
 </ul></div><input type="hidden" name="form_build_id" id="form-87d9957d4e8e277dcdad80dabecaa76c" value="form-87d9957d4e8e277dcdad80dabecaa76c"  />
 <input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
 

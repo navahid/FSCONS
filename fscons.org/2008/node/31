@@ -6,12 +6,12 @@
     <meta http-equiv="Content-Style-Type" content="text/css" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="shortcut icon" href="../misc/favicon.ico" type="image/x-icon" />
-    <link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="http://fscons.org/2008/modules/user/user.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/fscons.org.2008/themes/blix/style.css?j" />
+    <link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/user/user.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/fscons.org.2008/themes/blix/style.css" />
     </head>
 <body >
 <div id="container">
@@ -30,11 +30,11 @@
    
   <p>The FSCONS team is happy to announce the release of the first FSCONS '08 Newsletter.</p>
 <p>It contains a list of the first confirmed speakers and gives an overview of what we have planned and some nifty details about the conference in general.</p>
-<p>Get it <a title="fscons-newsletter-2008-06-13" href="http://fscons.org/files/fscons-newsletter-2008-06-13.pdf" target="_blank">here</a>.</p>
+<p>Get it <a title="fscons-newsletter-2008-06-13" href="../files/fscons-newsletter-2008-06-13.pdf" target="_blank">here</a>.</p>
    
   <p class="info">Posted in <ul class="links inline"><li class="taxonomy_term_1 first last"><a href="../taxonomy/term/1" rel="tag" title="uncategorized">Uncategorized</a></li>
 </ul> <ul class="links inline"><li class="blog_usernames_blog first"><a href="../blog/3.3" title="Read Hannibal&#039;s latest blog entries.">Hannibal&#039;s blog</a></li>
-<li class="comment_forbidden last"><span><a href="http://fscons.org/2008/user/login?destination=comment%2Freply%2F31%23comment-form">Login</a> to post comments</span></li>
+<li class="comment_forbidden last"><span><a href="../user/login?destination=comment%2Freply%2F31%23comment-form">Login</a> to post comments</span></li>
 </ul></p>
    <small>Submitted by Hannibal on Mon, 06/16/2008 - 11:16</small>
    
@@ -47,7 +47,7 @@
   <h2>User login</h2>
 
   <div class="content">
-    <form action="http://fscons.org/2008/node/31?destination=node%2F31"  accept-charset="UTF-8" method="post" id="user-login-form">
+    <form action="../node/31?destination=node%2F31"  accept-charset="UTF-8" method="post" id="user-login-form">
 <div><div class="form-item" id="edit-name-wrapper">
  <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
  <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
@@ -57,7 +57,7 @@
  <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
-<div class="item-list"><ul><li class="first last"><a href="http://fscons.org/2008/user/password" title="Request new password via e-mail.">Request new password</a></li>
+<div class="item-list"><ul><li class="first last"><a href="../user/password" title="Request new password via e-mail.">Request new password</a></li>
 </ul></div><input type="hidden" name="form_build_id" id="form-4bc478601047586f207a0772b66b7873" value="form-4bc478601047586f207a0772b66b7873"  />
 <input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
 

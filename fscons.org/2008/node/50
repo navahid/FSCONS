@@ -6,12 +6,12 @@
     <meta http-equiv="Content-Style-Type" content="text/css" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="shortcut icon" href="../misc/favicon.ico" type="image/x-icon" />
-    <link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="http://fscons.org/2008/modules/user/user.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/fscons.org.2008/themes/blix/style.css?j" />
+    <link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/user/user.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/fscons.org.2008/themes/blix/style.css" />
     </head>
 <body >
 <div id="container">
@@ -40,7 +40,7 @@
 <p>We are not less proud to have, in Inge Walling, a representative of the KDE development team present at FSCONS. <a title="PostgreSQL" href="http://www.postgresql.org/" target="_blank">PostgreSQL</a> as well as <a title="coreboot" href="http://www.coreboot.org/Welcome_to_coreboot" target="_blank">Coreboot</a> are not to be missed either and he who says <a title="qt" href="http://trolltech.com/products/qt/" target="_blank">qt</a> has to say <a title="gtk" href="http://www.gtk.org/" target="_blank">gtk</a> as well :)</p>
 <p>The amount of different projects and initiatives bridging the various topics is sensational. We are lucky to have <a title="openstreetmap" href="http://www.openstreetmap.org" target="_blank">OpenStreetMap</a> as well as the <a title="tango project" href="http://tango.freedesktop.org/" target="_blank">tango desktop project</a> at this year's FSCONS.</p>
 <p>Whenever we felt we might have reached a point where the schedule was nearly finished we discovered something new or someone tipped us about other interesting happenings.<br />
-For example, initiatives for "<a title="Towards 10Gbps - talk summary" href="http://fscons.org/events/?action=event&amp;id=75" target="_blank">Towards 10Gbps open-source routing</a>" and "<a title="Collaborative development models - workshop summary" href="http://fscons.org/events/?action=event&amp;id=76">Collaborative development of free software models</a>" should certainly not be missed.</p>
+For example, initiatives for "<a title="Towards 10Gbps - talk summary" href="../events/?action=event&amp;id=75" target="_blank">Towards 10Gbps open-source routing</a>" and "<a title="Collaborative development models - workshop summary" href="../events/?action=event&amp;id=76">Collaborative development of free software models</a>" should certainly not be missed.</p>
 <p>The schedule holds a lot more and certainly promises a very good and information packed conference.</p>
 <p>As our plan has always been to make FSCONS a place to meet people there are other side events in the making, which we will be announcing here as soon as concrete plans are concluded and contracts signed.</p>
 <p>Until then we will continue to put all our strength in FSCONS and hope that you will continue to provide us with the amazing input we got so far!</p>
@@ -48,7 +48,7 @@ For example, initiatives for "<a title="Towards 10Gbps - talk summary" href="htt
    
   <p class="info">Posted in <ul class="links inline"><li class="taxonomy_term_1 first last"><a href="../taxonomy/term/1" rel="tag" title="uncategorized">Uncategorized</a></li>
 </ul> <ul class="links inline"><li class="blog_usernames_blog first"><a href="../blog/1" title="Read fscons2008admin&#039;s latest blog entries.">fscons2008admin&#039;s blog</a></li>
-<li class="comment_forbidden last"><span><a href="http://fscons.org/2008/user/login?destination=comment%2Freply%2F50%23comment-form">Login</a> to post comments</span></li>
+<li class="comment_forbidden last"><span><a href="../user/login?destination=comment%2Freply%2F50%23comment-form">Login</a> to post comments</span></li>
 </ul></p>
    <small>Submitted by fscons2008admin on Mon, 09/08/2008 - 12:16</small>
    
@@ -61,7 +61,7 @@ For example, initiatives for "<a title="Towards 10Gbps - talk summary" href="htt
   <h2>User login</h2>
 
   <div class="content">
-    <form action="http://fscons.org/2008/node/50?destination=node%2F50"  accept-charset="UTF-8" method="post" id="user-login-form">
+    <form action="../node/50?destination=node%2F50"  accept-charset="UTF-8" method="post" id="user-login-form">
 <div><div class="form-item" id="edit-name-wrapper">
  <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
  <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
@@ -71,7 +71,7 @@ For example, initiatives for "<a title="Towards 10Gbps - talk summary" href="htt
  <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
-<div class="item-list"><ul><li class="first last"><a href="http://fscons.org/2008/user/password" title="Request new password via e-mail.">Request new password</a></li>
+<div class="item-list"><ul><li class="first last"><a href="../user/password" title="Request new password via e-mail.">Request new password</a></li>
 </ul></div><input type="hidden" name="form_build_id" id="form-d87d5e9b43eb0ab25c5194f39d471843" value="form-d87d5e9b43eb0ab25c5194f39d471843"  />
 <input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
 

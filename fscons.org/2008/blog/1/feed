@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="http://fscons.org/2008"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="../.."  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>fscons2008admin&#039;s blog</title>
- <link>http://fscons.org/2008/blog/1</link>
+ <link>../../blog/1</link>
  <description></description>
  <language>en</language>
 <item>
  <title>Less than 50 days to go</title>
- <link>http://fscons.org/2008/node/50</link>
+ <link>../../node/50</link>
  <description>&lt;p&gt;We have less than 50 days before the official start of FSCONS and we have come a long way.&lt;/p&gt;
 &lt;p&gt;Beginning with only a rough vision and last years FSCONS in our bones we set out to broaden FSCONS&#039; scope and include more aspects of the Free Society movement.&lt;/p&gt;
 &lt;p&gt;&lt;a title=&quot;Creative Commons&quot; href=&quot;http://www.creativecommons.org&quot; target=&quot;_blank&quot;&gt;Creative Commons&lt;/a&gt;, &lt;a title=&quot;Free Software Foundation Europe&quot; href=&quot;http://www.fsfeurope.org&quot; target=&quot;_blank&quot;&gt;Free Software Foundation Europe&lt;/a&gt; and &lt;a title=&quot;Wikimedia Foundation&quot; href=&quot;http://www.wikimedia.org&quot;&gt;Wikimedia&lt;/a&gt; built a coalition to create a new kind of Free Society conference.&lt;/p&gt;
 &lt;p&gt;It was a difficult task and it still is, however we can now proudly say that FSCONS&#039; program is made up of many interesting and important topics.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://fscons.org/2008/node/50&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <comments>http://fscons.org/2008/node/50#comments</comments>
- <category domain="http://fscons.org/2008/taxonomy/term/1">Uncategorized</category>
+&lt;p&gt;&lt;a href=&quot;../../node/50&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>../../node/50#comments</comments>
+ <category domain="../../taxonomy/term/1">Uncategorized</category>
  <pubDate>Mon, 08 Sep 2008 10:16:00 +0000</pubDate>
  <dc:creator>fscons2008admin</dc:creator>
- <guid isPermaLink="false">50 at http://fscons.org/2008</guid>
+ <guid isPermaLink="false">50 at ../..</guid>
 </item>
 </channel>
 </rss>

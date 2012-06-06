@@ -6,12 +6,12 @@
     <meta http-equiv="Content-Style-Type" content="text/css" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="shortcut icon" href="../misc/favicon.ico" type="image/x-icon" />
-    <link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="http://fscons.org/2008/modules/user/user.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/fscons.org.2008/themes/blix/style.css?j" />
+    <link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/user/user.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/fscons.org.2008/themes/blix/style.css" />
     </head>
 <body >
 <div id="container">
@@ -28,7 +28,7 @@
                 <!-- start main content -->
     <div class="entry"> 
    
-  <p><a href="http://fscons.org/2008/speakers/?action=speaker&amp;id=14">Niclas Nilsson</a> who's talking about <a href="http://fscons.org/2008/events/?action=event&amp;id=30">Agile and Scrum</a> at <a href="../../index.html">FSCONS</a> has been interviewed.  <a href="http://fscons.org/2008/speakers/?action=speaker&amp;id=14"></a></p>
+  <p><a href="../speakers/?action=speaker&amp;id=14">Niclas Nilsson</a> who's talking about <a href="../events/?action=event&amp;id=30">Agile and Scrum</a> at <a href="../../index.html">FSCONS</a> has been interviewed.  <a href="../speakers/?action=speaker&amp;id=14"></a></p>
 <p><strong>For a little background, can you describe the general topic of your presentation and tell us what is new in the last few months?</strong></p>
 <p>The topic is how we work together in organizations, when it comes to developing software. Traditional ways fail way to often, and is more common than uncommon that the ones sponsoring the project didn't get what they need. The best way to develop software currently is in my opinion various variants of agile software development. Scrum in combination with Extreme Programming (XP) is one of the strongest combination for most organizations, but there are other important influences, such as Feature-Driven Development and Lean Software Development, that can make big impacts on the performance and quality of delivering business value in software development.</p>
 <p><strong>Can you give a summary of what you will present? Why should someone choose to come to your presentation?</strong></p>
@@ -57,7 +57,7 @@
 <p>"Squeezing the Evil out of the Music Industry" by John Buckman interests me a lot. Creative Commons in general interests me a lot actually, not just for music. Mashups are a very interesting way of developing software services nowadays, and creative commons plays a major role there. I'm also curious about Katja Henttonen's talk on "Collaborative development of free software models"</p>
    
   <p class="info">Posted in <ul class="links inline"><li class="taxonomy_term_1 first last"><a href="../taxonomy/term/1" rel="tag" title="uncategorized">Uncategorized</a></li>
-</ul> <ul class="links inline"><li class="comment_forbidden first last"><span><a href="http://fscons.org/2008/user/login?destination=comment%2Freply%2F83%23comment-form">Login</a> to post comments</span></li>
+</ul> <ul class="links inline"><li class="comment_forbidden first last"><span><a href="../user/login?destination=comment%2Freply%2F83%23comment-form">Login</a> to post comments</span></li>
 </ul></p>
    <small></small>
    
@@ -70,7 +70,7 @@
   <h2>User login</h2>
 
   <div class="content">
-    <form action="http://fscons.org/2008/node/83?destination=node%2F83"  accept-charset="UTF-8" method="post" id="user-login-form">
+    <form action="../node/83?destination=node%2F83"  accept-charset="UTF-8" method="post" id="user-login-form">
 <div><div class="form-item" id="edit-name-wrapper">
  <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
  <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
@@ -80,7 +80,7 @@
  <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
-<div class="item-list"><ul><li class="first last"><a href="http://fscons.org/2008/user/password" title="Request new password via e-mail.">Request new password</a></li>
+<div class="item-list"><ul><li class="first last"><a href="../user/password" title="Request new password via e-mail.">Request new password</a></li>
 </ul></div><input type="hidden" name="form_build_id" id="form-d6d41ed1cffe6d9f6403a0b958b30121" value="form-d6d41ed1cffe6d9f6403a0b958b30121"  />
 <input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
 

@@ -6,12 +6,12 @@
     <meta http-equiv="Content-Style-Type" content="text/css" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="shortcut icon" href="../misc/favicon.ico" type="image/x-icon" />
-    <link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="http://fscons.org/2008/modules/user/user.css?j" />
-<link type="text/css" rel="stylesheet" media="all" href="../sites/fscons.org.2008/themes/blix/style.css?j" />
+    <link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/user/user.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/fscons.org.2008/themes/blix/style.css" />
     </head>
 <body >
 <div id="container">
@@ -28,12 +28,12 @@
                 <!-- start main content -->
     <div class="entry"> 
    
-  <p><a href="http://fscons.org/2008/speakers/?action=speaker&amp;id=51">Mike Linksvayer</a> <a href="http://fscons.org/2008/speakers/?action=speaker&amp;id=51">(</a><a href="http://creativecommons.org/about/people#21">Vice President of Creative Commons</a>) is coming to FSCONS to give the talk <a href="http://fscons.org/2008/events/?action=event&amp;id=53">How far behind is free+open culture?</a></p>
+  <p><a href="../speakers/?action=speaker&amp;id=51">Mike Linksvayer</a> <a href="../speakers/?action=speaker&amp;id=51">(</a><a href="http://creativecommons.org/about/people#21">Vice President of Creative Commons</a>) is coming to FSCONS to give the talk <a href="../events/?action=event&amp;id=53">How far behind is free+open culture?</a></p>
 <p>Mike Linksvayer is <a href="http://creativecommons.org/about/people#21">Vice President of Creative Commons</a>, where he manages core programs and operations. He joined Creative Commons as <a href="http://creativecommons.org/weblog/entry/5383">CTO</a> in 2003. In 2000 he co-founded an early open content/open data company, <a href="http://bitzi.com/">Bitzi.com</a>, which provides a file metadata service. He has participated in free software and related movements since 1990 and in 1993 published <a href="http://gondwanaland.com/meta/history/interview.html">one of the first interviews with Linus Torvalds</a>. Mike has a professional background in web, enterprise and multimedia software development and holds a degree in economics from the University of Illinois at Urbana-Champaign.</p>
    
   <p class="info">Posted in <ul class="links inline"><li class="taxonomy_term_1 first last"><a href="../taxonomy/term/1" rel="tag" title="uncategorized">Uncategorized</a></li>
 </ul> <ul class="links inline"><li class="blog_usernames_blog first"><a href="../blog/6.3" title="Read hesa&#039;s latest blog entries.">hesa&#039;s blog</a></li>
-<li class="comment_forbidden last"><span><a href="http://fscons.org/2008/user/login?destination=comment%2Freply%2F62%23comment-form">Login</a> to post comments</span></li>
+<li class="comment_forbidden last"><span><a href="../user/login?destination=comment%2Freply%2F62%23comment-form">Login</a> to post comments</span></li>
 </ul></p>
    <small>Submitted by hesa on Fri, 09/19/2008 - 15:52</small>
    
@@ -46,7 +46,7 @@
   <h2>User login</h2>
 
   <div class="content">
-    <form action="http://fscons.org/2008/node/62?destination=node%2F62"  accept-charset="UTF-8" method="post" id="user-login-form">
+    <form action="../node/62?destination=node%2F62"  accept-charset="UTF-8" method="post" id="user-login-form">
 <div><div class="form-item" id="edit-name-wrapper">
  <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
  <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
@@ -56,7 +56,7 @@
  <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
-<div class="item-list"><ul><li class="first last"><a href="http://fscons.org/2008/user/password" title="Request new password via e-mail.">Request new password</a></li>
+<div class="item-list"><ul><li class="first last"><a href="../user/password" title="Request new password via e-mail.">Request new password</a></li>
 </ul></div><input type="hidden" name="form_build_id" id="form-88d68df2f1863947398f2ee8d33d0e33" value="form-88d68df2f1863947398f2ee8d33d0e33"  />
 <input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
 
