@@ -1,0 +1,476 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
+  <title>fscons | fscons.org</title>
+  <link type="text/css" rel="stylesheet" media="all" href="../../modules/aggregator/aggregator.css%3Fz.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../modules/node/node.css%3Fz.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../modules/system/defaults.css%3Fz.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../modules/system/system.css%3Fz.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../modules/system/system-menus.css%3Fz.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../modules/user/user.css%3Fz.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/cck/theme/content-module.css%3Fz.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/date/date.css%3Fz.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/date/date_popup/themes/datepicker.css%3Fz.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/date/date_popup/themes/timeentry.css%3Fz.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/filefield/filefield.css%3Fz.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/lightbox2/css/lightbox.css%3Fz.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/logintoboggan/logintoboggan.css%3Fz.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/ubercart/uc_attribute/uc_attribute.css%3Fz.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/ubercart/uc_order/uc_order.css%3Fz.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/ubercart/uc_product/uc_product.css%3Fz.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/ubercart/uc_roles/uc_roles.css%3Fz.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/ubercart/uc_store/uc_store.css%3Fz.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/video/types/uploadfield/uploadfield.css%3Fz.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/calendar/calendar.css%3Fz.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../misc/farbtastic/farbtastic.css%3Fz.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/cck/modules/fieldgroup/fieldgroup.css%3Fz.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/views/css/views.css%3Fz.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/fscons.org.2010/themes/shallowgrunge/font.css%3Fz.css" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/fscons.org.2010/themes/shallowgrunge/style.css%3Fz.css" />
+  <style type="text/css">
+    #header { background: #333333 }
+    #navigation { background: #7f0000 }
+    #header-inner, #navigation-inner { background: url('https://fscons.org/sites/fscons.org.2010/themes/shallowgrunge/images/grunge4.png') repeat-y; }
+    h1, h2, h3, h4, h5, h6 { color: #000000; }
+    a { color: #A42424; }
+  </style>
+  <script type="text/javascript" src="../../misc/jquery.js%3Fz"></script>
+<script type="text/javascript" src="../../misc/drupal.js%3Fz"></script>
+<script type="text/javascript" src="../../sites/all/modules/lightbox2/js/lightbox.js%3Fz"></script>
+<script type="text/javascript" src="../../sites/all/modules/rounded_corners/jquery.corner.js%3Fz"></script>
+<script type="text/javascript" src="../../sites/all/modules/ubercart/uc_roles/uc_roles.js%3Fz"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/2010/", "lightbox2": { "rtl": 0, "file_path": "/2010/(\\w\\w/)sites/fscons.org.2010/files", "default_image": "/2010/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": 0.8, "overlay_color": "000", "disable_close_click": true, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": false, "disable_resize": false, "disable_zoom": false, "force_show_nav": false, "loop_items": false, "node_link_text": "View Image Details", "node_link_target": false, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": false } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(function(){ // shorthand for $(document).ready() 
+$(".daysleft2").corner("round 10px");
+$(".themeinfo2").corner("round 10px");
+ });
+//--><!]]>
+</script>
+  <script type="text/javascript"> </script>
+</head>
+<body class="not-front not-logged-in page-aggregator one-sidebar sidebar-right">
+  <div id="page">
+    <div id="header"><div id="header-inner"><div id="header-tear">
+    
+    <div id="secondary" class="clear-block">
+          </div>
+    
+      <div id="logo-title">
+
+                  <a href="../../index.html" title="Home" rel="home" id="logo">
+            <img src="../../files/2010/FSCONS_logo_2010_white.png" alt="" />
+          </a>
+                
+                  <div id="name-slogan">
+                          <div id="site-name">
+                <a href="../../index.html" title="Home" rel="home">fscons.org</a>
+              </div>
+            
+                      </div> <!-- /name-and-slogan -->
+          
+      </div> <!-- /logo-title -->
+        
+
+              <div id="search-box"><form action="1%3Fpage=3.html"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-d7d4743ea04f4a945380935451e9eec4" value="form-d7d4743ea04f4a945380935451e9eec4"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+</div>
+      
+    </div></div></div> <!-- /header -->
+
+    <div id="container" class="clear-block">
+
+      <div id="navigation" class="menu withprimary"><div id="navigation-inner"><div id="navigation-tear">
+                  <div id="primary" class="clear-block">
+            <ul class="links primary-links"><li class="menu-150 first"><a href="../../practical-information.html" title="Practical Information">Practical Information</a></li>
+<li class="menu-513"><a href="../../program.html" title="Program">Program</a></li>
+<li class="menu-157"><a href="../../register.html" title="Register">Register</a></li>
+<li class="menu-158"><a href="../../sponsors.html" title="Sponsors">Sponsors</a></li>
+<li class="menu-248"><a href="../../explore-our-themes.html" title="Explore our Themes">Themes</a></li>
+<li class="menu-583"><a href="../../award.html" title="">Award</a></li>
+<li class="menu-625 last"><a href="../../press.html" title="Press">Press</a></li>
+</ul>          </div>
+        
+      </div></div></div> <!-- /navigation -->
+
+      <div id="main">
+        <div id="main-content" class="column">
+                <div id="breadcrumb"><div class="breadcrumb"><a href="../../index.html">Home</a> » <a href="../../aggregator.1.html">Feed aggregator</a> » <a href="../sources.1.html">Sources</a></div></div>        
+        <div id="content">
+                    <h1 class="title" id="page-title">fscons</h1>                              <div id="content-content" class="clear-block">
+            <div id="aggregator">
+  <div class="feed-source">
+  <a href="http://search.twitter.com/search.atom?q=+%23fscons+%40fscons" class="feed-icon"><img src="../../misc/feed.png" alt="Syndicate content" title="fscons feed" width="16" height="16" /></a>    <div class="feed-description">
+      </div>
+  <div class="feed-url">
+    <em>URL:</em> <a href="http://search.twitter.com/search?q=+%23fscons+%40fscons">http://search.twitter.com/search?q=+%23fscons+%40fscons</a>
+  </div>
+  <div class="feed-updated">
+    <em>Updated:</em> 1 year 10 weeks ago  </div>
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/kinkymal/statuses/31763623038689280">@blondinrikard jag menade: Fscons flattr-account är inaktivt! (blev lite fel där)</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <span class="feed-item-date">30 January, 2011 - 19:20</span>
+  </div>
+
+  <div class="feed-item-body">
+    <a href="http://twitter.com/blondinrikard">@blondinrikard</a> jag menade: <b>Fscons</b> flattr-account är inaktivt! (blev lite fel där)  </div>
+
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/kinkymal/statuses/31751846859116544">@fscons your Flattr account is inactive! That&#039;s not good! I subscribe! /o\</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <span class="feed-item-date">30 January, 2011 - 18:33</span>
+  </div>
+
+  <div class="feed-item-body">
+    <a href="http://twitter.com/fscons">@<b>fscons</b></a> your Flattr account is inactive! That&apos;s not good! I subscribe! /o\  </div>
+
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/beggaboo85/statuses/31503100124598272">@chulu Yeah, hopefully I&#039;ll see you there during FSCONS this year ;)</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <span class="feed-item-date">30 January, 2011 - 02:04</span>
+  </div>
+
+  <div class="feed-item-body">
+    <a href="http://twitter.com/chulu">@chulu</a> Yeah, hopefully I&apos;ll see you there during <b>FSCONS</b> this year ;)  </div>
+
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/mlinksva/statuses/31250414158479360">RT @kirschner: @grote &#039;s #FSCONS talk about Centralized Internet Services #webm http://is.gd/GJYv2g or #torrent http://is.gd/ThZq1g #fs #fsfe #gnu</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <span class="feed-item-date">29 January, 2011 - 09:20</span>
+  </div>
+
+  <div class="feed-item-body">
+    RT <a href="http://twitter.com/kirschner">@kirschner</a>: <a href="http://twitter.com/grote">@grote</a> &apos;s <a href="http://search.twitter.com/search?q=%23FSCONS">#<b>FSCONS</b></a> talk about Centralized Internet Services <a href="http://search.twitter.com/search?q=%23webm">#webm</a> <a href="http://is.gd/GJYv2g">http://is.gd/GJYv2g</a> or <a href="http://search.twitter.com/search?q=%23torrent">#torrent</a> <a href="http://is.gd/ThZq1g">http://is.gd/ThZq1g</a> <a href="http://search.twitter.com/search?q=%23fs">#fs</a> <a href="http://search.twitter.com/search?q=%23fsfe">#fsfe</a> <a href="http://search.twitter.com/search?q=%23gnu">#gnu</a>  </div>
+
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/doti2p/statuses/30775652126818304">Watch FSCONS 2010: #Web #Search By The #People, For The People on Vimeo! http://vimeo.com/18742908 #google #bing #yacy http://yacy.net</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <span class="feed-item-date">28 January, 2011 - 01:54</span>
+  </div>
+
+  <div class="feed-item-body">
+    Watch <b>FSCONS</b> 2010: <a href="http://search.twitter.com/search?q=%23Web">#Web</a> <a href="http://search.twitter.com/search?q=%23Search">#Search</a> By The <a href="http://search.twitter.com/search?q=%23People">#People</a>, For The People on Vimeo! <a href="http://vimeo.com/18742908">http://vimeo.com/18742908</a> <a href="http://search.twitter.com/search?q=%23google">#google</a> <a href="http://search.twitter.com/search?q=%23bing">#bing</a> <a href="http://search.twitter.com/search?q=%23yacy">#yacy</a> <a href="http://yacy.net">http://yacy.net</a>  </div>
+
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/PCWORLDS/statuses/30669567994888192">kirschner: @grote &#039;s #FSCONS talk about Centralized Internet Services #webm http://is.gd/GJYv2g or #torrent... http://ff.im/-wUbdT</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <span class="feed-item-date">27 January, 2011 - 18:52</span>
+  </div>
+
+  <div class="feed-item-body">
+    kirschner: <a href="http://twitter.com/grote">@grote</a> &apos;s <a href="http://search.twitter.com/search?q=%23FSCONS">#<b>FSCONS</b></a> talk about Centralized Internet Services <a href="http://search.twitter.com/search?q=%23webm">#webm</a> <a href="http://is.gd/GJYv2g">http://is.gd/GJYv2g</a> or <a href="http://search.twitter.com/search?q=%23torrent">#torrent</a>... <a href="http://ff.im/-wUbdT">http://ff.im/-wUbdT</a>  </div>
+
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/kirschner/statuses/30667203057557504">@grote &#039;s #FSCONS talk about Centralized Internet Services #webm http://is.gd/GJYv2g or #torrent http://is.gd/ThZq1g #fs #fsfe #gnu</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <span class="feed-item-date">27 January, 2011 - 18:43</span>
+  </div>
+
+  <div class="feed-item-body">
+    <a href="http://twitter.com/grote">@grote</a> &apos;s <a href="http://search.twitter.com/search?q=%23FSCONS">#<b>FSCONS</b></a> talk about Centralized Internet Services <a href="http://search.twitter.com/search?q=%23webm">#webm</a> <a href="http://is.gd/GJYv2g">http://is.gd/GJYv2g</a> or <a href="http://search.twitter.com/search?q=%23torrent">#torrent</a> <a href="http://is.gd/ThZq1g">http://is.gd/ThZq1g</a> <a href="http://search.twitter.com/search?q=%23fs">#fs</a> <a href="http://search.twitter.com/search?q=%23fsfe">#fsfe</a> <a href="http://search.twitter.com/search?q=%23gnu">#gnu</a>  </div>
+
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/klang67/statuses/30614561254019072">RT @ffkp: One step in the shaping of #FSCONS was our manifesto. Fell free to comment on it! http://ur1.ca/310qh</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <span class="feed-item-date">27 January, 2011 - 15:14</span>
+  </div>
+
+  <div class="feed-item-body">
+    RT <a href="http://twitter.com/ffkp">@ffkp</a>: One step in the shaping of <a href="http://search.twitter.com/search?q=%23FSCONS">#<b>FSCONS</b></a> was our manifesto. Fell free to comment on it! <a href="http://ur1.ca/310qh">http://ur1.ca/310qh</a>  </div>
+
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/blondinrikard/statuses/30609683400101888">RT @ffkp One step in the shaping of #FSCONS was our manifesto. Fell free to comment on it! http://ur1.ca/310qh</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <span class="feed-item-date">27 January, 2011 - 14:54</span>
+  </div>
+
+  <div class="feed-item-body">
+    RT <a href="http://twitter.com/ffkp">@ffkp</a> One step in the shaping of <a href="http://search.twitter.com/search?q=%23FSCONS">#<b>FSCONS</b></a> was our manifesto. Fell free to comment on it! <a href="http://ur1.ca/310qh">http://ur1.ca/310qh</a>  </div>
+
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/FSCONS/statuses/30609255144890368">RT @ffkp: One step in the shaping of #FSCONS was our manifesto. Fell free to comment on it! http://ur1.ca/310qh</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <span class="feed-item-date">27 January, 2011 - 14:53</span>
+  </div>
+
+  <div class="feed-item-body">
+    RT <a href="http://twitter.com/ffkp">@ffkp</a>: One step in the shaping of <a href="http://search.twitter.com/search?q=%23FSCONS">#<b>FSCONS</b></a> was our manifesto. Fell free to comment on it! <a href="http://ur1.ca/310qh">http://ur1.ca/310qh</a>  </div>
+
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/jonaso/statuses/30608115581853698">RT @blondinrikard: ♺ @ffkp: One step in the shaping of #FSCONS was our manifesto. Fell free to comment on it! http://ur1.ca/310qh</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <span class="feed-item-date">27 January, 2011 - 14:48</span>
+  </div>
+
+  <div class="feed-item-body">
+    RT <a href="http://twitter.com/blondinrikard">@blondinrikard</a>: ♺ <a href="http://twitter.com/ffkp">@ffkp</a>: One step in the shaping of <a href="http://search.twitter.com/search?q=%23FSCONS">#<b>FSCONS</b></a> was our manifesto. Fell free to comment on it! <a href="http://ur1.ca/310qh">http://ur1.ca/310qh</a>  </div>
+
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/blondinrikard/statuses/30606846494511104">♺ @ffkp: One step in the shaping of #FSCONS was our manifesto. Fell free to comment on it! http://ur1.ca/310qh</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <span class="feed-item-date">27 January, 2011 - 14:43</span>
+  </div>
+
+  <div class="feed-item-body">
+    ♺ <a href="http://twitter.com/ffkp">@ffkp</a>: One step in the shaping of <a href="http://search.twitter.com/search?q=%23FSCONS">#<b>FSCONS</b></a> was our manifesto. Fell free to comment on it! <a href="http://ur1.ca/310qh">http://ur1.ca/310qh</a>  </div>
+
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/ffkp/statuses/30606673106182144">One step in the shaping of #FSCONS was our manifesto. Fell free to comment on it! http://ur1.ca/310qh</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <span class="feed-item-date">27 January, 2011 - 14:42</span>
+  </div>
+
+  <div class="feed-item-body">
+    One step in the shaping of <a href="http://search.twitter.com/search?q=%23FSCONS">#<b>FSCONS</b></a> was our manifesto. Fell free to comment on it! <a href="http://ur1.ca/310qh">http://ur1.ca/310qh</a>  </div>
+
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/t_grote/statuses/29991091965001729">My #FSCONS talk &quot;Centralized Internet Services and Problems of Power&quot; is now up as #WebM http://is.gd/GJYv2g or #torrent http://is.gd/ThZq1g</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <span class="feed-item-date">25 January, 2011 - 21:56</span>
+  </div>
+
+  <div class="feed-item-body">
+    My <a href="http://search.twitter.com/search?q=%23FSCONS">#<b>FSCONS</b></a> talk &quot;Centralized Internet Services and Problems of Power&quot; is now up as <a href="http://search.twitter.com/search?q=%23WebM">#WebM</a> <a href="http://is.gd/GJYv2g">http://is.gd/GJYv2g</a> or <a href="http://search.twitter.com/search?q=%23torrent">#torrent</a> <a href="http://is.gd/ThZq1g">http://is.gd/ThZq1g</a>  </div>
+
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/delfinkatt/statuses/29687745265795072">@barbasoleil jag menar förstås i höst! #fscons är typ i november. Det är en grej för #vrev to say teh least!</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <span class="feed-item-date">25 January, 2011 - 01:51</span>
+  </div>
+
+  <div class="feed-item-body">
+    <a href="http://twitter.com/barbasoleil">@barbasoleil</a> jag menar förstås i höst! <a href="http://search.twitter.com/search?q=%23fscons">#<b>fscons</b></a> är typ i november. Det är en grej för <a href="http://search.twitter.com/search?q=%23vrev">#vrev</a> to say teh least!  </div>
+
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/delfinkatt/statuses/29687494798737408">@barbasoleil Under tiden jag kommer ihåg det. Nästa höst ska du hänga med till Göteborg på #fscons ;) #uteiextremtgodtid</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <span class="feed-item-date">25 January, 2011 - 01:50</span>
+  </div>
+
+  <div class="feed-item-body">
+    <a href="http://twitter.com/barbasoleil">@barbasoleil</a> Under tiden jag kommer ihåg det. Nästa höst ska du hänga med till Göteborg på <a href="http://search.twitter.com/search?q=%23fscons">#<b>fscons</b></a> ;) <a href="http://search.twitter.com/search?q=%23uteiextremtgodtid">#uteiextremtgodtid</a>  </div>
+
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/fear_no_art/statuses/28520079310200832">RT @yacy_search: #fscons 2010 talk video about #YaCy - free content depends on free, decentralized seach - http://vimeo.com/18742908 #anti-censoring</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <span class="feed-item-date">21 January, 2011 - 20:31</span>
+  </div>
+
+  <div class="feed-item-body">
+    RT <a href="http://twitter.com/yacy_search">@yacy_search</a>: <a href="http://search.twitter.com/search?q=%23fscons">#<b>fscons</b></a> 2010 talk video about <a href="http://search.twitter.com/search?q=%23YaCy">#YaCy</a> - free content depends on free, decentralized seach - <a href="http://vimeo.com/18742908">http://vimeo.com/18742908</a> #anti-censoring  </div>
+
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/ffkp/statuses/28371988737163264">@lillmacho Om du har tid och lust får du gärna kika på http://wiki.fscons.org/page/FSCONS_Manifest#FSCONS_Manifesto_v0.9 och tycka saker :)</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <span class="feed-item-date">21 January, 2011 - 10:43</span>
+  </div>
+
+  <div class="feed-item-body">
+    <a href="http://twitter.com/lillmacho">@lillmacho</a> Om du har tid och lust får du gärna kika på <a href="http://wiki.fscons.org/page/FSCONS_Manifest#FSCONS_Manifesto_v0">http://wiki.<b>fscons</b>.org/page/FSCONS_Manifest#FSCONS_Manifesto_v0</a>.9 och tycka saker :)  </div>
+
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/billjohnson82/statuses/27086285021650946">http://www.edu.meisei-u.ac.jp/mt/hide-literacy/archives/2008/06/21_gif.php
+  #java #svg #fscons</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <span class="feed-item-date">17 January, 2011 - 21:34</span>
+  </div>
+
+  <div class="feed-item-body">
+    <a href="http://www.edu.meisei-u.ac.jp/mt/hide-literacy/archives/2008/06/21_gif.php">http://www.edu.meisei-u.ac.jp/mt/hide-literacy/archives/2008/06/21_gif.php</a>
+  <a href="http://search.twitter.com/search?q=%23java">#java</a> <a href="http://search.twitter.com/search?q=%23svg">#svg</a> <a href="http://search.twitter.com/search?q=%23fscons">#<b>fscons</b></a>  </div>
+
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://twitter.com/dclauzel/statuses/25607708476448770">RT @yacy_search: #fscons 2010 talk video about #YaCy - free content depends on free, decentralized seach - http://vimeo.com/18742908 #anti-censoring</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <span class="feed-item-date">13 January, 2011 - 19:38</span>
+  </div>
+
+  <div class="feed-item-body">
+    RT <a href="http://twitter.com/yacy_search">@yacy_search</a>: <a href="http://search.twitter.com/search?q=%23fscons">#<b>fscons</b></a> 2010 talk video about <a href="http://search.twitter.com/search?q=%23YaCy">#YaCy</a> - free content depends on free, decentralized seach - <a href="http://vimeo.com/18742908">http://vimeo.com/18742908</a> #anti-censoring  </div>
+
+
+</div>
+  <div class="item-list"><ul class="pager"><li class="pager-first first"><a href="1.html" title="Go to first page" class="active">« first</a></li>
+<li class="pager-previous"><a href="1%3Fpage=2.html" title="Go to previous page" class="active">‹ previous</a></li>
+<li class="pager-item"><a href="1.html" title="Go to page 1" class="active">1</a></li>
+<li class="pager-item"><a href="1%3Fpage=1.html" title="Go to page 2" class="active">2</a></li>
+<li class="pager-item"><a href="1%3Fpage=2.html" title="Go to page 3" class="active">3</a></li>
+<li class="pager-current">4</li>
+<li class="pager-item"><a href="1%3Fpage=4.html" title="Go to page 5" class="active">5</a></li>
+<li class="pager-item"><a href="1%3Fpage=5.html" title="Go to page 6" class="active">6</a></li>
+<li class="pager-item"><a href="1%3Fpage=6.html" title="Go to page 7" class="active">7</a></li>
+<li class="pager-item"><a href="1%3Fpage=7.html" title="Go to page 8" class="active">8</a></li>
+<li class="pager-next"><a href="1%3Fpage=4.html" title="Go to next page" class="active">next ›</a></li>
+<li class="pager-last last"><a href="1%3Fpage=7.html" title="Go to last page" class="active">last »</a></li>
+</ul></div></div>
+          </div> <!-- /content-content -->
+                            </div> <!-- /content -->
+
+      </div> <!--main -->
+
+              <div id="sidebar" class="column"><div id="sidebar-inner">
+          <div id="block-block-1" class="block block-block unstyled-block">
+		<div class="content"><div class="flattr-box">
+<script type="text/javascript">
+  var flattr_uid = '33868';
+  var flattr_tle = 'FSCONS 2010';
+  var flattr_dsc = '';
+  var flattr_tag = '';
+  var flattr_cat = 'text';
+  var flattr_url = 'http://fscons.org/';
+  var flattr_lng = 'en_GB'</script><script src="http://api.flattr.com/button/load.js" type="text/javascript"></script></div>
+</div>
+</div>
+<div id="block-user-1" class="block block-user unstyled-block">
+	 <h2>Navigation</h2> 	<div class="content"><ul class="menu"><li class="leaf first last"><a href="../../my-schedule.html" title="">My schedule</a></li>
+</ul></div>
+</div>
+<div id="block-aggregator-feed-1" class="block block-aggregator unstyled-block">
+	 <h2>#fscons</h2> 	<div class="content"><div class="item-list"><ul><li class="first"><a href="http://twitter.com/bact/statuses/52449451700260864">rt @fscons: #FSCONS Video: Benjamin Bayart - Designed For Decentralisation: Understanding the Internet (pt 1/3)</a>
+</li>
+<li><a href="http://twitter.com/t_grote/statuses/52306598726598656">New #FSCONS 2010 Video: &quot;GNU social and GNU FM: Empowering Communities&quot; by @mattl http://blip.tv/file/4940690 @fscons #fsf #gnu #autonomous</a>
+</li>
+<li><a href="http://twitter.com/phaleon2/statuses/52127792111947776">RT @t_grote: New #FSCONS 2010 Video uploaded: &quot;Designed For Decentralisation: Understanding the Internet&quot; by @bayartb http://blip.tv/file/4939373 @fscons</a>
+</li>
+<li><a href="http://twitter.com/bayartb/statuses/52121786866876416">RT @t_grote: New #FSCONS 2010 Video uploaded: &quot;Designed For Decentralisation: Understanding the Internet&quot; by @bayartb http://blip.tv/file/4939373 @fscons</a>
+</li>
+<li class="last"><a href="http://twitter.com/t_grote/statuses/52053889943470080">New #FSCONS 2010 Video uploaded: &quot;Designed For Decentralisation: Understanding the Internet&quot; by @bayartb http://blip.tv/file/4939373 @fscons</a>
+</li>
+</ul></div><div class="more-link"><a href="1.html" title="View this feed&#039;s recent news.">more</a></div></div>
+</div>
+        </div></div> <!-- /sidebar -->
+      
+    </div></div> <!-- /main /container -->
+    
+  </div> <!-- /page -->
+  
+  <div id="footer"><div id="footer-inner">
+    <div id="footer-message-left">
+          </div>
+
+      </div></div> <!-- /footer -->
+
+    
+</body>
+</html>
