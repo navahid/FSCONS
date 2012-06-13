@@ -1,0 +1,98 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head profile="http://www.w3.org/2005/10/profile">
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=device-width" />
+      <title>Getting there | My fscons</title>
+      <link rel="icon" 
+            type="image/ico"
+            href="../../favicon.ico"/>
+      <!-- ma template.css -->
+      <link rel="stylesheet" href="../../static/style/typography.css" type="text/css"  media="screen">
+
+      <link rel="stylesheet" href="../../static/style/main.css" type="text/css"  media="screen">
+        <!-- Leaflet CSS --> 
+        <link rel="stylesheet" href="../../static/leaflet/leaflet.css" />
+        <!--[if lte IE 8]><link rel="stylesheet" href="/static/leaflet/leaflet.ie.css" /><![endif]-->
+        
+        
+
+        <!-- jquery -->
+        <script src="../../static/jquery-1.6.4.min.js"></script>
+        <!-- Leaflet JavaScript -->
+        <script src="../../static/leaflet/leaflet.js"></script>
+        <!-- FSCONS maps -->
+        <script>
+          var STATIC_URL = /static/;
+        </script>
+        <script src="../../static/fscons-map.js"></script>
+
+    </head>
+    <body>
+        <div class="header" id="header">
+            <div class="wrapper">
+                <img alt="FSCONS logo" src="../../static/style/logo-small.png" />
+                <h1><a href="../../index.html">My FSCONS</a></h1>
+                <ul class="navigation">
+                    <li><a id="nav_schedule" href="../../schedule/index.html"><span>Schedule</span></a>
+                    <!-- li><a id="nav_manifesto" href="/manifesto/"><span>Manifesto</span></a-->
+                    <li><a id="nav_map" href="../../map/index.html"><span>Map</span></a>
+                    <!-- li><a id="nav_notifications" href="/notifications/"><span>Notifications</span></a-->
+                </ul>
+            </div>
+        </div>
+
+        
+        <div class="wrapper" id="main">
+            
+<h2>Venue(s)</h2>
+<span class="subtitle">Here we are</span>
+
+<div class="content">
+
+<h3>Main venue</h3>
+
+<p>The main venue for the conference is the IT University: Forskningsgången 6, Gothenburg, Sweden.
+
+<figure>
+<img src="../../static/style/photos/lindholmenHlpl600.png" 
+     alt="Photo of Workshop venue entrance"
+     title="Workshop venue entrance" height="280"/>
+<figcaption>Here's a view of the IT university venue building from the bus stop Lindholmen. <span class="copyright">(The photo is licensed under <a href="http://www.flickr.com/photos/43304196@N06/4055451049/">CC-BY-NC</a>)</figcaption>
+</figure> 
+
+<h3><a name="workshops">Workshops venue</a></h3>
+
+<figure> 
+<img src="../../static/style/photos/sprakdata_entrance.png" 
+     alt="Photo of Workshop venue entrance"
+     title="Workshop venue entrance" height="280"/>
+<figcaption>Photo of Workshop venue entrance.</figcaption>
+</figure> 
+
+<p>The venue for the Friday workshops is called “Språkbanken” and is part of Göteborg University, <a href="http://www.svenska.gu.se/english/research/sprakbanken/?languageId=100001&amp;contentId=-1&amp;disableRedirect=true&amp;returnUrl=http%3A%2F%2Fwww.svenska.gu.se%2Fforskning%2Fsprakbanken%2F%3FshowMap%3Dtrue%26mapAlias%3Dsvenskaspraket%26keepArticle%3Dtrue%26mapTitle%3DSpr%25E5kbanken&amp;showMap=true&amp;mapAlias=svenskaspraket&amp;keepArticle=true&amp;mapTitle=Spr%E5kbanken">the Department of Swedish</a>.</p>
+
+<p>The address is Lennart Torstenssonsgatan 6-8, and the area in Gothenburg where it’s located is called Johanneberg.</p>
+
+<p>Here’s a map and directions (by car) to <a href="http://kartor.eniro.se/m/ayjRt">Lennart Torstenssonsgatan 6</a> (courtesy of Eniro).</p>
+
+<p>And if you want to go by public transportation, please <a href="http://ur1.ca/5oovc">try the Västtrafik website</a> (link goes to example travel route from the Central Station). <a href="http://vasttrafik.se/Att-resa/Tidtabeller/?search=18&amp;county=G%C3%96TEBORG&amp;type=23&amp;show=2">Bus number 18</a> (you can take it from Brunnsparken in the center of Gothenburg near the central station) will take you there, and the nearest stop is Vidblicksgatan.</p>
+
+<p>Here’s the <a href="http://vasttrafik.se/TimeTablesExcel/ac2530f9-3277-48d5-99e5-55a12bf9bb4f.pdf">timetable for bus 18 from Brunnsparken towards Johanneberg</a>.</p>
+
+
+<div id="wmap" style="margin:0 10%;width:80%;height:400px;clear:both;"></div>
+<script>
+  $(function() {initmap("wmap", 57.693977, 11.981609);});
+</script>
+
+</div>
+
+
+</div>
+
+        </div>
+        
+    </body>
+</html>
